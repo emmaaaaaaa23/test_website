@@ -1,39 +1,28 @@
-name: Deploy website
+name: Website sanity check
 
 on:
   push:
     branches: ["main"]
+  pull_request:
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  check-static-site:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
+      - name: Verify required website files
+        run: |
+          test -f index.html
+          test -f styles.css
+          test -f app.js
+          test -f data/news.json
+          test -f scripts/fetch-news.js
 
-      - name: Upload static site
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Validate saved news JSON
+        run: node -e "const data = require('./data/news.json'); if (!Array.isArray(data.articles)) throw new Error('data/news.json must contain an articles array'); console.log('Validated ' + data.articles.length + ' saved articles.');"
