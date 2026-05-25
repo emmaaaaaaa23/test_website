@@ -4,25 +4,16 @@
   "sourceCount": 4,
   "articles": [
     {
-      "title": "Semiconductor news feed ready for hourly updates",
-      "url": "https://github.com/emmaaaaaaa23/test_website/actions",
-      "summary": "The scheduled workflow will refresh this saved data file every hour from curated RSS feeds covering chips, foundries, AI hardware, memory, supply chain, and policy.",
-      "publishedAt": "2026-05-25T00:00:00.000Z",
-      "source": "Dashboard setup",
-      "category": "Semiconductors",
-      "keywords": ["semiconductor", "chip", "supply chain"]
-    },
-    {
-      "title": "Foundry and manufacturing tracking enabled",
+      "title": "Foundry and manufacturing coverage",
       "url": "https://semiengineering.com/",
-      "summary": "Sources include semiconductor engineering and hardware publications for foundry, fab, lithography, wafer, and advanced packaging coverage.",
+      "summary": "This feed tracks foundry, fab, lithography, wafer, process node, and advanced packaging coverage from semiconductor-focused publications.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
       "source": "Semiconductor Engineering",
       "category": "Foundry",
       "keywords": ["foundry", "fab", "wafer", "packaging"]
     },
     {
-      "title": "AI hardware and datacenter silicon tracking enabled",
+      "title": "AI hardware and datacenter silicon coverage",
       "url": "https://www.hpcwire.com/",
       "summary": "The dashboard filters for AI chip, GPU, HBM, datacenter, and accelerator terms to surface semiconductor stories tied to AI infrastructure.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
@@ -31,13 +22,22 @@
       "keywords": ["gpu", "ai chip", "hbm", "datacenter"]
     },
     {
-      "title": "Policy and supply chain tracking enabled",
+      "title": "Policy and supply chain coverage",
       "url": "https://www.reuters.com/technology/",
       "summary": "The updater watches for export controls, trade policy, subsidies, supply chain shifts, and regional technology market news.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
       "source": "Reuters Technology",
       "category": "Policy and Supply Chain",
       "keywords": ["export control", "trade", "supply chain"]
+    },
+    {
+      "title": "Processor and hardware coverage",
+      "url": "https://www.tomshardware.com/",
+      "summary": "The feed includes processor, GPU, server hardware, memory, and PC component reporting from hardware publications.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "source": "Tom's Hardware",
+      "category": "Hardware",
+      "keywords": ["processor", "gpu", "memory", "chip"]
     }
   ]
 }
