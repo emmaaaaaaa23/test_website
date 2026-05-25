@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Semiconductor News Watch</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="topbar" aria-label="Dashboard overview">
+        <div>
+          <p class="eyebrow">Semiconductor intelligence</p>
+          <h1>Industry News Watch</h1>
+        </div>
+        <div class="status-panel" aria-live="polite">
+          <span class="status-dot"></span>
+          <div>
+            <span class="status-label">Last update</span>
+            <strong id="lastUpdated">Loading...</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="News controls">
+        <label class="search-box">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Company, foundry, AI chip, policy..." />
+        </label>
+        <label>
+          <span>Category</span>
+          <select id="categoryFilter">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+        <label>
+          <span>Source</span>
+          <select id="sourceFilter">
+            <option value="all">All sources</option>
+          </select>
+        </label>
+        <label>
+          <span>Sort</span>
+          <select id="sortSelect">
+            <option value="newest">Newest first</option>
+            <option value="source">Source</option>
+            <option value="category">Category</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="summary-grid" aria-label="News summary">
+        <article>
+          <span>Total stories</span>
+          <strong id="totalStories">0</strong>
+        </article>
+        <article>
+          <span>Sources</span>
+          <strong id="totalSources">0</strong>
+        </article>
+        <article>
+          <span>Categories</span>
+          <strong id="totalCategories">0</strong>
+        </article>
+        <article>
+          <span>Refresh cadence</span>
+          <strong>Hourly</strong>
+        </article>
+      </section>
+
+      <section class="news-area" aria-label="Saved industry news">
+        <div class="section-heading">
+          <h2>Saved News Feed</h2>
+          <span id="resultCount">0 results</span>
+        </div>
+        <div id="newsList" class="news-list"></div>
+        <p id="emptyState" class="empty-state" hidden>No matching stories found.</p>
+      </section>
+    </main>
+
+    <template id="articleTemplate">
+      <article class="news-card">
+        <div class="card-meta">
+          <span class="category"></span>
+          <span class="source"></span>
+          <time></time>
+        </div>
+        <h3><a target="_blank" rel="noopener noreferrer"></a></h3>
+        <p class="summary"></p>
+        <div class="keyword-row"></div>
+      </article>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
