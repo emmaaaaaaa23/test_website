@@ -1,43 +1,71 @@
 {
   "updatedAt": "2026-05-25T00:00:00.000Z",
-  "articleCount": 4,
-  "sourceCount": 4,
+  "articleCount": 7,
+  "sourceCount": 1,
+  "searchFeedCount": 7,
   "articles": [
     {
-      "title": "Foundry and manufacturing coverage",
-      "url": "https://semiengineering.com/",
-      "summary": "This feed tracks foundry, fab, lithography, wafer, process node, and advanced packaging coverage from semiconductor-focused publications.",
+      "title": "Live semiconductor news search",
+      "url": "https://news.google.com/search?q=semiconductor%20OR%20chip%20OR%20chipmaker&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for semiconductor, chip, and chipmaker articles. The hourly updater expands this into individual saved articles.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
-      "source": "Semiconductor Engineering",
-      "category": "Foundry",
-      "keywords": ["foundry", "fab", "wafer", "packaging"]
+      "source": "Google News Search",
+      "category": "Semiconductors",
+      "keywords": ["semiconductor", "chip", "chipmaker"]
     },
     {
-      "title": "AI hardware and datacenter silicon coverage",
-      "url": "https://www.hpcwire.com/",
-      "summary": "The dashboard filters for AI chip, GPU, HBM, datacenter, and accelerator terms to surface semiconductor stories tied to AI infrastructure.",
+      "title": "Live AI hardware news search",
+      "url": "https://news.google.com/search?q=AI%20chip%20OR%20GPU%20OR%20accelerator%20OR%20HBM%20OR%20datacenter%20silicon&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for AI chips, GPUs, accelerators, HBM, and datacenter silicon.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
-      "source": "HPCwire",
+      "source": "Google News Search",
       "category": "AI Hardware",
-      "keywords": ["gpu", "ai chip", "hbm", "datacenter"]
+      "keywords": ["ai chip", "gpu", "hbm", "datacenter"]
     },
     {
-      "title": "Policy and supply chain coverage",
-      "url": "https://www.reuters.com/technology/",
-      "summary": "The updater watches for export controls, trade policy, subsidies, supply chain shifts, and regional technology market news.",
+      "title": "Live foundry and fab news search",
+      "url": "https://news.google.com/search?q=TSMC%20OR%20Samsung%20Foundry%20OR%20Intel%20Foundry%20OR%20wafer%20fab&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for foundry, wafer fab, TSMC, Samsung Foundry, and Intel Foundry coverage.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
-      "source": "Reuters Technology",
+      "source": "Google News Search",
+      "category": "Foundry",
+      "keywords": ["tsmc", "foundry", "fab", "wafer"]
+    },
+    {
+      "title": "Live memory and HBM news search",
+      "url": "https://news.google.com/search?q=Micron%20OR%20SK%20Hynix%20OR%20Samsung%20memory%20OR%20DRAM%20OR%20NAND%20OR%20HBM&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for Micron, SK Hynix, Samsung memory, DRAM, NAND, and HBM articles.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "source": "Google News Search",
+      "category": "Memory",
+      "keywords": ["memory", "dram", "nand", "hbm"]
+    },
+    {
+      "title": "Live chip equipment news search",
+      "url": "https://news.google.com/search?q=ASML%20OR%20lithography%20OR%20chip%20equipment%20OR%20semiconductor%20tools&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for ASML, lithography, semiconductor equipment, and chipmaking tools.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "source": "Google News Search",
+      "category": "Equipment",
+      "keywords": ["asml", "lithography", "chip equipment"]
+    },
+    {
+      "title": "Live policy and supply chain news search",
+      "url": "https://news.google.com/search?q=chip%20export%20control%20OR%20CHIPS%20Act%20OR%20semiconductor%20supply%20chain&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for chip export controls, CHIPS Act developments, trade, and semiconductor supply chain news.",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "source": "Google News Search",
       "category": "Policy and Supply Chain",
-      "keywords": ["export control", "trade", "supply chain"]
+      "keywords": ["export control", "chips act", "supply chain", "trade"]
     },
     {
-      "title": "Processor and hardware coverage",
-      "url": "https://www.tomshardware.com/",
-      "summary": "The feed includes processor, GPU, server hardware, memory, and PC component reporting from hardware publications.",
+      "title": "Live EDA and chip design news search",
+      "url": "https://news.google.com/search?q=Synopsys%20OR%20Cadence%20OR%20EDA%20OR%20chip%20design%20software&hl=en-US&gl=US&ceid=US%3Aen",
+      "summary": "A broad internet news search for EDA, Synopsys, Cadence, IP, and chip design software coverage.",
       "publishedAt": "2026-05-25T00:00:00.000Z",
-      "source": "Tom's Hardware",
-      "category": "Hardware",
-      "keywords": ["processor", "gpu", "memory", "chip"]
+      "source": "Google News Search",
+      "category": "EDA and IP",
+      "keywords": ["eda", "synopsys", "cadence", "chip design"]
     }
   ]
 }
