@@ -10,13 +10,13 @@
   --accent-strong: #0b5f59;
   --amber: #b7791f;
   --blue: #2563eb;
+  --red: #b42318;
+  --green: #047857;
   --radius: 8px;
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
   margin: 0;
@@ -51,12 +51,7 @@ body {
   text-transform: uppercase;
 }
 
-h1,
-h2,
-h3,
-p {
-  margin-top: 0;
-}
+h1, h2, h3, p { margin-top: 0; }
 
 h1 {
   margin-bottom: 0;
@@ -85,11 +80,7 @@ h1 {
   box-shadow: 0 0 0 5px rgba(56, 189, 248, 0.16);
 }
 
-.status-label {
-  display: block;
-  color: #b8c4ce;
-  font-size: 0.8rem;
-}
+.status-label { display: block; color: #b8c4ce; font-size: 0.8rem; }
 
 .controls {
   display: grid;
@@ -106,8 +97,7 @@ label {
   font-weight: 700;
 }
 
-input,
-select {
+input, select {
   width: 100%;
   min-height: 44px;
   border: 1px solid var(--line);
@@ -118,29 +108,27 @@ select {
   font: inherit;
 }
 
-input:focus,
-select:focus {
+input:focus, select:focus {
   outline: 3px solid rgba(15, 118, 110, 0.18);
   border-color: var(--accent);
 }
 
-.summary-grid {
+.summary-grid, .market-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 12px;
   margin-bottom: 22px;
 }
 
-.summary-grid article,
-.news-card {
+.market-grid { grid-template-columns: 1fr 1fr; }
+
+.summary-grid article, .news-card, .analysis-panel {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
 }
 
-.summary-grid article {
-  padding: 16px;
-}
+.summary-grid article, .analysis-panel, .news-card { padding: 16px; }
 
 .summary-grid span {
   display: block;
@@ -155,9 +143,14 @@ select:focus {
   font-size: 1.65rem;
 }
 
-.news-area {
-  min-height: 360px;
+.analysis-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(300px, 0.75fr);
+  gap: 12px;
+  margin-bottom: 22px;
 }
+
+.market-area, .news-area { margin-top: 22px; min-height: 220px; }
 
 .section-heading {
   display: flex;
@@ -167,25 +160,67 @@ select:focus {
   margin-bottom: 12px;
 }
 
-.section-heading h2 {
-  margin-bottom: 0;
-  font-size: 1.25rem;
-}
+.compact-heading { margin-bottom: 10px; }
+.section-heading h2 { margin-bottom: 0; font-size: 1.25rem; }
+.section-heading span { color: var(--muted); font-size: 0.9rem; font-weight: 700; }
 
-.section-heading span {
-  color: var(--muted);
-  font-size: 0.9rem;
-  font-weight: 700;
-}
+.analysis-panel h3 { margin-bottom: 12px; font-size: 1rem; }
+.briefing-text { color: #33404d; line-height: 1.58; margin-bottom: 14px; }
 
-.news-list {
+.highlight-list, .signal-list, .theme-list, .news-list {
   display: grid;
   gap: 12px;
 }
 
-.news-card {
-  padding: 18px;
+.highlight-item, .signal-card {
+  display: grid;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid #e3e8ee;
+  border-radius: var(--radius);
+  background: #fbfcfd;
 }
+
+.highlight-item a, .news-card a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.highlight-item a:hover, .news-card a:hover {
+  color: var(--accent-strong);
+  text-decoration: underline;
+}
+
+.highlight-reason, .signal-rationale, .signal-risk {
+  margin: 0;
+  color: #465461;
+  line-height: 1.45;
+}
+
+.theme-list { grid-template-columns: 1fr; }
+.theme-chip {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 9px 10px;
+  border-radius: var(--radius);
+  background: #f3f7f7;
+  color: var(--accent-strong);
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+.signal-card header {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+}
+
+.signal-card strong { font-size: 1rem; }
+.signal-card small { color: var(--muted); font-weight: 700; }
+.signal-score { color: var(--green); font-weight: 800; }
+.signal-risk { color: #6b4f12; }
 
 .card-meta {
   display: flex;
@@ -198,9 +233,7 @@ select:focus {
   font-weight: 700;
 }
 
-.category,
-.source,
-.keyword-row span {
+.category, .source, .importance, .keyword-row span {
   display: inline-flex;
   align-items: center;
   min-height: 24px;
@@ -208,50 +241,16 @@ select:focus {
   border-radius: 999px;
 }
 
-.category {
-  background: rgba(15, 118, 110, 0.12);
-  color: var(--accent-strong);
-}
+.category { background: rgba(15, 118, 110, 0.12); color: var(--accent-strong); }
+.source { background: rgba(37, 99, 235, 0.11); color: #1d4ed8; }
+.importance { background: #fff1f0; color: var(--red); }
+.importance.medium { background: #fff7ed; color: var(--amber); }
+.importance.low { background: #eef2f7; color: var(--muted); }
 
-.source {
-  background: rgba(37, 99, 235, 0.11);
-  color: #1d4ed8;
-}
-
-.news-card h3 {
-  margin-bottom: 8px;
-  font-size: 1.08rem;
-  line-height: 1.32;
-}
-
-.news-card a {
-  color: var(--text);
-  text-decoration: none;
-}
-
-.news-card a:hover {
-  color: var(--accent-strong);
-  text-decoration: underline;
-}
-
-.summary {
-  margin-bottom: 12px;
-  color: #3f4a55;
-  line-height: 1.55;
-}
-
-.keyword-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
-.keyword-row span {
-  background: #fff7ed;
-  color: var(--amber);
-  font-size: 0.76rem;
-  font-weight: 700;
-}
+.news-card h3 { margin-bottom: 8px; font-size: 1.08rem; line-height: 1.32; }
+.summary { margin-bottom: 12px; color: #3f4a55; line-height: 1.55; }
+.keyword-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.keyword-row span { background: #fff7ed; color: var(--amber); font-size: 0.76rem; font-weight: 700; }
 
 .empty-state {
   padding: 28px;
@@ -262,36 +261,16 @@ select:focus {
   text-align: center;
 }
 
-@media (max-width: 860px) {
-  .topbar,
-  .section-heading {
-    flex-direction: column;
-  }
-
-  .controls,
-  .summary-grid {
-    grid-template-columns: 1fr 1fr;
-  }
+@media (max-width: 900px) {
+  .topbar, .section-heading { flex-direction: column; }
+  .controls, .summary-grid, .analysis-grid, .market-grid { grid-template-columns: 1fr 1fr; }
+  .wide-panel { grid-column: 1 / -1; }
 }
 
-@media (max-width: 580px) {
-  .shell {
-    width: min(100% - 20px, 1180px);
-    padding-top: 16px;
-  }
-
-  .topbar,
-  .news-card,
-  .summary-grid article {
-    padding: 14px;
-  }
-
-  .controls,
-  .summary-grid {
-    grid-template-columns: 1fr;
-  }
-
-  h1 {
-    font-size: 2.35rem;
-  }
+@media (max-width: 620px) {
+  .shell { width: min(100% - 20px, 1180px); padding-top: 16px; }
+  .topbar, .news-card, .summary-grid article, .analysis-panel { padding: 14px; }
+  .controls, .summary-grid, .analysis-grid, .market-grid { grid-template-columns: 1fr; }
+  .wide-panel { grid-column: auto; }
+  h1 { font-size: 2.35rem; }
 }
