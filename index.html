@@ -42,6 +42,7 @@
         <label>
           <span>Sort</span>
           <select id="sortSelect">
+            <option value="importance">Importance first</option>
             <option value="newest">Newest first</option>
             <option value="source">Source</option>
             <option value="category">Category</option>
@@ -59,13 +60,49 @@
           <strong id="totalSources">0</strong>
         </article>
         <article>
-          <span>Categories</span>
-          <strong id="totalCategories">0</strong>
+          <span>Important</span>
+          <strong id="importantStories">0</strong>
         </article>
         <article>
           <span>Refresh cadence</span>
           <strong>Hourly</strong>
         </article>
+      </section>
+
+      <section class="analysis-grid" aria-label="Filtered news analysis">
+        <article class="analysis-panel wide-panel">
+          <div class="section-heading compact-heading">
+            <h2>Important News Filter</h2>
+            <span id="highlightCount">0 highlighted</span>
+          </div>
+          <div id="highlightList" class="highlight-list"></div>
+        </article>
+
+        <article class="analysis-panel">
+          <div class="section-heading compact-heading">
+            <h2>News Summary</h2>
+            <span>Auto generated</span>
+          </div>
+          <p id="summaryText" class="briefing-text">Loading summary...</p>
+          <div id="themeList" class="theme-list"></div>
+        </article>
+      </section>
+
+      <section class="market-area" aria-label="News-based market signals">
+        <div class="section-heading">
+          <h2>News-Based Market Signals</h2>
+          <span>Watchlist, not financial advice</span>
+        </div>
+        <div class="market-grid">
+          <article class="analysis-panel">
+            <h3>US Market</h3>
+            <div id="usSignals" class="signal-list"></div>
+          </article>
+          <article class="analysis-panel">
+            <h3>China Market</h3>
+            <div id="chinaSignals" class="signal-list"></div>
+          </article>
+        </div>
       </section>
 
       <section class="news-area" aria-label="Saved industry news">
@@ -81,6 +118,7 @@
     <template id="articleTemplate">
       <article class="news-card">
         <div class="card-meta">
+          <span class="importance"></span>
           <span class="category"></span>
           <span class="source"></span>
           <time></time>
