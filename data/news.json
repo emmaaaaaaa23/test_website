@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-14T04:57:31.662Z",
+  "updatedAt": "2026-08-14T06:23:50.674Z",
   "articleCount": 120,
-  "sourceCount": 65,
+  "sourceCount": 67,
   "searchFeedCount": 7,
-  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are Memory (46), AI Hardware (43), Foundry (20). 18 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
+  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are Memory (45), AI Hardware (42), Foundry (22). 19 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
   "themes": [
     {
       "name": "Memory",
-      "count": 46
+      "count": 45
     },
     {
       "name": "AI Hardware",
-      "count": 43
+      "count": 42
     },
     {
       "name": "Foundry",
-      "count": 20
+      "count": 22
     },
     {
       "name": "Policy and Supply Chain",
-      "count": 5
+      "count": 4
     },
     {
       "name": "Asia Supply Chain",
@@ -46,6 +46,16 @@
       "importance": "High",
       "importanceScore": 14,
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
+      "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+      "source": "finance.biggo.com",
+      "category": "Foundry",
+      "publishedAt": "2026-08-13T23:25:00.000Z",
+      "importance": "High",
+      "importanceScore": 13,
+      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
       "title": "Samsung Sold Out Every Gigabit of Its 2026 HBM4 Memory Chips",
@@ -96,16 +106,6 @@
       "importance": "High",
       "importanceScore": 13,
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
-    },
-    {
-      "title": "Memory Stocks Open Flat And Then Soar: Micron Up 6%, SK Hynix 8%, SanDisk Up 15%. Here’s What’s Driving the Move.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeVV2NGFlVzBLYTA2ZkdrUTM0cFUzclBTWWpUTFZjb3V3TnREc19CTGczdzlJY2tMdjVqZzdvVVhOZzFLdVpoSkNTYkh4eFNrbkI1OWpNbml4Z1pfZndkeTJxVlowN1RxNHFMVGRrWF9vWFh0SEhKV1U1NFBrZWYyYk9LM19vclFxZWt2U0o4S2FIWnNqVFJXUg?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Memory",
-      "publishedAt": "2026-08-13T16:50:54.000Z",
-      "importance": "High",
-      "importanceScore": 12,
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     }
   ],
   "marketSignals": {
@@ -115,8 +115,8 @@
         "ticker": "SNPS",
         "name": "Synopsys",
         "signal": "Strong watch",
-        "score": 576,
-        "rationale": "62 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
+        "score": 565,
+        "rationale": "60 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
         "relatedStories": [
           {
             "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
@@ -139,8 +139,8 @@
         "ticker": "MU",
         "name": "Micron",
         "signal": "Strong watch",
-        "score": 548,
-        "rationale": "57 related stories; strongest link: [News] Samsung, SK hynix’s HBM4 Push Puts HBM, General Memory Pricing in the Spotlight for 2H Earnings",
+        "score": 529,
+        "rationale": "55 related stories; strongest link: [News] Samsung, SK hynix’s HBM4 Push Puts HBM, General Memory Pricing in the Spotlight for 2H Earnings",
         "relatedStories": [
           {
             "title": "[News] Samsung, SK hynix’s HBM4 Push Puts HBM, General Memory Pricing in the Spotlight for 2H Earnings",
@@ -163,8 +163,8 @@
         "ticker": "AMD",
         "name": "AMD",
         "signal": "Strong watch",
-        "score": 251,
-        "rationale": "26 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
+        "score": 262,
+        "rationale": "27 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
         "relatedStories": [
           {
             "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
@@ -179,7 +179,7 @@
           {
             "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlFWRkVReGdqVWV5djZtVWt2UDdGNEtTN0F2azNVWlVvWHloTWZSa2tYNHdWQjlDbHZjNjB1R0gzWnp5ME1MWW5JZXB2aUVkbTdnUjFSbjJYSkpBRHVNaG1rSkoxbndNZldEbzVQcjViZGl6eWdhWlZ0ZkZPcnBKWkZCa240eEl5S0E?oc=5",
-            "source": "TechStory"
+            "source": "techstory.in"
           }
         ]
       },
@@ -187,9 +187,14 @@
         "ticker": "TSM",
         "name": "TSMC ADR",
         "signal": "Strong watch",
-        "score": 146,
-        "rationale": "15 related stories; strongest link: Samsung Joins TSMC in Stalling ASML’s High NA EUV Rollout, Pushing the Costly Machines to 1nm Chips",
+        "score": 159,
+        "rationale": "16 related stories; strongest link: TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
         "relatedStories": [
+          {
+            "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+            "source": "finance.biggo.com"
+          },
           {
             "title": "Samsung Joins TSMC in Stalling ASML’s High NA EUV Rollout, Pushing the Costly Machines to 1nm Chips",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzAtTHNRMHRMUWNYdzNKdVAtRlAtdWhsMlNtNDNCTTFjNmdORTRpUDVCN0prT25zSVVoZEN1bDVMMzhQZEtUQnd2dS11MTlydTBwd1J0UXc1ZTA4SS1PbE1PSTRNNmlZYzJ1Ri1rallYd1E4eUlac1Y4THA4NU5sTWoyVF9XMmtTbjF0V3otY1FwbDNYMVhxbktINGx6TWFjTjBzdHQxRUtMWnUtWFNjQkNndHBDenBTaDg40gHAAUFVX3lxTE1NVkRkMUlOcEROSGJhVm1SQ1RSTllXUDE1b0diUUQ2NmJWYlNZTGVBdVpxdzRjMlk5cjh5OHgzT0RseXI5WXZ5MUs0WFF2TnJKZkpYNXFjZUJxM3EyX0JCc3RidXY1dzJNb0RpLWNiNlBvVW1ua0ZweU9JNU9jVTFNQnV6OXRkeG5DVUVNUFM4R1BXRC1iSFVWUnJCMEZRWDFBUzRFektJNU9nZDI1MDd3alkxbUtCNHNHY2gwM2JZUA?oc=5",
@@ -199,11 +204,6 @@
             "title": "Samsung Delays High-NA EUV Adoption Until 2030 for 1 nm Node",
             "url": "https://www.techpowerup.com/351507/samsung-delays-high-na-euv-adoption-until-2030-for-1-nm-node",
             "source": "TechPowerUp"
-          },
-          {
-            "title": "TSMC and Sony team up, China's AI stocks swing",
-            "url": "https://asia.nikkei.com/techasia/tsmc-and-sony-team-up-china-s-ai-stocks-swing",
-            "source": "Nikkei Asia Technology"
           }
         ]
       },
@@ -211,8 +211,8 @@
         "ticker": "NVDA",
         "name": "Nvidia",
         "signal": "Strong watch",
-        "score": 143,
-        "rationale": "15 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
+        "score": 127,
+        "rationale": "13 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
         "relatedStories": [
           {
             "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
@@ -222,7 +222,7 @@
           {
             "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlFWRkVReGdqVWV5djZtVWt2UDdGNEtTN0F2azNVWlVvWHloTWZSa2tYNHdWQjlDbHZjNjB1R0gzWnp5ME1MWW5JZXB2aUVkbTdnUjFSbjJYSkpBRHVNaG1rSkoxbndNZldEbzVQcjViZGl6eWdhWlZ0ZkZPcnBKWkZCa240eEl5S0E?oc=5",
-            "source": "TechStory"
+            "source": "techstory.in"
           },
           {
             "title": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst",
@@ -235,8 +235,8 @@
         "ticker": "INTC",
         "name": "Intel",
         "signal": "Strong watch",
-        "score": 110,
-        "rationale": "12 related stories; strongest link: NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst",
+        "score": 127,
+        "rationale": "14 related stories; strongest link: NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst",
         "relatedStories": [
           {
             "title": "NVIDIA Earnings Preview August 2026: AI Chip Leader's Next Catalyst",
@@ -244,14 +244,14 @@
             "source": "Intellectia AI"
           },
           {
+            "title": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGtwc3NlUWppV3BTMkh6eU1JazlWS2FQcG5TeHpUUjlDdF9EMGlmemxVTlViMlBwbDFfcnZqNmFLQjY1QjFuWE1DWnFjRjc1UTdnR29hVkk1MFdaQlpTR0NwLUZjaEpxYTJfOS10eWVHd0VCNTBySVduQmtiMkQzZWFpNFc1RUJDU1dSMTVyTWp3cW8?oc=5",
+            "source": "Business Insider"
+          },
+          {
             "title": "Micron says it's the only chipmaker building memory fabs in US as Samsung, SK hynix expand investments",
             "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFVDdjS3BjRTN0MU9kczhLVlBMYURsR1J4SF9zVENKQ01MZjl4UnhGcU9uWFhRUEhBNy16VThUUldobFBHY2pfdmNULXdic0N4RDNUcG9odw?oc=5",
             "source": "헤럴드경제"
-          },
-          {
-            "title": "Wafer Fabrication Equipment Market Study Highlights AI Chip",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUMzNjBtTTdhTkVVTHcwQ010cFY5TW9pMlE2SEk2akZ3NUdEMldSS3JENFhpYUpWV2ZuUlpONk1za25pazBmeHJ2NF95VXl6YmFJcEx5RGFhaXIyRmk3YWN2VV9BX3VpV0M4TE5NR3lod2xzZ0NaaU9XMUV5R20tUllacGxkSkdYRHRReHRmd2lIa3RrTXJqN3NLbw?oc=5",
-            "source": "openPR.com"
           }
         ]
       }
@@ -261,8 +261,8 @@
         "ticker": "688256.SS",
         "name": "Cambricon",
         "signal": "Strong watch",
-        "score": 243,
-        "rationale": "25 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
+        "score": 254,
+        "rationale": "26 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
         "relatedStories": [
           {
             "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
@@ -277,7 +277,7 @@
           {
             "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlFWRkVReGdqVWV5djZtVWt2UDdGNEtTN0F2azNVWlVvWHloTWZSa2tYNHdWQjlDbHZjNjB1R0gzWnp5ME1MWW5JZXB2aUVkbTdnUjFSbjJYSkpBRHVNaG1rSkoxbndNZldEbzVQcjViZGl6eWdhWlZ0ZkZPcnBKWkZCa240eEl5S0E?oc=5",
-            "source": "TechStory"
+            "source": "techstory.in"
           }
         ]
       },
@@ -285,8 +285,8 @@
         "ticker": "Huawei supply chain",
         "name": "Huawei-related chip supply chain",
         "signal": "Strong watch",
-        "score": 229,
-        "rationale": "26 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
+        "score": 237,
+        "rationale": "27 related stories; strongest link: Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
         "relatedStories": [
           {
             "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales",
@@ -309,9 +309,14 @@
         "ticker": "600584.SS",
         "name": "JCET",
         "signal": "Strong watch",
-        "score": 29,
-        "rationale": "3 related stories; strongest link: Applied Materials(AMAT) Earnings Preview AI Chips HBM and Advanced Packaging in Focus",
+        "score": 35,
+        "rationale": "3 related stories; strongest link: TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
         "relatedStories": [
+          {
+            "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+            "source": "finance.biggo.com"
+          },
           {
             "title": "Applied Materials(AMAT) Earnings Preview AI Chips HBM and Advanced Packaging in Focus",
             "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTkxPeG5Ob0pKTllaS3AtbG55Y2U3UGhXNE91OGVoWll1NFNVbHppT0NnbV83cDJ1amdFVi1GNks1bTgwa29tei02dzBscFNodUFGV3dvNEJ3MjNCNzF1N1hHVWlVdzQzM09OSzRQd2pGcEx5cXl1YUJHaldvYUdySno3bVliS3k1Tkp4YUF3YmRSdTloZVRqQTY4eXNjVEpxZWx0eXRhNU1rUFFWdi0xemRZUmVVcU5TRDlzaHR0VWdSZnZ5NkNyMjZsLWJBTWVxbk80TQ?oc=5",
@@ -321,11 +326,6 @@
             "title": "TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029",
             "url": "https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029",
             "source": "TechPowerUp"
-          },
-          {
-            "title": "SK hynix to break ground on $3.9b Indiana chip packaging plant this month",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uWDhiT1dFSVhTR25PNlBVYVZsUUVMQkFvSTFwSlZfMDFTYmFQRVh5VkV3S1ZuMW5YUDIwS3ZMVEM5TW5ReGdkUkVCVFp2ODNfVThDTzIzWQ?oc=5",
-            "source": "The Korea Herald"
           }
         ]
       },
@@ -416,6 +416,23 @@
       "importanceScore": 14,
       "importance": "High",
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
+      "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+      "summary": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production &nbsp;&nbsp; finance.biggo.com",
+      "publishedAt": "2026-08-13T23:25:00.000Z",
+      "source": "finance.biggo.com",
+      "category": "Foundry",
+      "keywords": [
+        "tsmc",
+        "samsung",
+        "packaging",
+        "advanced packaging"
+      ],
+      "importanceScore": 13,
+      "importance": "High",
+      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
       "title": "Samsung Sold Out Every Gigabit of Its 2026 HBM4 Memory Chips",
@@ -524,9 +541,9 @@
     {
       "title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlFWRkVReGdqVWV5djZtVWt2UDdGNEtTN0F2azNVWlVvWHloTWZSa2tYNHdWQjlDbHZjNjB1R0gzWnp5ME1MWW5JZXB2aUVkbTdnUjFSbjJYSkpBRHVNaG1rSkoxbndNZldEbzVQcjViZGl6eWdhWlZ0ZkZPcnBKWkZCa240eEl5S0E?oc=5",
-      "summary": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says &nbsp;&nbsp; TechStory",
+      "summary": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says &nbsp;&nbsp; techstory.in",
       "publishedAt": "2026-08-13T15:58:49.000Z",
-      "source": "TechStory",
+      "source": "techstory.in",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -540,9 +557,9 @@
     {
       "title": "Can Micron's AI Memory Focus Help It Outpace SK Hynix and Sandisk?",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVFN2YnNZamxqZlNYSEZZckFzNU0zNFdHXzFFV0k3NG4wam1VUXlJclRySzBYOTZ4Ykk2WTZfRjFOYTVHNGE2clVGNHgzYzdhS0htcDNOVlN2bUVIWEI3OFcxZE5LZ0xrbmhiTXNBNG16VUZfbWNvTG5tcjNxVWJKcG1jSUVlWG94bHdBRENoTk9zWjFsbnpqc1lXNUwtY1RzNWhSTTBMek9XVDh1QnYwa3RVal9YS2JvRjVnVlZDOHhWejY4WXhZclZWVVdTdWZOaXpNTndlWHpRdzFIdF9nTQ?oc=5",
-      "summary": "Can Micron's AI Memory Focus Help It Outpace SK Hynix and Sandisk? &nbsp;&nbsp; theglobeandmail.com",
+      "summary": "Can Micron's AI Memory Focus Help It Outpace SK Hynix and Sandisk? &nbsp;&nbsp; The Globe and Mail",
       "publishedAt": "2026-08-13T15:46:44.000Z",
-      "source": "theglobeandmail.com",
+      "source": "The Globe and Mail",
       "category": "Memory",
       "keywords": [
         "micron",
@@ -573,9 +590,9 @@
     {
       "title": "Silicon Wafer Market 2026 Accelerates as AI Chips, HBM and U.S. 300mm Capacity Reshape Semiconductor Supply",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQck5wY2hqWU5URUEydmtwUlVnS25UZ0c2enlIOWJSc1d6V0RSWmpOQkpNeWpLWlBZSDcxOGhaZVlMUXlMM29wR0RyLVdnSzY4WGtxZTFuejg3QVZ4cFEzQ1dFU0ZlTUI2UXVwcXVWNTFYekxzM3ZQLVhBNno5UUpvRXBmb3hTZmJSMTlCcXktcG1HbGloTmlHdDJZa09udw?oc=5",
-      "summary": "Silicon Wafer Market 2026 Accelerates as AI Chips, HBM and U.S. 300mm Capacity Reshape Semiconductor Supply &nbsp;&nbsp; openPR.com",
+      "summary": "Silicon Wafer Market 2026 Accelerates as AI Chips, HBM and U.S. 300mm Capacity Reshape Semiconductor Supply &nbsp;&nbsp; openpr.com",
       "publishedAt": "2026-08-13T10:37:42.000Z",
-      "source": "openPR.com",
+      "source": "openpr.com",
       "category": "AI Hardware",
       "keywords": [
         "semiconductor",
@@ -698,7 +715,7 @@
       "title": "TSMC and Sony team up, China's AI stocks swing",
       "url": "https://asia.nikkei.com/techasia/tsmc-and-sony-team-up-china-s-ai-stocks-swing",
       "summary": "TSMC and Sony team up, China's AI stocks swing",
-      "publishedAt": "2026-08-14T04:57:30.894Z",
+      "publishedAt": "2026-08-14T06:23:50.008Z",
       "source": "Nikkei Asia Technology",
       "category": "Foundry",
       "keywords": [
@@ -707,6 +724,23 @@
       "importanceScore": 11,
       "importance": "Medium",
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+    },
+    {
+      "title": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGtwc3NlUWppV3BTMkh6eU1JazlWS2FQcG5TeHpUUjlDdF9EMGlmemxVTlViMlBwbDFfcnZqNmFLQjY1QjFuWE1DWnFjRjc1UTdnR29hVkk1MFdaQlpTR0NwLUZjaEpxYTJfOS10eWVHd0VCNTBySVduQmtiMkQzZWFpNFc1RUJDU1dSMTVyTWp3cW8?oc=5",
+      "summary": "China's hottest AI chip stock is now one of the world's most valuable chipmakers — rivaling Intel &nbsp;&nbsp; Business Insider",
+      "publishedAt": "2026-08-14T05:53:47.000Z",
+      "source": "Business Insider",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "chipmaker",
+        "intel",
+        "ai chip"
+      ],
+      "importanceScore": 11,
+      "importance": "Medium",
+      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
       "title": "SK Group's Chairman Isn't Worried About Nvidia Dependence: Is That Why SKHY Is Up 8%? SK Hynix Chairman S",
@@ -808,9 +842,9 @@
     {
       "title": "Wafer Fabrication Equipment Market Study Highlights AI Chip",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUMzNjBtTTdhTkVVTHcwQ010cFY5TW9pMlE2SEk2akZ3NUdEMldSS3JENFhpYUpWV2ZuUlpONk1za25pazBmeHJ2NF95VXl6YmFJcEx5RGFhaXIyRmk3YWN2VV9BX3VpV0M4TE5NR3lod2xzZ0NaaU9XMUV5R20tUllacGxkSkdYRHRReHRmd2lIa3RrTXJqN3NLbw?oc=5",
-      "summary": "Wafer Fabrication Equipment Market Study Highlights AI Chip &nbsp;&nbsp; openPR.com",
+      "summary": "Wafer Fabrication Equipment Market Study Highlights AI Chip &nbsp;&nbsp; openpr.com",
       "publishedAt": "2026-08-13T11:26:01.000Z",
-      "source": "openPR.com",
+      "source": "openpr.com",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -989,9 +1023,9 @@
     {
       "title": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUllcjJPRHpLZ2VtMWdFTUdMTlhxa2JkMkZrbUFSN2R1S3FPcEpYVlNkdlNHcEluYzFTUjg1dzNQSDhzc1k1RTlhME1TbVE3eWRqMmJhT2RWSDRWUFM1aDNBMzVUN0NEaVd4SHdwM0ZZMUpkaWtMSDVpR2lsRkkwYlRWUUtJZzZfem5SRnE0OWxkMGhSYXEtMldQYXM3cTdXTmhWeEdKQ0gxYVhGR1VPSllHaWZVVU5LYmc?oc=5",
-      "summary": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand &nbsp;&nbsp; TradingView",
+      "summary": "ASML Stock Jumps 4.1% as TSMC Revenue Reignites Tool Demand &nbsp;&nbsp; tradingview.com",
       "publishedAt": "2026-08-11T15:45:23.000Z",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "category": "Foundry",
       "keywords": [
         "tsmc",
@@ -1116,22 +1150,6 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "Will Samsung overtake in HBM market share? As SK hynix grapples with labor disputes, Samsung achieves golden yield for HBM4.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9JY1plVEpFb0wxcGdkV1VCYUdGZDNfX0RQZ05WRkgxRXFrR2l6bEFTVzViWkpxdTRsSXM1U2NleDdpNEFpOG1Sd0otY05MUHJtM3owb21BUUNOMkxGcmNQNnduMHIzQ1RYS2VuemMyM3JtS2s5NWlRRko1aE5YZkViQWxndjkzdTlWa2hHeWp1dlZMQjQtc2N0SQ?oc=5",
-      "summary": "Will Samsung overtake in HBM market share? As SK hynix grapples with labor disputes, Samsung achieves golden yield for HBM4. &nbsp;&nbsp; Moomoo",
-      "publishedAt": "2026-08-10T02:37:32.000Z",
-      "source": "Moomoo",
-      "category": "AI Hardware",
-      "keywords": [
-        "sk hynix",
-        "samsung",
-        "hbm"
-      ],
-      "importanceScore": 10,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
       "title": "Samsung Launches First Internship at Taylor, Texas Foundry, Intensifying Talent War with TSMC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZT05fRVdGZXZfek54amstWi1GUFFqWUxIMk01X3NySGk0dDkwamx1WGtwdDlmbmptTHFmWGduNVpoRmdMdHctTDUyd29pRS04VzZfbE5tYTQxZVJBZFR1aktvUGd1VEN2VmVkTllJY3dpLXFzWkE?oc=5",
       "summary": "Samsung Launches First Internship at Taylor, Texas Foundry, Intensifying Talent War with TSMC &nbsp;&nbsp; finance.biggo.com",
@@ -1149,7 +1167,7 @@
     },
     {
       "title": "SK Hynix looks beyond memory with new global growth team",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVG5iNl9NblFfMG5zZklnbmxaeXJsM0dJR2tsZVVtTDBIM3ZrRVIxaGxlbUFQVkNyRVhEMHQ5R3RzVkRCY0hvVG9yeUZhdmE5YWdxdEROdmFPUDM2MEt2VHZuOFFHR1FZOFdEblp3U2ZwTlNpQ3NRWjdUYkFKRDVXdVBhaVdYTEJ6Z29GNkQxUU9FaFA4RVRLbFZIOE5tYUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGpCVU15OTFGdm52UmtwREhzOEppNmRzS01yU2JwN3hyTEJzeDE5WlhLVXRKRFF1TWNfZU5YRElvVDFUZzlVMTZjRVpKUmFxeDJCOG1rQUNMeXVIV2J0c3B5VjdUTHR0eEdicTR2RlNaWm9nbWVqTG5QZ0xkNHNMWlhvcWZqQmVvdjU4bDExVmN4RDJo?oc=5",
       "summary": "SK Hynix looks beyond memory with new global growth team &nbsp;&nbsp; digitimes",
       "publishedAt": "2026-08-14T03:02:26.000Z",
       "source": "digitimes",
@@ -1331,25 +1349,11 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "China’s YMTC breaks into top 3 flash-memory suppliers with 14% market share",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWd1aG1wcWE2MVAyU0t5eS1GelBQamJDcXJEX3FrcmFIMEREMkFONWxLLUpxN3lhaW03cVdwOGlVOVl1SmZMLWd3cEdhc1VQaC05NjlHSHhQUlk5OXByRDBibjNxaTNScXhQb0hSNlBudnB0Wm5aUVJFem5WNEsyTWUxMVFUNk12SG45c3dRUzdoNnkzNkJHelVYRVpRY2JTSUFSNy12b0VneFJQOGg3RU1PdVMyRW43NTRNN2pRNzXSAcABQVVfeXFMUGtwU2FId19ONDBQOW5hWGVtQnpIM2dtckNlUW02Vmc0dlRKWDdFSkdSdjJITzltSmJDa3JGazdIVEpGeGVGS2dkalI0VndYa3lwVkdWcWNoY3F4TW56Zk1sNnB4SUVtQS1CZG96RmZlWHB6R3ZaYVpab0E1aDVkWnNnOS1WQ0RSZ1dibDRuSUNYRVhZY3hSYzFfSzVHRUdaTXNMMUJuR2hGZThVTWN6NnEwNk1FTnRINVV2S2Vtd3hI?oc=5",
-      "summary": "China’s YMTC breaks into top 3 flash-memory suppliers with 14% market share &nbsp;&nbsp; South China Morning Post",
-      "publishedAt": "2026-08-13T05:00:08.000Z",
-      "source": "South China Morning Post",
-      "category": "Memory",
-      "keywords": [
-        "memory"
-      ],
-      "importanceScore": 9,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
       "title": "TSMC × Sony vs. China’s Rising CIS Ecosystem: The Next Front in Semiconductor Competition",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFNPbEd0b0FrcHVxamlNUmxhMUdaUzBGWkdKT2pELWFZRW5vajF1bzVzVklIZm1SR3dLMHM1Sm9xMk5vQzcyMmFjazBVLWZubkV5ZTRpWmUtZ1NsX21SUjdVRk1VbmRSZ19wVV9vcXBrMWEwTHM1RXc1c3NSd2Iyb1lRTTF2LXdH?oc=5",
-      "summary": "TSMC × Sony vs. China’s Rising CIS Ecosystem: The Next Front in Semiconductor Competition &nbsp;&nbsp; semivision",
+      "summary": "TSMC × Sony vs. China’s Rising CIS Ecosystem: The Next Front in Semiconductor Competition &nbsp;&nbsp; tspasemiconductor.substack.com",
       "publishedAt": "2026-08-13T01:50:05.000Z",
-      "source": "semivision",
+      "source": "tspasemiconductor.substack.com",
       "category": "Foundry",
       "keywords": [
         "semiconductor",
@@ -1362,9 +1366,9 @@
     {
       "title": "SK Hynix to Break Ground on Indiana HBM Fab",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmVmSElFOUFLRWZKdFNpcVZMemJvY0RYVmdUQjN1OE0zaVNqVDE0b1RRTkRPcnVGR1E3dG9NUDhZa01sUW5uZFhaeVkxY0RBQ1dKNE8wWVFRa2tWbE9kdnlVZExwSmFwbUVLNnI3bTdFR2VNRS1lZ1pGb1lHdm5wSnRaRmM3Tnkt?oc=5",
-      "summary": "SK Hynix to Break Ground on Indiana HBM Fab &nbsp;&nbsp; 조선일보",
+      "summary": "SK Hynix to Break Ground on Indiana HBM Fab &nbsp;&nbsp; chosun.com",
       "publishedAt": "2026-08-12T11:02:20.000Z",
-      "source": "조선일보",
+      "source": "chosun.com",
       "category": "AI Hardware",
       "keywords": [
         "fab",
@@ -1425,7 +1429,7 @@
       "title": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/sony-tsmc-deal-brings-overseas-investment-in-japan-chipmaking-to-37bn",
       "summary": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn",
-      "publishedAt": "2026-08-14T04:57:30.894Z",
+      "publishedAt": "2026-08-14T06:23:50.008Z",
       "source": "Nikkei Asia Technology",
       "category": "Foundry",
       "keywords": [
@@ -1437,24 +1441,10 @@
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
-      "title": "Key Nvidia supplier Foxconn downplays rising competition in AI servers",
-      "url": "https://asia.nikkei.com/business/technology/key-nvidia-supplier-foxconn-downplays-rising-competition-in-ai-servers",
-      "summary": "Key Nvidia supplier Foxconn downplays rising competition in AI servers",
-      "publishedAt": "2026-08-14T04:57:30.894Z",
-      "source": "Nikkei Asia Technology",
-      "category": "AI Hardware",
-      "keywords": [
-        "nvidia"
-      ],
-      "importanceScore": 8,
-      "importance": "Medium",
-      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
-    },
-    {
       "title": "Japan self-driving startup Tier IV to design open-source AI chips",
       "url": "https://asia.nikkei.com/business/automobiles/japan-self-driving-startup-tier-iv-to-design-open-source-ai-chips",
       "summary": "Japan self-driving startup Tier IV to design open-source AI chips",
-      "publishedAt": "2026-08-14T04:57:30.893Z",
+      "publishedAt": "2026-08-14T06:23:50.007Z",
       "source": "Nikkei Asia Technology",
       "category": "AI Hardware",
       "keywords": [
@@ -1517,9 +1507,9 @@
     {
       "title": "Applied Materials Posts Record $9.12B Quarter as AI Chip Demand Surges",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlV3SFBsZXNfNnFvZUh3TTJfUEthVTR0X1RqeGs0QWJFSWc0MkQ5OUtKT1pESjdGN2ZPTGtLRkJ5TDlLR1lpamJuRW8wRjFBb0pLQ0dDNXl6bFpnS1pYb0xoNlpObXJKQUdLYzNtMjVoNTlUaDU4ZHBadXZKcEEzZ0NRUVZGU2dJaGxKRUFOakR6ZHhJeFJzQTdseUhKQ09tMmM1RFJtWk5ScEE?oc=5",
-      "summary": "Applied Materials Posts Record $9.12B Quarter as AI Chip Demand Surges &nbsp;&nbsp; Shane the Gamer",
+      "summary": "Applied Materials Posts Record $9.12B Quarter as AI Chip Demand Surges &nbsp;&nbsp; shanethegamer.com",
       "publishedAt": "2026-08-14T00:11:39.000Z",
-      "source": "Shane the Gamer",
+      "source": "shanethegamer.com",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -1532,9 +1522,9 @@
     {
       "title": "Rochester region sees semiconductor growth from CHIPS Act investments",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlRaMTlkUmlBY2RvVGlhUlpMMnRybV9KRHlBY1BlSmo0cXphaXYyblAxVkNUd1YwLUN3V0tPSnN1N3RTMXE5eVJOQ3c0VEI3ai1KVnhDNDd5LVotSnZ5R3QyMmlSeVctVXpSbTdlVDBJa3h3dW1EVlg5b2w2RFljaU1JRk9mN21yNWc?oc=5",
-      "summary": "Rochester region sees semiconductor growth from CHIPS Act investments &nbsp;&nbsp; Rochester Business Journal",
+      "summary": "Rochester region sees semiconductor growth from CHIPS Act investments &nbsp;&nbsp; rbj.net",
       "publishedAt": "2026-08-13T20:24:09.000Z",
-      "source": "Rochester Business Journal",
+      "source": "rbj.net",
       "category": "Policy and Supply Chain",
       "keywords": [
         "semiconductor",
@@ -1658,6 +1648,21 @@
       "summary": "How Could Applied Materials (AMAT) Gain From Its New AI Chip Research Alliance? &nbsp;&nbsp; simplywall.st",
       "publishedAt": "2026-08-13T12:48:20.000Z",
       "source": "simplywall.st",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "ai chip"
+      ],
+      "importanceScore": 8,
+      "importance": "Medium",
+      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
+      "title": "Chinese AI Chip Pioneer Kiwimoore Files for USD 2 Billion Hong Kong IPO",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMzBNT18zcHpGMGZhT3pNNWZEWkpCdDl6ZEdJbVdRQmppY0t4RkFTTGUyemtBaTZIRzBFRFZPa3VwZmc1SXFGUE1KRHlPVWxUckFoMXVnTGZ0QTNKa1lncVhIdko4eU1NZFJ1NkpDS1FKeWpiQkZaZVRfUDZCWmx5MVc3Rnp5M3dSVW9TN3BkS29wZ2M3VGJqMXhQYUtSaUJ0RXJ3UzRqRVg?oc=5",
+      "summary": "Chinese AI Chip Pioneer Kiwimoore Files for USD 2 Billion Hong Kong IPO &nbsp;&nbsp; streamlinefeed.co.ke",
+      "publishedAt": "2026-08-13T08:30:24.000Z",
+      "source": "streamlinefeed.co.ke",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -1839,9 +1844,9 @@
     {
       "title": "Samsung Electronics Accelerates Texas Foundry Staffing",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzhJeWgyNWkxVzFxNGJ3Nkh5bFVsRkxMY0N1QzE0UjUwcy1qXzhVS2JHS3JfV0ZBSmV2MEtRQmlZdHpKMnB4emlaaVh0aVRjU3ZVVzhydjZPUGpxYXhBRG1HSm0tR1ZQZGVobGhPeG1hZkZOZTZjbnhibzgxN1dUUW1uQjdXd0dSb2x0WW9R?oc=5",
-      "summary": "Samsung Electronics Accelerates Texas Foundry Staffing &nbsp;&nbsp; 조선일보",
+      "summary": "Samsung Electronics Accelerates Texas Foundry Staffing &nbsp;&nbsp; chosun.com",
       "publishedAt": "2026-08-11T16:13:28.000Z",
-      "source": "조선일보",
+      "source": "chosun.com",
       "category": "Foundry",
       "keywords": [
         "foundry",
@@ -1930,23 +1935,6 @@
       "importanceScore": 8,
       "importance": "Medium",
       "whyImportant": "Equipment signals future capacity and technology-node progress."
-    },
-    {
-      "title": "Intel raises $15B to fight Nvidia in AI chip war",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSENicWkyVzR6U0tOc2NwdHNsTEN6TDJFM3k1LUJsMFhOX0R3U0JLT3lsaDloWGJDbmRORVdGQVpxWUp4aGtZcWNQVmM0Y1VaYi15ZUJNYWlBY2FjZVlndElSa20tYWNuMFBGRjl0WVVnQkt3ZUVQX2NqVGJ6UUdTSVpmLVBkcGs?oc=5",
-      "summary": "Intel raises $15B to fight Nvidia in AI chip war &nbsp;&nbsp; The Tech Buzz",
-      "publishedAt": "2026-08-10T20:34:00.000Z",
-      "source": "The Tech Buzz",
-      "category": "AI Hardware",
-      "keywords": [
-        "chip",
-        "nvidia",
-        "intel",
-        "ai chip"
-      ],
-      "importanceScore": 8,
-      "importance": "Medium",
-      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
       "title": "Micron vs. SK hynix: One Stock Rules AI Memory. The Other Has More Room to Run.",
@@ -2048,21 +2036,6 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "Trump orders 15% tariff on key chip material to challenge China",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc09KS0t3MzVOMEhYdnpNc2lvSVFJZXlfUkJ1WERocmQ3RTY2N1pLbGdtVnVoLUFfV1daV1djSnVpUlVJRjZnUmpWT1VuaEREUGpWcUg3dTRDQnJ6emVQWk5FTU02RG13QmRkT1ZzTjg3cUkwYXRBWnR1M1hoaVViT0ZVVERKZF9rdEp5VTM2M2tHbkhxamJlRkx6Xy1WMlc3UHotejJrakVWWV9r?oc=5",
-      "summary": "Trump orders 15% tariff on key chip material to challenge China &nbsp;&nbsp; Big News Network.com",
-      "publishedAt": "2026-08-07T15:45:00.000Z",
-      "source": "Big News Network.com",
-      "category": "Policy and Supply Chain",
-      "keywords": [
-        "chip",
-        "tariff"
-      ],
-      "importanceScore": 8,
-      "importance": "Medium",
-      "whyImportant": "Policy risk could change supply chains, margins, or China access."
-    },
-    {
       "title": "Trump Opens New Front in US-China Tech Battle With 15% Tariff On Critical Chip Material",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHNUTEJtN1JwRUVqMjFmQm1kam9LTnJLY2plRm5JMnkyUkg5cG14WUVqZkwxODdqOVd5TURSdUp1eHJKc3o0UlFwZUR2LVF6R1BldjV4NUNCTURUdjZ2dWJTdV9CX2NDMlRrUnd6TWlRN1JSS01YR0VSU3JqeklRZ2ZhVFoxR1lkR2wyWmJMNzVCdHdqRllKZEY3TE5uYU1EU25oa0VyQQ?oc=5",
       "summary": "Trump Opens New Front in US-China Tech Battle With 15% Tariff On Critical Chip Material &nbsp;&nbsp; International Business Times, Singapore Edition",
@@ -2081,7 +2054,7 @@
       "title": "Chipmaker CXMT becomes China's most valuable company as Tencent slips",
       "url": "https://asia.nikkei.com/business/markets/equities/chipmaker-cxmt-becomes-china-s-most-valuable-company-as-tencent-slips",
       "summary": "Chipmaker CXMT becomes China's most valuable company as Tencent slips",
-      "publishedAt": "2026-08-14T04:57:30.894Z",
+      "publishedAt": "2026-08-14T06:23:50.008Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -2096,7 +2069,7 @@
       "title": "China's SMIC says AI 'spillover effects' boosting peripheral chip prices",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-smic-says-ai-spillover-effects-boosting-peripheral-chip-prices",
       "summary": "China's SMIC says AI 'spillover effects' boosting peripheral chip prices",
-      "publishedAt": "2026-08-14T04:57:30.893Z",
+      "publishedAt": "2026-08-14T06:23:50.007Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -2105,6 +2078,49 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Asia Supply Chain story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "SK Hynix (KOSE:A000660) Unveils Open HBF Standard For AI Systems",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdjBMd3ZyVUw4YXc2UDBXNVQzOVlaRHF6YnJVck5TbXAtbzRPY2FfeXlaOG5ZWWdadzUtcTJRVkVTUG9KaUhtbTNSZ3Ewa3A2U3JuT29iWlBiNUFYaWFJX3ZlYno4R1VSTWlFNmEwZlRUZGd5ZTZqZ1ozRWRLRzBtanJqMVZuZWdSYW93XzVlM1c3ZUI3ODZubHpiRVZwbV9uZ2VuOEo1dXM4NjlXM25uckl5S21SNENDTGozeUpLajNJdnkxakIyWDd0anF0RzFIYl81UzNOcUTSAd4BQVVfeXFMTnhTNUlMMF9jTDMyWm12QU1PN3VObmxVemZyZkFRM0REd0x5UHRXRUdRaUZmam5PUmRZdVdnOWtXbnp6b2MtRjRWNVJ1aWlZTVM2V0hNWVdLZzRsTUdnMW1hbldSbms2cUxCLVBKaUdFNnJRaEkxNDdKeVBka3Vzal9OckQwVFNfSm03cUVtb1NJWmhVVE5Cc0I5TUN3RElVTTR4cVRIYVRENC1YZHJNNmFOOWtTb1hDZ2ZSbEt6U0dBVENNcThuQjRmbW1ZYVJuY0NJMTlBSEFQYWw5dkR3?oc=5",
+      "summary": "SK Hynix (KOSE:A000660) Unveils Open HBF Standard For AI Systems &nbsp;&nbsp; simplywall.st",
+      "publishedAt": "2026-08-14T05:32:23.000Z",
+      "source": "simplywall.st",
+      "category": "Memory",
+      "keywords": [
+        "sk hynix"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Low pay dampens Korea Samsung dispatch to US Taylor fab before ramp-up - CHOSUNBIZ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2lDaHNSM0prNURPa3lBclhoU3BFRGNuQkJCTkU5QmR3bTN4TzB3N0x1LVk2cEVyMUlwWHVITGgxWmNsaTBNejRTWG5DbE9Ub3M0ZjFFSUI4ZU9OSFpkNWVwTm9BMGZCemZaTXRSNHdQSkpmdmx6Q3YxU1A5OXd4V2VjSmdKam5fZlhuTy130gGOAUFVX3lxTFBDaUNoc1IzSms1RE9reUFyWGhTcEVEY25CQkJORTlCZHdtM3hPMHc3THUtWTZwRXIxSXBYdUhMaDFaY2xpME16NFNYbkNsT1RvczRmMUVJQjhlT05IWmQ1ZXBOb0EwZkJ6ZlpNdFI0d1BKSmZ2bHpDdjFTUDk5d3hXZWNKZ0pqbl9mWG5PLXc?oc=5",
+      "summary": "Low pay dampens Korea Samsung dispatch to US Taylor fab before ramp-up - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "publishedAt": "2026-08-14T05:17:00.000Z",
+      "source": "Chosunbiz",
+      "category": "Foundry",
+      "keywords": [
+        "fab",
+        "samsung"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+    },
+    {
+      "title": "New Zealand says China tried using space investments to spy on local affairs",
+      "url": "https://www.theregister.com/security/2026/08/14/new-zealand-says-china-tried-using-space-investments-to-spy-on-local-affairs/5287657",
+      "summary": "Intelligence Service says finding domestic threats is harder due to proliferation of toxic content online",
+      "publishedAt": "2026-08-14T03:23:34.000Z",
+      "source": "The Register",
+      "category": "Compute",
+      "keywords": [
+        "intel"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Compute story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat",
@@ -2139,9 +2155,9 @@
     {
       "title": "Samsung is using Claude to verify chip designs, and it's not going smoothly",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQk95aENJQ2FJbGU3Tl83LTFoV3dQSVZCTk5JbHhySjNWTkVRSlBVZmZqVXh2WWI5Qng1dEwwemx1aGtCZVNNVDJpUVFlWFhZdkRodHZnazZsYWl5S253T2E3empubHNybDNaWWVEZ0s5SklmZzBKMHlycGxCMDE2TWJzNGtFQjZvRFNKd2FTLTJldUxreklpbWNlbF9QR3A1LWx3?oc=5",
-      "summary": "Samsung is using Claude to verify chip designs, and it's not going smoothly &nbsp;&nbsp; Neowin",
+      "summary": "Samsung is using Claude to verify chip designs, and it's not going smoothly &nbsp;&nbsp; neowin.net",
       "publishedAt": "2026-08-13T16:02:01.000Z",
-      "source": "Neowin",
+      "source": "neowin.net",
       "category": "EDA and IP",
       "keywords": [
         "chip",
@@ -2254,34 +2270,14 @@
       "whyImportant": "EDA and IP story with potential read-through for semiconductor demand or supply."
     },
     {
-      "title": "SK hynix to break ground on $3.9b Indiana chip packaging plant this month",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uWDhiT1dFSVhTR25PNlBVYVZsUUVMQkFvSTFwSlZfMDFTYmFQRVh5VkV3S1ZuMW5YUDIwS3ZMVEM5TW5ReGdkUkVCVFp2ODNfVThDTzIzWQ?oc=5",
-      "summary": "SK hynix to break ground on $3.9b Indiana chip packaging plant this month &nbsp;&nbsp; The Korea Herald",
-      "publishedAt": "2026-08-13T05:35:25.000Z",
-      "source": "The Korea Herald",
+      "title": "China’s YMTC breaks into top 3 flash-memory suppliers with 14% market share",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWd1aG1wcWE2MVAyU0t5eS1GelBQamJDcXJEX3FrcmFIMEREMkFONWxLLUpxN3lhaW03cVdwOGlVOVl1SmZMLWd3cEdhc1VQaC05NjlHSHhQUlk5OXByRDBibjNxaTNScXhQb0hSNlBudnB0Wm5aUVJFem5WNEsyTWUxMVFUNk12SG45c3dRUzdoNnkzNkJHelVYRVpRY2JTSUFSNy12b0VneFJQOGg3RU1PdVMyRW43NTRNN2pRNzXSAcABQVVfeXFMUGtwU2FId19ONDBQOW5hWGVtQnpIM2dtckNlUW02Vmc0dlRKWDdFSkdSdjJITzltSmJDa3JGazdIVEpGeGVGS2dkalI0VndYa3lwVkdWcWNoY3F4TW56Zk1sNnB4SUVtQS1CZG96RmZlWHB6R3ZaYVpab0E1aDVkWnNnOS1WQ0RSZ1dibDRuSUNYRVhZY3hSYzFfSzVHRUdaTXNMMUJuR2hGZThVTWN6NnEwNk1FTnRINVV2S2Vtd3hI?oc=5",
+      "summary": "China’s YMTC breaks into top 3 flash-memory suppliers with 14% market share &nbsp;&nbsp; South China Morning Post",
+      "publishedAt": "2026-08-13T05:00:08.000Z",
+      "source": "South China Morning Post",
       "category": "Memory",
       "keywords": [
-        "chip",
-        "sk hynix",
-        "packaging"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnVIcnVwNEw5T0g1WHhVMEg5M2dLRGh0YzhCd05CWHh6MTBjNkk3d24zZXRveHpibjlKNG0xZm5URWRCUjA2Zm13U1llbFZkdHUzaWtYM3VHNmRFZDZYZmRvenQtV2E5bVVNbW9mY3RpbEl6eHp5MklYUUFBRTMtVGpQRE52RHhCQmM1WXhLQkxiZ1dkc2RnWlJaRTXSAaIBQVVfeXFMUGdTdTNkU1hPYnRJTFZUcERZdDVLZjN0ZGMzUW40ZDdTd1BYMXJXNDhJMzNQUm1aQldLOUlVNVpnUjlYd2Jyb3FRcFp6cXNBS2tDZjRrVTRuS3ZhVkVkVnVJUEcxSmNSbTFSdURWMmUtQ1JtWVRQaEpBWnd1ZzJMRC1FcGF3WDBnZ28yNl9UNjNUR2JjRloydGdmOHd3UHh2dk13?oc=5",
-      "summary": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips &nbsp;&nbsp; CNBC",
-      "publishedAt": "2026-08-13T02:59:00.000Z",
-      "source": "CNBC",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "chips",
-        "micron",
-        "memory",
-        "nand"
+        "memory"
       ],
       "importanceScore": 7,
       "importance": "Medium",
