@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-16T22:32:44.071Z",
+  "updatedAt": "2026-08-16T23:30:21.376Z",
   "articleCount": 120,
-  "sourceCount": 59,
+  "sourceCount": 58,
   "searchFeedCount": 7,
   "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are AI Hardware (51), Memory (42), Foundry (18). 6 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
   "themes": [
@@ -139,7 +139,7 @@
         "ticker": "MU",
         "name": "Micron",
         "signal": "Strong watch",
-        "score": 408,
+        "score": 405,
         "rationale": "49 related stories; strongest link: [News] Samsung May Repurpose R&D Line for Foundry, Targeting 2nm HBM Base Dies for Future NVIDIA Demand",
         "relatedStories": [
           {
@@ -211,7 +211,7 @@
         "ticker": "TSM",
         "name": "TSMC ADR",
         "signal": "Strong watch",
-        "score": 142,
+        "score": 140,
         "rationale": "16 related stories; strongest link: [News] Samsung May Repurpose R&D Line for Foundry, Targeting 2nm HBM Base Dies for Future NVIDIA Demand",
         "relatedStories": [
           {
@@ -220,14 +220,14 @@
             "source": "TrendForce"
           },
           {
-            "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
-            "source": "finance.biggo.com"
-          },
-          {
             "title": "Samsung Joins TSMC in Stalling ASML’s High NA EUV Rollout, Pushing the Costly Machines to 1nm Chips",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNzAtTHNRMHRMUWNYdzNKdVAtRlAtdWhsMlNtNDNCTTFjNmdORTRpUDVCN0prT25zSVVoZEN1bDVMMzhQZEtUQnd2dS11MTlydTBwd1J0UXc1ZTA4SS1PbE1PSTRNNmlZYzJ1Ri1rallYd1E4eUlac1Y4THA4NU5sTWoyVF9XMmtTbjF0V3otY1FwbDNYMVhxbktINGx6TWFjTjBzdHQxRUtMWnUtWFNjQkNndHBDenBTaDg40gHAAUFVX3lxTE1NVkRkMUlOcEROSGJhVm1SQ1RSTllXUDE1b0diUUQ2NmJWYlNZTGVBdVpxdzRjMlk5cjh5OHgzT0RseXI5WXZ5MUs0WFF2TnJKZkpYNXFjZUJxM3EyX0JCc3RidXY1dzJNb0RpLWNiNlBvVW1ua0ZweU9JNU9jVTFNQnV6OXRkeG5DVUVNUFM4R1BXRC1iSFVWUnJCMEZRWDFBUzRFektJNU9nZDI1MDd3alkxbUtCNHNHY2gwM2JZUA?oc=5",
             "source": "Wccftech"
+          },
+          {
+            "title": "NVIDIA Secures TSMC A16 Node for Next-Generation \"Feynman\" GPUs",
+            "url": "https://www.techpowerup.com/351607/nvidia-secures-tsmc-a16-node-for-next-generation-feynman-gpus",
+            "source": "TechPowerUp"
           }
         ]
       },
@@ -330,25 +330,6 @@
         ]
       },
       {
-        "ticker": "600584.SS",
-        "name": "JCET",
-        "signal": "Active watch",
-        "score": 17,
-        "rationale": "2 related stories; strongest link: TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
-        "relatedStories": [
-          {
-            "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
-            "source": "finance.biggo.com"
-          },
-          {
-            "title": "TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029",
-            "url": "https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029",
-            "source": "TechPowerUp"
-          }
-        ]
-      },
-      {
         "ticker": "0981.HK / 688981.SS",
         "name": "SMIC",
         "signal": "Active watch",
@@ -364,6 +345,25 @@
             "title": "China's SMIC says AI 'spillover effects' boosting peripheral chip prices",
             "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-smic-says-ai-spillover-effects-boosting-peripheral-chip-prices",
             "source": "Nikkei Asia Technology"
+          }
+        ]
+      },
+      {
+        "ticker": "600584.SS",
+        "name": "JCET",
+        "signal": "Active watch",
+        "score": 15,
+        "rationale": "2 related stories; strongest link: TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+        "relatedStories": [
+          {
+            "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+            "source": "finance.biggo.com"
+          },
+          {
+            "title": "TSMC Achieves 98% Yield on CoWoS-L with 5.5x Reticle Size, 14x Comes in 2029",
+            "url": "https://www.techpowerup.com/351584/tsmc-achieves-98-yield-on-cowos-l-with-5-5x-reticle-size-14x-comes-in-2029",
+            "source": "TechPowerUp"
           }
         ]
       },
@@ -533,23 +533,6 @@
       "importanceScore": 11,
       "importance": "Medium",
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
-      "summary": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production &nbsp;&nbsp; finance.biggo.com",
-      "publishedAt": "2026-08-13T23:25:00.000Z",
-      "source": "finance.biggo.com",
-      "category": "Foundry",
-      "keywords": [
-        "tsmc",
-        "samsung",
-        "packaging",
-        "advanced packaging"
-      ],
-      "importanceScore": 11,
-      "importance": "Medium",
-      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
       "title": "Micron Stock Is Being Outpaced by Memory Chip Rivals SK Hynix, Samsung",
@@ -753,7 +736,7 @@
       "title": "Trump's tariffs unevenly reshape American manufacturing",
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-tariffs-unevenly-reshape-american-manufacturing",
       "summary": "Trump's tariffs unevenly reshape American manufacturing",
-      "publishedAt": "2026-08-16T22:32:43.354Z",
+      "publishedAt": "2026-08-16T23:30:20.515Z",
       "source": "Nikkei Asia Technology",
       "category": "Policy and Supply Chain",
       "keywords": [
@@ -840,6 +823,23 @@
       "importanceScore": 9,
       "importance": "Medium",
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
+      "title": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZnFxdjY3bTdrRVZ6aXI5U1BFRTY2alFBRXNWeXkyNWpvQTh6eTF6S2tOTEFEMnhadHhuT0R1eHkyVTNzZjFnQ24tZGwwenRmSU4xQlBwODBDWHBlOFQydDgwU2lhdnBtem1tQ1dtMFAyMzdLV0E?oc=5",
+      "summary": "TSMC Doubles Advanced Packaging Capacity Over Three Years, Samsung Goes All-In on 2nm Mass Production &nbsp;&nbsp; finance.biggo.com",
+      "publishedAt": "2026-08-13T23:25:00.000Z",
+      "source": "finance.biggo.com",
+      "category": "Foundry",
+      "keywords": [
+        "tsmc",
+        "samsung",
+        "packaging",
+        "advanced packaging"
+      ],
+      "importanceScore": 9,
+      "importance": "Medium",
+      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
       "title": "Meta’s custom silicon poses challenge to Nvidia’s AI dominance",
@@ -1283,9 +1283,9 @@
     {
       "title": "Intel raises $15B to fight Nvidia in AI chip war",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSENicWkyVzR6U0tOc2NwdHNsTEN6TDJFM3k1LUJsMFhOX0R3U0JLT3lsaDloWGJDbmRORVdGQVpxWUp4aGtZcWNQVmM0Y1VaYi15ZUJNYWlBY2FjZVlndElSa20tYWNuMFBGRjl0WVVnQkt3ZUVQX2NqVGJ6UUdTSVpmLVBkcGs?oc=5",
-      "summary": "Intel raises $15B to fight Nvidia in AI chip war &nbsp;&nbsp; techbuzz.ai",
+      "summary": "Intel raises $15B to fight Nvidia in AI chip war &nbsp;&nbsp; The Tech Buzz",
       "publishedAt": "2026-08-10T20:34:00.000Z",
-      "source": "techbuzz.ai",
+      "source": "The Tech Buzz",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -1296,22 +1296,6 @@
       "importanceScore": 8,
       "importance": "Medium",
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
-    },
-    {
-      "title": "Micron vs. SK hynix: One Stock Rules AI Memory. The Other Has More Room to Run.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUC1OYTBBSXZ4cEdaUkxXckdTcldkQm5MNWl0QTBOVnJIempXY0ZXSnhtNGNuYkFIYkg5WHprWnlsVnVqazFReVRHQS11VWEtS2lUc215d0xrVWtlVVNxT1hKQUQ5WFRqXy1Hal8xY2tld1J6RHpXQVREQ1hJRjdsUllpdjJyS1VDVzRadGxPVEhvRzAwNkhrSFF5ZUNZOFA3MEZUejhXd2JmSXJYR1ZtREJvYXg0UDRrYWFJ?oc=5",
-      "summary": "Micron vs. SK hynix: One Stock Rules AI Memory. The Other Has More Room to Run. &nbsp;&nbsp; Barchart.com",
-      "publishedAt": "2026-08-10T19:52:57.000Z",
-      "source": "Barchart.com",
-      "category": "Memory",
-      "keywords": [
-        "micron",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 8,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "Microsoft may launch its next AI chip next month to challenge Nvidia dominance",
@@ -1346,24 +1330,10 @@
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
-      "title": "Japan struggles to secure rare earths for EVs, chip tools under China pressure",
-      "url": "https://asia.nikkei.com/business/materials/japan-struggles-to-secure-rare-earths-for-evs-chip-tools-under-china-pressure",
-      "summary": "Japan struggles to secure rare earths for EVs, chip tools under China pressure",
-      "publishedAt": "2026-08-16T22:32:43.354Z",
-      "source": "Nikkei Asia Technology",
-      "category": "Automotive",
-      "keywords": [
-        "chip"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Automotive story with potential read-through for semiconductor demand or supply."
-    },
-    {
       "title": "China's SMIC says AI 'spillover effects' boosting peripheral chip prices",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-smic-says-ai-spillover-effects-boosting-peripheral-chip-prices",
       "summary": "China's SMIC says AI 'spillover effects' boosting peripheral chip prices",
-      "publishedAt": "2026-08-16T22:32:43.354Z",
+      "publishedAt": "2026-08-16T23:30:20.516Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -1372,6 +1342,20 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Asia Supply Chain story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Japan struggles to secure rare earths for EVs, chip tools under China pressure",
+      "url": "https://asia.nikkei.com/business/materials/japan-struggles-to-secure-rare-earths-for-evs-chip-tools-under-china-pressure",
+      "summary": "Japan struggles to secure rare earths for EVs, chip tools under China pressure",
+      "publishedAt": "2026-08-16T23:30:20.515Z",
+      "source": "Nikkei Asia Technology",
+      "category": "Automotive",
+      "keywords": [
+        "chip"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Automotive story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat",
@@ -1621,7 +1605,7 @@
       "title": "Japan used iPhone, server sales surge as memory prices soar",
       "url": "https://asia.nikkei.com/business/electronics/japan-used-iphone-server-sales-surge-as-memory-prices-soar",
       "summary": "Japan used iPhone, server sales surge as memory prices soar",
-      "publishedAt": "2026-08-16T22:32:43.354Z",
+      "publishedAt": "2026-08-16T23:30:20.515Z",
       "source": "Nikkei Asia Technology",
       "category": "Memory",
       "keywords": [
@@ -1634,9 +1618,9 @@
     {
       "title": "GT Voice: US pressure tactics cannot stifle Chinese memory chips",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11LWV0UXFJZFUxZmtWcEEwYko1UkZNQmZvcm5fVW1TOGl0d1NQYjlKbFBlbW5rcDlBcWZvM3FxMUVUTzZaMHd2OTZyTnh2bFZReDJCaF9NWFFzMjd6WnpodThn?oc=5",
-      "summary": "GT Voice: US pressure tactics cannot stifle Chinese memory chips &nbsp;&nbsp; globaltimes.cn",
+      "summary": "GT Voice: US pressure tactics cannot stifle Chinese memory chips &nbsp;&nbsp; Global Times",
       "publishedAt": "2026-08-16T14:03:00.000Z",
-      "source": "globaltimes.cn",
+      "source": "Global Times",
       "category": "Memory",
       "keywords": [
         "chip",
@@ -1897,9 +1881,9 @@
     {
       "title": "AI Chip Design Revolution: Global EDA Giants' Fierce Competition Unlocks Golden Opportunity Window for Chinese Manufacturers",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1POG8tZ251SzdnZnBUUWhKSDJ0Q3F1Ml9rS0gtcEc3NS0td2U5aHI1VGEwRDg0RzRUSEFJcHltZUdFNkJpcjZLVGZ3aXVVRldmVTNZ?oc=5",
-      "summary": "AI Chip Design Revolution: Global EDA Giants' Fierce Competition Unlocks Golden Opportunity Window for Chinese Manufacturers &nbsp;&nbsp; 36Kr",
+      "summary": "AI Chip Design Revolution: Global EDA Giants' Fierce Competition Unlocks Golden Opportunity Window for Chinese Manufacturers &nbsp;&nbsp; 36 Kr",
       "publishedAt": "2026-08-14T04:14:14.000Z",
-      "source": "36Kr",
+      "source": "36 Kr",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -1931,9 +1915,9 @@
     {
       "title": "NVIDIA Faces Collective Stake Reduction: What Key Signals Are Private Equity Firms Sensing?",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EZC15Y1dLTndkQ3JNUXg0RG90TUdocXV4QTVWcUZlTDBpN1U0eG5veXBuWnlDRENZTGNmLUlnZExTM3Y5Qi1ZOXdaN0RzSWhUQmxB?oc=5",
-      "summary": "NVIDIA Faces Collective Stake Reduction: What Key Signals Are Private Equity Firms Sensing? &nbsp;&nbsp; 36Kr",
+      "summary": "NVIDIA Faces Collective Stake Reduction: What Key Signals Are Private Equity Firms Sensing? &nbsp;&nbsp; 36 Kr",
       "publishedAt": "2026-08-14T00:29:01.000Z",
-      "source": "36Kr",
+      "source": "36 Kr",
       "category": "AI Hardware",
       "keywords": [
         "nvidia"
@@ -2132,9 +2116,9 @@
     {
       "title": "SK hynix to Boost NAND Flash Production in China by 50% in 2027",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcC0xMVg1Vl93SVNyelFZRXJkcHBvVGE0b1ZCVmg4UVhRR1BzWHBhRU5RYUpDWFpuMHdoV0lBZGFLbXBndEZtY2pfR2c5SDFvb1JQZHRseXZNSDg4dUhzZFlERGNsTE1QcUI2a0pFd0hPeUItZ01zTHM3VVUxOVVHTjEyWHBIMFpwdzlrVzBlQWxXdGRlQjVxWV8yZ1lqUdIBowFBVV95cUxNUGFMcFFYSzJlMUExbGZIakNYYVpQS1NQd3VGV1JWS1pOekpKOS0tZllRT3JRY200TmJQbmlVQUI1OERpSDk5b09MSWR0SDU3SEt3VlZqTExSb1BFZnRaUlRjUHNNZlFEOElNcWIwbU9yVUg3ZnBJRXZUUDJGUUFDaUhpZmRrVFRwSFJXYi1OYlBldVZpbFM0WjQzd0ctTF94Q0Rr?oc=5",
-      "summary": "SK hynix to Boost NAND Flash Production in China by 50% in 2027 &nbsp;&nbsp; techpowerup.com",
+      "summary": "SK hynix to Boost NAND Flash Production in China by 50% in 2027 &nbsp;&nbsp; TechPowerUp",
       "publishedAt": "2026-08-11T17:43:00.000Z",
-      "source": "techpowerup.com",
+      "source": "TechPowerUp",
       "category": "Memory",
       "keywords": [
         "sk hynix",
@@ -2272,6 +2256,20 @@
       "category": "Memory",
       "keywords": [
         "chip",
+        "micron"
+      ],
+      "importanceScore": 5,
+      "importance": "Watch",
+      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Micron Ventures Launches $250M Fund to Invest in the Next Generation of AI",
+      "url": "https://www.hpcwire.com/off-the-wire/micron-ventures-launches-250m-fund-to-invest-in-the-next-generation-of-ai/",
+      "summary": "BOISE, Idaho, Aug. 14, 2026 — Micron Technology, Inc. has launched the Micron Ventures Paradigm Fund, a $250 million investment vehicle built to partner with the companies shaping the future of AI. Micron Ventures’ third and largest fund to date, the Paradi...",
+      "publishedAt": "2026-08-14T14:07:05.000Z",
+      "source": "HPCwire",
+      "category": "Memory",
+      "keywords": [
         "micron"
       ],
       "importanceScore": 5,
