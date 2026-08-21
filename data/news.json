@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-21T01:53:31.946Z",
+  "updatedAt": "2026-08-21T03:12:27.185Z",
   "articleCount": 120,
-  "sourceCount": 63,
+  "sourceCount": 65,
   "searchFeedCount": 7,
-  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are AI Hardware (50), Memory (44), Foundry (17). 14 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
+  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are AI Hardware (50), Memory (44), Foundry (16). 14 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
   "themes": [
     {
       "name": "AI Hardware",
@@ -15,15 +15,15 @@
     },
     {
       "name": "Foundry",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Equipment",
       "count": 7
     },
     {
-      "name": "Asia Supply Chain",
-      "count": 1
+      "name": "Policy and Supply Chain",
+      "count": 2
     }
   ],
   "highlights": [
@@ -112,30 +112,6 @@
     "disclaimer": "News-based watchlist only, not personalized financial advice. Validate valuation, liquidity, earnings dates, and regulatory risk before acting.",
     "us": [
       {
-        "ticker": "SNPS",
-        "name": "Synopsys",
-        "signal": "Strong watch",
-        "score": 452,
-        "rationale": "49 related stories; strongest link: Nvidia denies report it is rolling out China AI chip by year-end",
-        "relatedStories": [
-          {
-            "title": "Nvidia denies report it is rolling out China AI chip by year-end",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
-            "source": "Reuters"
-          },
-          {
-            "title": "Nvidia Plots China Comeback With New AI Chip",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5",
-            "source": "The Information"
-          },
-          {
-            "title": "Nvidia: US Closes China AI Chip Export Loophole",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWxrUXZFM2FPUmNBYWVJTVUzdmlNblQzSFd4a2VoNVI0ZktMN2dfckc0aUxya1pqUmlhTlVzNGFnc0M4Y1dWbUNPWlFVZHRxZ3lLVnpfVkdZd1lQejF2SDMyV0oyMllVV09iUUdUd0l4S1kwSl9heE93UzdhQ2JaTWdQZXp3QWs?oc=5",
-            "source": "blockchain.news"
-          }
-        ]
-      },
-      {
         "ticker": "MU",
         "name": "Micron",
         "signal": "Strong watch",
@@ -160,11 +136,35 @@
         ]
       },
       {
+        "ticker": "SNPS",
+        "name": "Synopsys",
+        "signal": "Strong watch",
+        "score": 443,
+        "rationale": "48 related stories; strongest link: Nvidia denies report it is rolling out China AI chip by year-end",
+        "relatedStories": [
+          {
+            "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+            "source": "Reuters"
+          },
+          {
+            "title": "Nvidia Plots China Comeback With New AI Chip",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5",
+            "source": "The Information"
+          },
+          {
+            "title": "Nvidia: US Closes China AI Chip Export Loophole",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWxrUXZFM2FPUmNBYWVJTVUzdmlNblQzSFd4a2VoNVI0ZktMN2dfckc0aUxya1pqUmlhTlVzNGFnc0M4Y1dWbUNPWlFVZHRxZ3lLVnpfVkdZd1lQejF2SDMyV0oyMllVV09iUUdUd0l4S1kwSl9heE93UzdhQ2JaTWdQZXp3QWs?oc=5",
+            "source": "blockchain.news"
+          }
+        ]
+      },
+      {
         "ticker": "NVDA",
         "name": "Nvidia",
         "signal": "Strong watch",
-        "score": 281,
-        "rationale": "27 related stories; strongest link: Nvidia denies report it is rolling out China AI chip by year-end",
+        "score": 271,
+        "rationale": "26 related stories; strongest link: Nvidia denies report it is rolling out China AI chip by year-end",
         "relatedStories": [
           {
             "title": "Nvidia denies report it is rolling out China AI chip by year-end",
@@ -187,7 +187,7 @@
         "ticker": "AMD",
         "name": "AMD",
         "signal": "Strong watch",
-        "score": 220,
+        "score": 218,
         "rationale": "22 related stories; strongest link: Nvidia denies report it is rolling out China AI chip by year-end",
         "relatedStories": [
           {
@@ -261,7 +261,7 @@
         "ticker": "688256.SS",
         "name": "Cambricon",
         "signal": "Strong watch",
-        "score": 178,
+        "score": 176,
         "rationale": "18 related stories; strongest link: Nvidia denies report it is rolling out China AI chip by year-end",
         "relatedStories": [
           {
@@ -911,24 +911,6 @@
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
-      "title": "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues",
-      "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-      "summary": "It seems like Nvidia’s not getting back into the Middle Kingdom anytime soon",
-      "publishedAt": "2026-08-19T04:07:58.000Z",
-      "source": "The Register",
-      "category": "AI Hardware",
-      "keywords": [
-        "chip",
-        "chips",
-        "nvidia",
-        "ai chip",
-        "supply chain"
-      ],
-      "importanceScore": 10,
-      "importance": "Medium",
-      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
-    },
-    {
       "title": "Google, Amazon and Meta Are Out-Growing Nvidia With Their Own AI Chips",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcTVGTV9rSnl1UkR4NVRncmZhaTVsbDVISmJYLUJGVXZwRE5GQ253UE15ejBIYnRXTm1BV0JmZjJqVXpZY2NCSHZiR3RKWUtITGFlclNKcU1ZMnBhY1lqbnV1Tk9KazdwVUFxVGd1UmhlSDdJMHFGTjdGSXlvaWNCNUJ6R3lydnZGTm9Fcm9kcUk5Y2o0X05EOTdXME9xUQ?oc=5",
       "summary": "Google, Amazon and Meta Are Out-Growing Nvidia With Their Own AI Chips &nbsp;&nbsp; Startup Fortune",
@@ -1509,6 +1491,21 @@
       "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
+      "title": "Waymo Custom AI Chip Accelerates Autonomous Vehicle Response",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54b1g2azBLY0hjV2hWQ3NmRGNhMW5HYlhRVjhERmpBdzltYTFDRVZReU16dUx1aVkzSzRUTmh4MU54MWFVZVlILUFnNnFYdFEyazVIYXNMV3Z1ekR5dDJCRXFHS0V3OTlCZWdF?oc=5",
+      "summary": "Waymo Custom AI Chip Accelerates Autonomous Vehicle Response &nbsp;&nbsp; The Cryptonomist",
+      "publishedAt": "2026-08-20T20:53:06.000Z",
+      "source": "The Cryptonomist",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "ai chip"
+      ],
+      "importanceScore": 8,
+      "importance": "Medium",
+      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
       "title": "How Moderna’s Historic Short Squeeze Upended the AI Chip Trade",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVlCbmo4VkVDb1pSRFFlYWpOak1hSUVTN2VaOHVjWmUyUmhCeXFRSWxVY2plQ2dEcjdnNEQxd2FHajVZZVZkZF9rWTVjQTNLcjh1M2wtVENDNF9NYmg5dUFuV2s1bkZ0cVBSZlVzbGVuX1c3endCNDJZcjZmQlhDWHRTWWc?oc=5",
       "summary": "How Moderna’s Historic Short Squeeze Upended the AI Chip Trade &nbsp;&nbsp; Barron's",
@@ -1799,9 +1796,9 @@
     {
       "title": "Watch Equity Markets: Chip Selloff Extends to Asia as Samsung, SK Hynix Slump",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZkFFY05MTm1NU08tQllCQ0FkT19ramtvbmxGbWk0LWFCRWs4Xzk3Qkp2WEk2QTdrSi1ZaUNtT3pFU2pfX1RGNXJ2WUFBenpZZ240SGo3NTdLaXhxYmw2X2M1WW1nd1FLUlBJT19LZDJUdUpQMk14ZDdaV1QzQUVET0dydktmdVFudUx6ZlR5U1dtMFJHNnpQNDZwTml5ODNZeXdrU0lJZnV3N0RyT2c?oc=5",
-      "summary": "Watch Equity Markets: Chip Selloff Extends to Asia as Samsung, SK Hynix Slump &nbsp;&nbsp; Bloomberg",
+      "summary": "Watch Equity Markets: Chip Selloff Extends to Asia as Samsung, SK Hynix Slump &nbsp;&nbsp; Bloomberg.com",
       "publishedAt": "2026-08-19T00:00:00.000Z",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "category": "Memory",
       "keywords": [
         "chip",
@@ -1958,7 +1955,7 @@
       "title": "SK Hynix announces $28.6bn buyback plan to boost stock price",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price",
       "summary": "SK Hynix announces $28.6bn buyback plan to boost stock price",
-      "publishedAt": "2026-08-21T01:53:31.269Z",
+      "publishedAt": "2026-08-21T03:12:26.609Z",
       "source": "Nikkei Asia Technology",
       "category": "Memory",
       "keywords": [
@@ -1972,7 +1969,7 @@
       "title": "Samsung Electronics poised for $72bn shareholder return program",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-electronics-poised-for-72bn-shareholder-return-program",
       "summary": "Samsung Electronics poised for $72bn shareholder return program",
-      "publishedAt": "2026-08-21T01:53:31.268Z",
+      "publishedAt": "2026-08-21T03:12:26.608Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -1981,6 +1978,22 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Asia Supply Chain story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "SK Hynix plans semiconductor fab in Japan, Hankyoreh reports",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEwzSEdBMkRGcGUwZElDLV9CTVg5ZzJuUmFta1p5VGtQeWdnYjdFNmsxRjR6VU5abVRZVFVsSXVoVWJxdDNZVUR5ZnZza3FmaE5scWxKTHJXcjlLYUFqQ3pobmhYLWRoVE1RZzJEN1YyX216eVdFRGJONkhPVzZqRVdSNVM2aTVtSDFZbUVha3NhVDhkMzMtb29EWWtnejF2UXIzMHZITTIxejQ2ZzdhZE94c3lhNmM?oc=5",
+      "summary": "SK Hynix plans semiconductor fab in Japan, Hankyoreh reports &nbsp;&nbsp; Investing.com",
+      "publishedAt": "2026-08-21T00:39:30.000Z",
+      "source": "Investing.com",
+      "category": "Foundry",
+      "keywords": [
+        "semiconductor",
+        "fab",
+        "sk hynix"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
       "title": "SK hynix: The Buyback That Gets Worse As The Stock Gets Better (NASDAQ:SKHY)",
@@ -2025,6 +2038,21 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+    },
+    {
+      "title": "Samsung Raises Contract Chipmaking Prices Up to 15% as AI Demand Tightens Capacity - Quarterly Earnings Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1dhb3hHbVRwWVVvNU83Y2JVQ1UtLVZQWlM2a3BjQ1E1XzZwVEllOVNSNTVTdlNNbEhMaWd5T3NQQmoxVC1Mc2VsdktBbmwwMUktaHFtZmEyVnFERGFaNVVVNF82UU1xQ2NkcFRyckpLdmNCaDJJa05GQ2lSMVZua0ozUTFiNlpjNVgxQUJQcXB5dnhDeVp6VWc1RjR1eWxCeW4wUUFvQnlrdTNQa1lRTk5FQTVxMkZ4aVVyTC1KZGs?oc=5",
+      "summary": "Samsung Raises Contract Chipmaking Prices Up to 15% as AI Demand Tightens Capacity - Quarterly Earnings Report &nbsp;&nbsp; Vinanet",
+      "publishedAt": "2026-08-20T18:13:50.000Z",
+      "source": "Vinanet",
+      "category": "Policy and Supply Chain",
+      "keywords": [
+        "chip",
+        "samsung"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Policy and Supply Chain story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "Micron stock gains 2% today: here's why",
@@ -2210,38 +2238,6 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "Samsung’s chip price hike signals shifting power in AI-driven semiconductor industry",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTnpxOVB5UjNQN0JPVEJhd2hXQkhXWllyWklkLXRuWGpUblJORTMtcU9PWUlzeUdRR3VLX2Fqd2E4c0NIdUNuUG1Da0xWdU5RaDlzWkZkcDY4NmdVcG5WcmZ0RUVFZU1Gc1Vqd1N0cmRlSlhBR3NFLS1JT1piRlVKbURmNVJyWER6RWVvN1IwTEF4QUE0TExUbWhRT3BaVU1ROHpabU9Xd0tOMWk5alE4QmNxbXhtcDJPdE5nT21mS2VXOE02TWQ4cS00c3NvLVpfNlFIVmpnaE0xQm9mM0dXYzF6dkY?oc=5",
-      "summary": "Samsung’s chip price hike signals shifting power in AI-driven semiconductor industry &nbsp;&nbsp; Global Sources",
-      "publishedAt": "2026-08-20T06:04:15.000Z",
-      "source": "Global Sources",
-      "category": "Foundry",
-      "keywords": [
-        "semiconductor",
-        "chip",
-        "samsung"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Foundry story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "Samsung accelerates its second Taylor chip fab in Texas",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjVPUzZEQ2xiZVptWWJrY09ZUTd5ZmZfcHM5dEJac3RZYnBzbkRrSjlJR0hDU3RwaktuSHJvWVJRQmdrREx1d3U5MFp5X3NzU2hCRUpoYk5lRE5Sc0NPY1F5MlFaa1VnNW0wVzhWakc0c05QZzAxeExEM0tNMGFwODlNaXRsbTVXRGRVQ1kxWHBjQi1SRmRBbNIBngFBVV95cUxObFZoSnFNa1F3bU5kdTdDWVdyMkxkVUVLMnNVZmFidDROMzRMakVOamFmWGljZDNZRUxSVkFPUFA4c3lXZW5uSk8xajJQZFhUUFRwTzNjSFFrVFRpUTVaVWliNDdHc3pEa09IaHVRSEJydXdLMDQ2QVdMbDQyYkR1SURva1J5Ykc1bFphSVFyd2ltTjJielF1RGtQVHo5Zw?oc=5",
-      "summary": "Samsung accelerates its second Taylor chip fab in Texas &nbsp;&nbsp; Sammy Fans",
-      "publishedAt": "2026-08-20T05:17:42.000Z",
-      "source": "Sammy Fans",
-      "category": "Foundry",
-      "keywords": [
-        "chip",
-        "fab",
-        "samsung"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     }
   ]
 }
