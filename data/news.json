@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-08-24T04:56:47.965Z",
+  "updatedAt": "2026-08-24T05:49:28.950Z",
   "articleCount": 120,
-  "sourceCount": 62,
+  "sourceCount": 61,
   "searchFeedCount": 7,
-  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are AI Hardware (69), Memory (32), Foundry (12). 18 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
+  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are AI Hardware (71), Memory (30), Foundry (12). 19 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
   "themes": [
     {
       "name": "AI Hardware",
-      "count": 69
+      "count": 71
     },
     {
       "name": "Memory",
-      "count": 32
+      "count": 30
     },
     {
       "name": "Foundry",
@@ -115,8 +115,8 @@
         "ticker": "MU",
         "name": "Micron",
         "signal": "Strong watch",
-        "score": 556,
-        "rationale": "57 related stories; strongest link: Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix",
+        "score": 568,
+        "rationale": "58 related stories; strongest link: Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix",
         "relatedStories": [
           {
             "title": "Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix",
@@ -139,7 +139,7 @@
         "ticker": "SNPS",
         "name": "Synopsys",
         "signal": "Strong watch",
-        "score": 523,
+        "score": 527,
         "rationale": "62 related stories; strongest link: Weekly news roundup: Google diversifies custom chips, TSMC share falls, SK Hynix deepens HBM co-design",
         "relatedStories": [
           {
@@ -153,9 +153,9 @@
             "source": "TrendForce"
           },
           {
-            "title": "Micron: \"AI Memory Bottleneck Worsening—Compute Triples Every Two Years While HBM Bandwidth Grows Less Than 2x\"",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMLWd1WkU3QzNYQ1hVb1dxV1hBOHU5ZWVhUUZwNHVUWVZXa1R3VTNVUlFtcW9DUDJxUjhnSUZEX244V0J0ZkFhMDZKQU1PbXNFNURoTllYYzMyZDhHbXFiWElKcW11RUFtR3VuT1ktN0hDQzhzY1E?oc=5",
-            "source": "finance.biggo.com"
+            "title": "Samsung Confirms HBM4E Memory Running at 16 Gbps Per Pin",
+            "url": "https://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin",
+            "source": "TechPowerUp"
           }
         ]
       },
@@ -163,8 +163,8 @@
         "ticker": "NVDA",
         "name": "Nvidia",
         "signal": "Strong watch",
-        "score": 304,
-        "rationale": "34 related stories; strongest link: Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix",
+        "score": 312,
+        "rationale": "35 related stories; strongest link: Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix",
         "relatedStories": [
           {
             "title": "Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix",
@@ -285,7 +285,7 @@
         "ticker": "Huawei supply chain",
         "name": "Huawei-related chip supply chain",
         "signal": "Strong watch",
-        "score": 179,
+        "score": 177,
         "rationale": "19 related stories; strongest link: Samsung, SK hynix pour fresh investment into aging China factories despite U.S. curbs",
         "relatedStories": [
           {
@@ -524,6 +524,25 @@
         "dram"
       ],
       "importanceScore": 14,
+      "importance": "High",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "Samsung Confirms HBM4E Memory Running at 16 Gbps Per Pin",
+      "url": "https://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin",
+      "summary": "At the Hot Chips 2026 conference's Advance Program, Samsung's Sangwook Han confirmed that the company is preparing to ship HBM4E memory with speeds of 16 Gbps per pin. This is a significant confidence boost for Samsung's Semiconductor division, which has be...",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "source": "TechPowerUp",
+      "category": "AI Hardware",
+      "keywords": [
+        "semiconductor",
+        "chip",
+        "chips",
+        "samsung",
+        "memory",
+        "hbm"
+      ],
+      "importanceScore": 13,
       "importance": "High",
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
@@ -908,21 +927,6 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "Samsung, SK Hynix Returns Trail U.S. Firms",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVpJeG9WQ3NMRTBMcDM3X1hDZk5FSThZTEdaMXF5LW5KZkRKZHZwbkd0RGxOTXlrYmZSR1FZb21VLTA4YXFlRDF0V3ZhZ21yOThTRnluREY0UDRBZEE2VERfMkJNQ0dJcngxVlVDRHZEUVVGektWSGRRVUNxcDlQcjR4cVZCN2Fv?oc=5",
-      "summary": "Samsung, SK Hynix Returns Trail U.S. Firms &nbsp;&nbsp; 조선일보",
-      "publishedAt": "2026-08-24T02:00:03.000Z",
-      "source": "조선일보",
-      "category": "Memory",
-      "keywords": [
-        "sk hynix",
-        "samsung"
-      ],
-      "importanceScore": 10,
-      "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
       "title": "SK hynix Dramatic power efficiency improvement by optimized logic foundry process",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pN0ItTkRqRGNlS1BTQkZqNWZBdWlOWVNsdWpxck42bi1MaGdQcTY5em5PdXRodHZLZjdhQmxIcXo0ZVFqT2NRNVBqOGRNbDdvbXcybU9UbmZRRE1raUEyMjJrcEJJbUpNeEVOdTdn?oc=5",
       "summary": "SK hynix Dramatic power efficiency improvement by optimized logic foundry process &nbsp;&nbsp; ServeTheHome",
@@ -1074,21 +1078,6 @@
       "category": "Memory",
       "keywords": [
         "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 9,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Apple's China Memory Chip Plans Become a Bargaining Chip in US-China Trade Talks",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kTWJJY1RScXJCNG95Nm4yc3RrWnlWRWluSUVNX2ZXZEloaVZRRGNKdzRWNjZGS3A0dnZqVk9razNtelFDbFJ2aVdiYnNVLXJxTlhGUVh3X1gwUVVoMWZSaWdmVXJkRS0wMzJTb1FtamdKZzNi?oc=5",
-      "summary": "Apple's China Memory Chip Plans Become a Bargaining Chip in US-China Trade Talks &nbsp;&nbsp; XenoSpectrum",
-      "publishedAt": "2026-08-23T05:45:21.000Z",
-      "source": "XenoSpectrum",
-      "category": "Memory",
-      "keywords": [
-        "chip",
         "memory"
       ],
       "importanceScore": 9,
@@ -1265,6 +1254,21 @@
       "importanceScore": 8,
       "importance": "Medium",
       "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Memory Shortage Seen Lasting to 2028 as Nvidia Reportedly Locks Down Multi-Year Supply Deals",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rbFZRenFDZWN0RFhJODhNeWhWRGUzb2Q0cVI0TkpkLWZUOWNabUZ1eWo0SFZYZU1UZ1N6NTVlanF4NEl3ZDRMVXc4NDZXOHBIUzVBc29aWlJRQXhfd2tKbUo0UTlrdmZBT21kUzdFSlhtLV8yekE?oc=5",
+      "summary": "Memory Shortage Seen Lasting to 2028 as Nvidia Reportedly Locks Down Multi-Year Supply Deals &nbsp;&nbsp; finance.biggo.com",
+      "publishedAt": "2026-08-22T07:06:25.000Z",
+      "source": "finance.biggo.com",
+      "category": "AI Hardware",
+      "keywords": [
+        "nvidia",
+        "memory"
+      ],
+      "importanceScore": 8,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "Samsung, SK Hynix Under Pressure to Share Bumper Profits",
@@ -1542,7 +1546,7 @@
       "title": "Samsung's record $79bn shareholder return reflects AI boom pressure",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-s-record-79bn-shareholder-return-reflects-ai-boom-pressure",
       "summary": "Samsung's record $79bn shareholder return reflects AI boom pressure",
-      "publishedAt": "2026-08-24T04:56:47.125Z",
+      "publishedAt": "2026-08-24T05:49:28.088Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -1638,6 +1642,21 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Apple's China Memory Chip Plans Become a Bargaining Chip in US-China Trade Talks",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kTWJJY1RScXJCNG95Nm4yc3RrWnlWRWluSUVNX2ZXZEloaVZRRGNKdzRWNjZGS3A0dnZqVk9razNtelFDbFJ2aVdiYnNVLXJxTlhGUVh3X1gwUVVoMWZSaWdmVXJkRS0wMzJTb1FtamdKZzNi?oc=5",
+      "summary": "Apple's China Memory Chip Plans Become a Bargaining Chip in US-China Trade Talks &nbsp;&nbsp; XenoSpectrum",
+      "publishedAt": "2026-08-23T05:45:21.000Z",
+      "source": "XenoSpectrum",
+      "category": "Memory",
+      "keywords": [
+        "chip",
+        "memory"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "SK Hynix May Take Its Memory Boom to Japan With Massive New Factory",
@@ -1755,22 +1774,6 @@
       "category": "Memory",
       "keywords": [
         "micron",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "South Korea's SK Hynix considers multitrillion-won memory chip plant in Japan (SKHY:NASDAQ)",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnNqam9IN05VTFNOSTA5SDM5eVRKNDVhVF9PY0g0Ykg4aFZETm14UXdnNU9OMGlQa21nb3FST0l4OG56QWREMllhYlB4NTBJcWozd0FxREVVM3RENjRBNlhUV0piX3RVdmstbkUyR2gtSzZ3N28tVEN2d1pMaEI0Vm9xaUg4cDR2a2xVU0FtUXJUTlRYd2FuVlJrTFE5dU9kdlp3N05qZjlaSDRxS0kyZktmbmllRDlaSXNZcXh3X2E?oc=5",
-      "summary": "South Korea's SK Hynix considers multitrillion-won memory chip plant in Japan (SKHY:NASDAQ) &nbsp;&nbsp; Seeking Alpha",
-      "publishedAt": "2026-08-21T05:15:32.000Z",
-      "source": "Seeking Alpha",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "sk hynix",
         "memory"
       ],
       "importanceScore": 7,
@@ -2000,7 +2003,7 @@
       "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
       "url": "https://asia.nikkei.com/business/markets/ipo/ymtc-parent-seeks-4.9bn-shanghai-ipo-on-ai-memory-boom",
       "summary": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
-      "publishedAt": "2026-08-24T04:56:47.125Z",
+      "publishedAt": "2026-08-24T05:49:28.088Z",
       "source": "Nikkei Asia Technology",
       "category": "Memory",
       "keywords": [
