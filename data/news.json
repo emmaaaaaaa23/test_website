@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-25T15:54:52.909Z",
-  "articleCount": 106,
+  "updatedAt": "2026-08-25T16:51:04.298Z",
+  "articleCount": 108,
   "sourceCount": 8,
   "searchFeedCount": 7,
-  "summary": "Filtered 106 recent semiconductor stories. The strongest clusters are AI Hardware (40), Memory (14), Hardware (12). 4 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
+  "summary": "Filtered 108 recent semiconductor stories. The strongest clusters are AI Hardware (42), Memory (13), EDA and IP (12). 4 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
   "themes": [
     {
       "name": "AI Hardware",
-      "count": 40
+      "count": 42
     },
     {
       "name": "Memory",
-      "count": 14
+      "count": 13
+    },
+    {
+      "name": "EDA and IP",
+      "count": 12
     },
     {
       "name": "Hardware",
       "count": 12
-    },
-    {
-      "name": "EDA and IP",
-      "count": 11
     },
     {
       "name": "Foundry",
@@ -115,8 +115,8 @@
         "ticker": "SNPS",
         "name": "Synopsys",
         "signal": "Strong watch",
-        "score": 263,
-        "rationale": "44 related stories; strongest link: SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
+        "score": 248,
+        "rationale": "42 related stories; strongest link: SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
         "relatedStories": [
           {
             "title": "SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
@@ -139,8 +139,8 @@
         "ticker": "MU",
         "name": "Micron",
         "signal": "Strong watch",
-        "score": 198,
-        "rationale": "26 related stories; strongest link: SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
+        "score": 191,
+        "rationale": "25 related stories; strongest link: SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
         "relatedStories": [
           {
             "title": "SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
@@ -163,8 +163,8 @@
         "ticker": "NVDA",
         "name": "Nvidia",
         "signal": "Strong watch",
-        "score": 161,
-        "rationale": "29 related stories; strongest link: Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
+        "score": 173,
+        "rationale": "31 related stories; strongest link: Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
         "relatedStories": [
           {
             "title": "Hot Chips 2026: SK hynix pushes hybrid bonding to HBM5 as AI memory hits 775-micron ceiling — firm extends MR-MUF through Nvidia Rubin",
@@ -187,8 +187,8 @@
         "ticker": "INTC",
         "name": "Intel",
         "signal": "Strong watch",
-        "score": 122,
-        "rationale": "32 related stories; strongest link: SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
+        "score": 116,
+        "rationale": "31 related stories; strongest link: SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
         "relatedStories": [
           {
             "title": "SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
@@ -211,8 +211,8 @@
         "ticker": "AMD",
         "name": "AMD",
         "signal": "Strong watch",
-        "score": 88,
-        "rationale": "24 related stories; strongest link: TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
+        "score": 92,
+        "rationale": "25 related stories; strongest link: TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
         "relatedStories": [
           {
             "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
@@ -533,7 +533,7 @@
       "title": "US scrutiny deters some Chinese tariff refund claims as others cash in",
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-scrutiny-deters-some-chinese-tariff-refund-claims-as-others-cash-in",
       "summary": "US scrutiny deters some Chinese tariff refund claims as others cash in",
-      "publishedAt": "2026-08-25T15:54:43.155Z",
+      "publishedAt": "2026-08-25T16:50:54.931Z",
       "source": "Nikkei Asia Technology",
       "category": "Policy and Supply Chain",
       "keywords": [
@@ -559,20 +559,6 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "Logitech hit by sueball over tariff refunds",
-      "url": "https://www.theregister.com/legal/2026/08/24/logitech-hit-by-sueball-over-tariff-refunds/5291845",
-      "summary": "Complaint: Peripheral maker did not want to unplug itself from higher prices and hand back cash to customers",
-      "publishedAt": "2026-08-24T16:34:29.000Z",
-      "source": "The Register",
-      "category": "Policy and Supply Chain",
-      "keywords": [
-        "tariff"
-      ],
-      "importanceScore": 9,
-      "importance": "Medium",
-      "whyImportant": "Policy risk could change supply chains, margins, or China access."
-    },
-    {
       "title": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
       "summary": "Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls",
@@ -591,7 +577,7 @@
       "title": "Exclusive: TSMC supplier Nichias to build key chipmaking 'tubes' in Taiwan",
       "url": "https://asia.nikkei.com/business/technology/exclusive-tsmc-supplier-nichias-to-build-key-chipmaking-tubes-in-taiwan",
       "summary": "Exclusive: TSMC supplier Nichias to build key chipmaking 'tubes' in Taiwan",
-      "publishedAt": "2026-08-25T15:54:43.155Z",
+      "publishedAt": "2026-08-25T16:50:54.931Z",
       "source": "Nikkei Asia Technology",
       "category": "Foundry",
       "keywords": [
@@ -601,6 +587,20 @@
       "importanceScore": 8,
       "importance": "Medium",
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+    },
+    {
+      "title": "(PR) NVIDIA RTX Remix Upgraded With DLSS 4.5 Ray Reconstruction, New Painkiller RTX Mod Update Released",
+      "url": "https://www.techpowerup.com/351928/nvidia-rtx-remix-upgraded-with-dlss-4-5-ray-reconstruction-new-painkiller-rtx-mod-update-released",
+      "summary": "Classic PC games are remembered for their incredible stories, characters and gameplay, but dated visuals can make them tough for modern players to enjoy. NVIDIA RTX Remix changes that. Built for RTX PCs, this modding platform uses cutting-edge path tracing...",
+      "publishedAt": "2026-08-25T16:29:32.000Z",
+      "source": "TechPowerUp",
+      "category": "AI Hardware",
+      "keywords": [
+        "nvidia"
+      ],
+      "importanceScore": 8,
+      "importance": "Medium",
+      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
@@ -695,7 +695,7 @@
       "title": "Samsung Electronics faces internal divide over huge bonus gap",
       "url": "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap",
       "summary": "Samsung Electronics faces internal divide over huge bonus gap",
-      "publishedAt": "2026-08-25T15:54:43.156Z",
+      "publishedAt": "2026-08-25T16:50:54.932Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -722,19 +722,18 @@
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
-      "title": "Micron Opens Boise Training Center to Build Semiconductor Workforce",
-      "url": "https://www.hpcwire.com/off-the-wire/micron-opens-boise-training-center-to-build-semiconductor-workforce/",
-      "summary": "BOISE, Idaho, Aug. 24, 2026 — Micron Technology Inc. today opened a 60,000-square-foot Micron Training Center (MTC) in Boise, a strategic investment to strengthen the skilled talent pipeline, support advanced semiconductor manufacturing and expand education...",
-      "publishedAt": "2026-08-24T17:12:39.000Z",
-      "source": "HPCwire",
-      "category": "Memory",
+      "title": "Logitech hit by sueball over tariff refunds",
+      "url": "https://www.theregister.com/legal/2026/08/24/logitech-hit-by-sueball-over-tariff-refunds/5291845",
+      "summary": "Complaint: Peripheral maker did not want to unplug itself from higher prices and hand back cash to customers",
+      "publishedAt": "2026-08-24T16:34:29.000Z",
+      "source": "The Register",
+      "category": "Policy and Supply Chain",
       "keywords": [
-        "semiconductor",
-        "micron"
+        "tariff"
       ],
       "importanceScore": 7,
       "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+      "whyImportant": "Policy risk could change supply chains, margins, or China access."
     },
     {
       "title": "Best RAM deals 2026 — discounts on DDR5 and DDR4 to beat the memory price crunch",
@@ -920,10 +919,24 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
+      "title": "Blackout tests Central Asia push for deeper power grid, data centers",
+      "url": "https://asia.nikkei.com/business/energy/blackout-tests-central-asia-push-for-deeper-power-grid-data-centers",
+      "summary": "Blackout tests Central Asia push for deeper power grid, data centers",
+      "publishedAt": "2026-08-25T16:50:54.932Z",
+      "source": "Nikkei Asia Technology",
+      "category": "AI Hardware",
+      "keywords": [
+        "data center"
+      ],
+      "importanceScore": 4,
+      "importance": "Watch",
+      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
+    },
+    {
       "title": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan",
       "summary": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
-      "publishedAt": "2026-08-25T15:54:43.157Z",
+      "publishedAt": "2026-08-25T16:50:54.932Z",
       "source": "Nikkei Asia Technology",
       "category": "Asia Supply Chain",
       "keywords": [
@@ -934,10 +947,24 @@
       "whyImportant": "Asia Supply Chain story with potential read-through for semiconductor demand or supply."
     },
     {
-      "title": "Blackout tests Central Asia push for deeper power grid, data centers",
-      "url": "https://asia.nikkei.com/business/energy/blackout-tests-central-asia-push-for-deeper-power-grid-data-centers",
-      "summary": "Blackout tests Central Asia push for deeper power grid, data centers",
-      "publishedAt": "2026-08-25T15:54:43.156Z",
+      "title": "Australia curbs working holiday visas amid migration backlash, vexing farmers",
+      "url": "https://asia.nikkei.com/spotlight/immigration/australia-curbs-working-holiday-visas-amid-migration-backlash-vexing-farmers",
+      "summary": "Australia curbs working holiday visas amid migration backlash, vexing farmers",
+      "publishedAt": "2026-08-25T16:50:54.931Z",
+      "source": "Nikkei Asia Technology",
+      "category": "EDA and IP",
+      "keywords": [
+        "arm"
+      ],
+      "importanceScore": 4,
+      "importance": "Watch",
+      "whyImportant": "EDA and IP story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Japan's Daikin scales up in Mexico with new plant for data center cooling",
+      "url": "https://asia.nikkei.com/business/technology/japan-s-daikin-scales-up-in-mexico-with-new-plant-for-data-center-cooling",
+      "summary": "Japan's Daikin scales up in Mexico with new plant for data center cooling",
+      "publishedAt": "2026-08-25T16:50:54.931Z",
       "source": "Nikkei Asia Technology",
       "category": "AI Hardware",
       "keywords": [
@@ -946,6 +973,34 @@
       "importanceScore": 4,
       "importance": "Watch",
       "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "(PR) CONTROL Resonant GeForce RTX 50 Series Bundle Available Now",
+      "url": "https://www.techpowerup.com/351929/control-resonant-geforce-rtx-50-series-bundle-available-now",
+      "summary": "Remedy Entertainment's CONTROL Resonant is launching September 24th, and is now bundled with select GeForce RTX GPUs, laptops and PCs. In the sequel to the multi-award-winning CONTROL, you'll explore the expansive zones of a twisted Manhattan, overrun by th...",
+      "publishedAt": "2026-08-25T16:44:08.000Z",
+      "source": "TechPowerUp",
+      "category": "AI Hardware",
+      "keywords": [
+        "gpu"
+      ],
+      "importanceScore": 4,
+      "importance": "Watch",
+      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
+      "title": "(PR) Arduino Announces Pre-Orders for VENTUNO Q Edge AI Platform",
+      "url": "https://www.techpowerup.com/351925/arduino-announces-pre-orders-for-ventuno-q-edge-ai-platform",
+      "summary": "Arduino S.r.l., a subsidiary of Qualcomm Technologies, Inc., today opened pre-orders for Arduino VENTUNO Q, its most advanced edge AI platform to date, powered by the Qualcomm Dragonwing IQ8 Series. Now available worldwide, VENTUNO Q was built for developer...",
+      "publishedAt": "2026-08-25T15:56:47.000Z",
+      "source": "TechPowerUp",
+      "category": "Automotive",
+      "keywords": [
+        "qualcomm"
+      ],
+      "importanceScore": 4,
+      "importance": "Watch",
+      "whyImportant": "Automotive story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "Hot Chips 2026: Intel details cutting-edge tech in entry-level Wildcat Lake — value-focused 18A chips necessitated UCIe integration",
@@ -1181,22 +1236,6 @@
       "whyImportant": "EDA and IP story with potential read-through for semiconductor demand or supply."
     },
     {
-      "title": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026",
-      "url": "https://www.hpcwire.com/off-the-wire/intel-outlines-architectures-for-agentic-ai-at-hot-chips-2026/",
-      "summary": "Diamond Rapids, Crescent Island and Wildcat Lake demonstrate how Intel is scaling Agentic AI from the rack to the edge. Aug. 24, 2026 — Intel is showcasing three architectures for Agentic AI and Enterprise-scale workloads, combining the Diamond Rapids proce...",
-      "publishedAt": "2026-08-24T17:24:50.000Z",
-      "source": "HPCwire",
-      "category": "Datacenter",
-      "keywords": [
-        "chip",
-        "chips",
-        "intel"
-      ],
-      "importanceScore": 4,
-      "importance": "Watch",
-      "whyImportant": "Datacenter story with potential read-through for semiconductor demand or supply."
-    },
-    {
       "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
       "url": "https://www.theregister.com/systems/2026/08/24/youtubers-backyard-fab-ambitions-expand-from-ram-to-homebrew-leds/5291956",
       "summary": "Dr. Semiconductor's latest project lights the path toward what he tells us he hopes becomes a cottage chip industry",
@@ -1211,22 +1250,6 @@
       "importanceScore": 4,
       "importance": "Watch",
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
-    },
-    {
-      "title": "Intel Details Xeon 7 \"Diamond Rapids\" Package Design at HOT CHIPS",
-      "url": "https://www.techpowerup.com/351893/intel-details-xeon-7-diamond-rapids-package-design-at-hot-chips",
-      "summary": "Intel, in a detailed presentation, detailed the package design of its next-generation Xeon 7 \"Diamond Rapids\" server processor. The processor is designed to be a versatile serial processing powerhouse for enterprise-scale agentic AI. Intel's design goal wit...",
-      "publishedAt": "2026-08-24T15:55:39.000Z",
-      "source": "TechPowerUp",
-      "category": "Hardware",
-      "keywords": [
-        "chip",
-        "chips",
-        "intel"
-      ],
-      "importanceScore": 4,
-      "importance": "Watch",
-      "whyImportant": "Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "Windows 11 to Get Unified Memory Control Options Ahead of RTX Spark Launch",
@@ -1335,6 +1358,22 @@
       "importanceScore": 3,
       "importance": "Watch",
       "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Intel Details Xeon 7 \"Diamond Rapids\" Package Design at HOT CHIPS",
+      "url": "https://www.techpowerup.com/351893/intel-details-xeon-7-diamond-rapids-package-design-at-hot-chips",
+      "summary": "Intel, in a detailed presentation, detailed the package design of its next-generation Xeon 7 \"Diamond Rapids\" server processor. The processor is designed to be a versatile serial processing powerhouse for enterprise-scale agentic AI. Intel's design goal wit...",
+      "publishedAt": "2026-08-24T15:55:39.000Z",
+      "source": "TechPowerUp",
+      "category": "Hardware",
+      "keywords": [
+        "chip",
+        "chips",
+        "intel"
+      ],
+      "importanceScore": 2,
+      "importance": "Watch",
+      "whyImportant": "Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "Intel CPUs Return to Amazon's Top 10 Best-Selling List After Months",
@@ -1555,20 +1594,6 @@
       "importanceScore": 2,
       "importance": "Watch",
       "whyImportant": "EDA and IP story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "Officials nationwide face death threats and gunfire over AI data center projects — More than 500 towns restrict builds as councils shutter public comment",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/death-threats-hit-data-center-opponents-as-towns-cancel-votes-and-close-public-comment",
-      "summary": "Officials nationwide face death threats and gunfire over AI data center projects — More than 500 towns restrict builds as councils shutter public comment",
-      "publishedAt": "2026-08-23T10:30:00.000Z",
-      "source": "Tom's Hardware",
-      "category": "AI Hardware",
-      "keywords": [
-        "data center"
-      ],
-      "importanceScore": 2,
-      "importance": "Watch",
-      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "Rapidus Targets 8-Reticle Interposers on 600 mm Advanced Packaging Panels by 2030",
