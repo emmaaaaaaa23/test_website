@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-09-18T04:34:54.913Z",
+  "updatedAt": "2026-09-18T09:39:09.143Z",
   "articleCount": 120,
-  "sourceCount": 75,
+  "sourceCount": 77,
   "searchFeedCount": 7,
-  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are Memory (66), AI Hardware (37), Foundry (13). 13 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
+  "summary": "Filtered 120 recent semiconductor stories. The strongest clusters are Memory (59), AI Hardware (45), Foundry (12). 15 stories are marked high importance because they touch policy, AI accelerators, memory supply, foundry capacity, or equipment constraints.",
   "themes": [
     {
       "name": "Memory",
-      "count": 66
+      "count": 59
     },
     {
       "name": "AI Hardware",
-      "count": 37
+      "count": 45
     },
     {
       "name": "Foundry",
-      "count": 13
+      "count": 12
     },
     {
       "name": "Policy and Supply Chain",
@@ -27,6 +27,26 @@
     }
   ],
   "highlights": [
+    {
+      "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+      "source": "Tom's Hardware",
+      "category": "AI Hardware",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "importance": "High",
+      "importanceScore": 20,
+      "whyImportant": "Policy risk could change supply chains, margins, or China access."
+    },
+    {
+      "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand?",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0Jjc3plaUpZZ3JSRVZPRS1TNkFYa3ZWR1E3RElxOXRPemlXLWdmRHR3UU5rWkRvREZKZFg5d185WXhyeFhfekUxRGxXUW9qeTR3YlhWVkZLc1Y4SlZZcE5ISjljZzBiVnhaZjZKQ0t2TXV5SXB3bFp6YTRMNEY0WktscFA3bHQ4dFc0N1BRTGJnUnQ1MXVlM2Q5bmZkdV9UR0NDczFhYkRtcDd5bkFLeU5jUFhyWFNGdjI5OUd6dTRMR2dYOFNuTzJvR21LbFdkS1JkRnl6UzZsU28?oc=5",
+      "source": "TradingView",
+      "category": "AI Hardware",
+      "publishedAt": "2026-09-15T18:23:45.000Z",
+      "importance": "High",
+      "importanceScore": 19,
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
     {
       "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
@@ -68,14 +88,14 @@
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
-      "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
-      "source": "Tom's Hardware",
+      "title": "China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZzktWW9QeHkyV2xDMGRmb2FLUU9aLWt0RF93Y2ZocUJjcWRCN1U1SGFGZGZSLU5hTWJRWkVJLUpkTkRZNEd3VzNhSkgzUzBoMTBBS1drTHRvMUVfTlBIZTJGR0pya2dCVU9SeDZuY0R4YWZLeWtNaDhn?oc=5",
+      "source": "intelligentliving.co",
       "category": "AI Hardware",
-      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "publishedAt": "2026-09-15T14:51:53.000Z",
       "importance": "High",
       "importanceScore": 15,
-      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "“Samsung’s HBM4 and China’s Commodity DRAM Offensive”: SK hynix Loses Ground as Global Memory-Market Competition Reshapes",
@@ -86,26 +106,6 @@
       "importance": "High",
       "importanceScore": 15,
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Huawei Races Against Nvidia: China’s AI Leadership Battle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0Q3c0hERlRnY3R0cDB3blNZY1o4NG9IZVpVZTg1eTBYeDIyN0Y1V3dNSVRjckM0RktSU0hDZlVHUUxCeEVESmtjX2NUOWVGTDNBZzlvZXFvV1A0MUlPVU5Yb0VicS1aelpzTkZ3VnE0REhxYnp1MUNmdXlEbEd4T2pzYlhBclJUcVN2dE1ucGl2Und1N3NaWE5sQkVPMXJkVlZVWGh4ZzBkUnkxblp2SDh2Ul9BQdIBtgFBVV95cUxOX0Q3c0hERlRnY3R0cDB3blNZY1o4NG9IZVpVZTg1eTBYeDIyN0Y1V3dNSVRjckM0RktSU0hDZlVHUUxCeEVESmtjX2NUOWVGTDNBZzlvZXFvV1A0MUlPVU5Yb0VicS1aelpzTkZ3VnE0REhxYnp1MUNmdXlEbEd4T2pzYlhBclJUcVN2dE1ucGl2Und1N3NaWE5sQkVPMXJkVlZVWGh4ZzBkUnkxblp2SDh2Ul9BQQ?oc=5",
-      "source": "Devdiscourse",
-      "category": "AI Hardware",
-      "publishedAt": "2026-09-17T09:07:26.000Z",
-      "importance": "High",
-      "importanceScore": 14,
-      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "Samsung Is Betting On An Alternative To Nvidia. Dutch AI Chip Startup Euclyd Just Raised $231 Million.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWVIN3JfRVIyd0VBY0Q2ZkRnOEE1NHFBOW5ka1czOW5feDdLdkxjWjNZbWJoZHJJNEIwN1FKa3hEZ29Sam1oUEoyTklqNjBQQ2VCN3gyNEpWS0dRMGlLVGlKYldUQzdaTGFpakNvakJRYUpJbEZrVjlRNTduSE1WNEp3cFJfY2R0WlZucElWcEhmaFA3OTAzXzlDdlhQMmQ5c3dpYUNmZkRDc0xNWmJ2aDFXSGxkX1V4V2c0?oc=5",
-      "source": "International Business Times",
-      "category": "AI Hardware",
-      "publishedAt": "2026-09-15T18:26:53.000Z",
-      "importance": "High",
-      "importanceScore": 13,
-      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     }
   ],
   "marketSignals": {
@@ -115,23 +115,23 @@
         "ticker": "SNPS",
         "name": "Synopsys",
         "signal": "Strong watch",
-        "score": 677,
-        "rationale": "78 related stories; strongest link: China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+        "score": 683,
+        "rationale": "74 related stories; strongest link: Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
         "relatedStories": [
+          {
+            "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+            "source": "Tom's Hardware"
+          },
+          {
+            "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand?",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0Jjc3plaUpZZ3JSRVZPRS1TNkFYa3ZWR1E3RElxOXRPemlXLWdmRHR3UU5rWkRvREZKZFg5d185WXhyeFhfekUxRGxXUW9qeTR3YlhWVkZLc1Y4SlZZcE5ISjljZzBiVnhaZjZKQ0t2TXV5SXB3bFp6YTRMNEY0WktscFA3bHQ4dFc0N1BRTGJnUnQ1MXVlM2Q5bmZkdV9UR0NDczFhYkRtcDd5bkFLeU5jUFhyWFNGdjI5OUd6dTRMR2dYOFNuTzJvR21LbFdkS1JkRnl6UzZsU28?oc=5",
+            "source": "TradingView"
+          },
           {
             "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
             "source": "Reuters"
-          },
-          {
-            "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
-            "source": "The Japan Times"
-          },
-          {
-            "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
-            "source": "TechCrunch"
           }
         ]
       },
@@ -139,23 +139,23 @@
         "ticker": "MU",
         "name": "Micron",
         "signal": "Strong watch",
-        "score": 575,
-        "rationale": "72 related stories; strongest link: Samsung Shifts HBM Strategy, Plans to Open Custom Base Die to TSMC Foundry",
+        "score": 602,
+        "rationale": "71 related stories; strongest link: SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand?",
         "relatedStories": [
+          {
+            "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand?",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0Jjc3plaUpZZ3JSRVZPRS1TNkFYa3ZWR1E3RElxOXRPemlXLWdmRHR3UU5rWkRvREZKZFg5d185WXhyeFhfekUxRGxXUW9qeTR3YlhWVkZLc1Y4SlZZcE5ISjljZzBiVnhaZjZKQ0t2TXV5SXB3bFp6YTRMNEY0WktscFA3bHQ4dFc0N1BRTGJnUnQ1MXVlM2Q5bmZkdV9UR0NDczFhYkRtcDd5bkFLeU5jUFhyWFNGdjI5OUd6dTRMR2dYOFNuTzJvR21LbFdkS1JkRnl6UzZsU28?oc=5",
+            "source": "TradingView"
+          },
           {
             "title": "Samsung Shifts HBM Strategy, Plans to Open Custom Base Die to TSMC Foundry",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iTVhLSUFLOG9Xakc4N0xkR2pxSGwyUGFuWVRpNFBnaEZZSW5vTXUwLXJsWXhuTmZub0h6Mjc2OVhvdXlibk5TU21sc0t3SUd3dnRyWkNRTmZzVFRyaUYtNE9hckM1anlkOUU0VS1jQlRudFo3c1E?oc=5",
             "source": "finance.biggo.com"
           },
           {
-            "title": "“Samsung’s HBM4 and China’s Commodity DRAM Offensive”: SK hynix Loses Ground as Global Memory-Market Competition Reshapes",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xemhNS0htWDBVcU9pOFFpdHFXekg0MXpRdzVYdEp0NGRTVkZpSFhBZ3R3MzJNdXl5STFfV1hKZEV1YndXSElpMTRieVAycU1LUmVvRWNocw?oc=5",
-            "source": "economy.ac"
-          },
-          {
-            "title": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWF6WXlVbU5mUmd2cnZjb0N5X2ZHX0VHdHE5aW5IYmE5MDZOeDg1RHZ1ei1JOEJaTnZTNUJ3YlpNZ1dySE00WmJlTXZjdHhtOG1Ia2RXcmdqeWpVWTM4ZmI1ZnYyODI4d2lrdUhYWXpnMUM3T21WUmhHaTVXZ0FMN3R2blJpQ1hTVXhTUWttYkx1ZjdvWng5all6cTFsYk9ueHgwaEgtZnZMZTFFbGFvc1RweERpTnp6N2c5Tg?oc=5",
-            "source": "247wallst.com"
+            "title": "China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZzktWW9QeHkyV2xDMGRmb2FLUU9aLWt0RF93Y2ZocUJjcWRCN1U1SGFGZGZSLU5hTWJRWkVJLUpkTkRZNEd3VzNhSkgzUzBoMTBBS1drTHRvMUVfTlBIZTJGR0pya2dCVU9SeDZuY0R4YWZLeWtNaDhn?oc=5",
+            "source": "intelligentliving.co"
           }
         ]
       },
@@ -163,18 +163,18 @@
         "ticker": "INTC",
         "name": "Intel",
         "signal": "Strong watch",
-        "score": 470,
-        "rationale": "62 related stories; strongest link: Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%",
+        "score": 405,
+        "rationale": "52 related stories; strongest link: China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth",
         "relatedStories": [
+          {
+            "title": "China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZzktWW9QeHkyV2xDMGRmb2FLUU9aLWt0RF93Y2ZocUJjcWRCN1U1SGFGZGZSLU5hTWJRWkVJLUpkTkRZNEd3VzNhSkgzUzBoMTBBS1drTHRvMUVfTlBIZTJGR0pya2dCVU9SeDZuY0R4YWZLeWtNaDhn?oc=5",
+            "source": "intelligentliving.co"
+          },
           {
             "title": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%",
             "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWF6WXlVbU5mUmd2cnZjb0N5X2ZHX0VHdHE5aW5IYmE5MDZOeDg1RHZ1ei1JOEJaTnZTNUJ3YlpNZ1dySE00WmJlTXZjdHhtOG1Ia2RXcmdqeWpVWTM4ZmI1ZnYyODI4d2lrdUhYWXpnMUM3T21WUmhHaTVXZ0FMN3R2blJpQ1hTVXhTUWttYkx1ZjdvWng5all6cTFsYk9ueHgwaEgtZnZMZTFFbGFvc1RweERpTnp6N2c5Tg?oc=5",
-            "source": "247wallst.com"
-          },
-          {
-            "title": "SK Hynix, Intel Rise On Ohio Memory Chip Talks - Intel (NASDAQ:INTC), Micron Technology (NASDAQ:MU)",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEw4ZUVUeUtIYm9zN19TSUZsNm0yQkxRZDI0bkNOcjctVUtqWElXLWo2dnc5dHlBNU9hbHBzM0JXdmIxQ0pySDNfQ3JiU3BSRENNMnFReGlsTHZ4NHZ2YkZWLUZ6Z05JZmRFVURrSmdHMV9USmc4YnNtN2dXbmkzUUxDOFJFNlpncEF4Y0VlNzQ0UkI2djU4QmJuQ00?oc=5",
-            "source": "Benzinga"
+            "source": "24/7 Wall St."
           },
           {
             "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD",
@@ -187,9 +187,14 @@
         "ticker": "AMD",
         "name": "AMD",
         "signal": "Strong watch",
-        "score": 267,
-        "rationale": "25 related stories; strongest link: China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+        "score": 316,
+        "rationale": "29 related stories; strongest link: Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
         "relatedStories": [
+          {
+            "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+            "source": "Tom's Hardware"
+          },
           {
             "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
@@ -199,11 +204,6 @@
             "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
             "source": "The Japan Times"
-          },
-          {
-            "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
-            "source": "TechCrunch"
           }
         ]
       },
@@ -211,23 +211,23 @@
         "ticker": "NVDA",
         "name": "Nvidia",
         "signal": "Strong watch",
-        "score": 221,
-        "rationale": "20 related stories; strongest link: China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+        "score": 279,
+        "rationale": "24 related stories; strongest link: Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
         "relatedStories": [
+          {
+            "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+            "source": "Tom's Hardware"
+          },
+          {
+            "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand?",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0Jjc3plaUpZZ3JSRVZPRS1TNkFYa3ZWR1E3RElxOXRPemlXLWdmRHR3UU5rWkRvREZKZFg5d185WXhyeFhfekUxRGxXUW9qeTR3YlhWVkZLc1Y4SlZZcE5ISjljZzBiVnhaZjZKQ0t2TXV5SXB3bFp6YTRMNEY0WktscFA3bHQ4dFc0N1BRTGJnUnQ1MXVlM2Q5bmZkdV9UR0NDczFhYkRtcDd5bkFLeU5jUFhyWFNGdjI5OUd6dTRMR2dYOFNuTzJvR21LbFdkS1JkRnl6UzZsU28?oc=5",
+            "source": "TradingView"
+          },
           {
             "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
             "source": "Reuters"
-          },
-          {
-            "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
-            "source": "The Japan Times"
-          },
-          {
-            "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
-            "source": "TechCrunch"
           }
         ]
       },
@@ -235,8 +235,8 @@
         "ticker": "TSM",
         "name": "TSMC ADR",
         "signal": "Strong watch",
-        "score": 103,
-        "rationale": "11 related stories; strongest link: Samsung Shifts HBM Strategy, Plans to Open Custom Base Die to TSMC Foundry",
+        "score": 92,
+        "rationale": "10 related stories; strongest link: Samsung Shifts HBM Strategy, Plans to Open Custom Base Die to TSMC Foundry",
         "relatedStories": [
           {
             "title": "Samsung Shifts HBM Strategy, Plans to Open Custom Base Die to TSMC Foundry",
@@ -249,9 +249,9 @@
             "source": "finance.biggo.com"
           },
           {
-            "title": "Fujitsu's Monaka AI Chip to Ship to Super Micro Next Year, Manufactured by TSMC on 2nm Process",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80eHl3SFd0V2ZjQUF5SzlhcFlUb19SZ0s4SWxJcnVFbmUydURMV29QOHI4bDNZRGRQSFBEdEdMREY3SEhQVENDWjd0cjdUOVNKaGpCV3hWUXRiUzI1ZWtPcEJhX19NZkNXWXUyeElLQ2dpdm5mR0E?oc=5",
-            "source": "finance.biggo.com"
+            "title": "Samsung Starts Tesla AI5 Prototype Production, Narrowing Gap with TSMC",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWT1A0X1RqTXR5OUZvcjRBeTI4WTc2MDM2VTFMUEZ1RVdGS1Y5SXZudU5MNzgzTkNxU2RpbzIyaGZWY2NXSUZ0MlRySFp1RzJ0Vk9XVlVScGh0dnpXRHdSbWgyVzlwY1BuLVVjaXhaRDFDYmFs?oc=5",
+            "source": "Businesskorea"
           }
         ]
       }
@@ -261,9 +261,14 @@
         "ticker": "688256.SS",
         "name": "Cambricon",
         "signal": "Strong watch",
-        "score": 221,
-        "rationale": "20 related stories; strongest link: China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+        "score": 270,
+        "rationale": "24 related stories; strongest link: Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
         "relatedStories": [
+          {
+            "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+            "source": "Tom's Hardware"
+          },
           {
             "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
@@ -273,11 +278,6 @@
             "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
             "source": "The Japan Times"
-          },
-          {
-            "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
-            "source": "TechCrunch"
           }
         ]
       },
@@ -285,9 +285,14 @@
         "ticker": "Huawei supply chain",
         "name": "Huawei-related chip supply chain",
         "signal": "Strong watch",
-        "score": 130,
-        "rationale": "10 related stories; strongest link: China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
+        "score": 205,
+        "rationale": "17 related stories; strongest link: Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
         "relatedStories": [
+          {
+            "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+            "source": "Tom's Hardware"
+          },
           {
             "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
@@ -297,11 +302,6 @@
             "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign",
             "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
             "source": "The Japan Times"
-          },
-          {
-            "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZ5YWdUdGV1eTlQZkg2WktxODk3S0lLelNWZDdtVjY0YUgySWtGWGdJZTRlQ0hfUUVOQXFORXpsMnJsT1dxWHZEcWI0ZlROU05Ebmtqb2VUTDl5VVc2al9Va05CTERFNDhTd1A5N3dNMzA1c19TZjFDX2NRcFFCY01nV1NrTFYyVTdVRm52T0dsY1g0enpNei0tUWhCeHVk?oc=5",
-            "source": "TechCrunch"
           }
         ]
       },
@@ -346,6 +346,43 @@
     ]
   },
   "articles": [
+    {
+      "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+      "summary": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+      "publishedAt": "2026-09-17T12:00:00.000Z",
+      "source": "Tom's Hardware",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "chips",
+        "nvidia",
+        "ai chip",
+        "sanction",
+        "sanctions"
+      ],
+      "importanceScore": 20,
+      "importance": "High",
+      "whyImportant": "Policy risk could change supply chains, margins, or China access."
+    },
+    {
+      "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand?",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0Jjc3plaUpZZ3JSRVZPRS1TNkFYa3ZWR1E3RElxOXRPemlXLWdmRHR3UU5rWkRvREZKZFg5d185WXhyeFhfekUxRGxXUW9qeTR3YlhWVkZLc1Y4SlZZcE5ISjljZzBiVnhaZjZKQ0t2TXV5SXB3bFp6YTRMNEY0WktscFA3bHQ4dFc0N1BRTGJnUnQ1MXVlM2Q5bmZkdV9UR0NDczFhYkRtcDd5bkFLeU5jUFhyWFNGdjI5OUd6dTRMR2dYOFNuTzJvR21LbFdkS1JkRnl6UzZsU28?oc=5",
+      "summary": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand? &nbsp;&nbsp; TradingView",
+      "publishedAt": "2026-09-15T18:23:45.000Z",
+      "source": "TradingView",
+      "category": "AI Hardware",
+      "keywords": [
+        "nvidia",
+        "micron",
+        "sk hynix",
+        "samsung",
+        "hbm"
+      ],
+      "importanceScore": 19,
+      "importance": "High",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
     {
       "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUF2NV9DeFExYkFNQS1hQnZfTjFBY05sRjRmN3hMQkxoTmo0aEYtMnNyU3BnRUZPUzVtZGt6ZjE1ZWVsRldkWG1RMVUyaWpFWTg1Q3paeENVblNJUi1ITktZemVWRy1tbGc3OHd5QkFLT0Zya1UyOE13LW1XbTN4d002Zi1ReXJHRlZDNTZlUmh5cmFEcmhlNk9ET2JWZw?oc=5",
@@ -412,21 +449,22 @@
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
-      "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
-      "summary": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
-      "publishedAt": "2026-09-17T12:00:00.000Z",
-      "source": "Tom's Hardware",
+      "title": "China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZzktWW9QeHkyV2xDMGRmb2FLUU9aLWt0RF93Y2ZocUJjcWRCN1U1SGFGZGZSLU5hTWJRWkVJLUpkTkRZNEd3VzNhSkgzUzBoMTBBS1drTHRvMUVfTlBIZTJGR0pya2dCVU9SeDZuY0R4YWZLeWtNaDhn?oc=5",
+      "summary": "China’s DFSX DF1000 AI Chip: A 14nm Accelerator Outperforming NVIDIA’s H200 on Memory Bandwidth &nbsp;&nbsp; intelligentliving.co",
+      "publishedAt": "2026-09-15T14:51:53.000Z",
+      "source": "intelligentliving.co",
       "category": "AI Hardware",
       "keywords": [
         "chip",
-        "chips",
         "nvidia",
+        "intel",
+        "memory",
         "ai chip"
       ],
       "importanceScore": 15,
       "importance": "High",
-      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "“Samsung’s HBM4 and China’s Commodity DRAM Offensive”: SK hynix Loses Ground as Global Memory-Market Competition Reshapes",
@@ -447,18 +485,21 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "Huawei Races Against Nvidia: China’s AI Leadership Battle",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0Q3c0hERlRnY3R0cDB3blNZY1o4NG9IZVpVZTg1eTBYeDIyN0Y1V3dNSVRjckM0RktSU0hDZlVHUUxCeEVESmtjX2NUOWVGTDNBZzlvZXFvV1A0MUlPVU5Yb0VicS1aelpzTkZ3VnE0REhxYnp1MUNmdXlEbEd4T2pzYlhBclJUcVN2dE1ucGl2Und1N3NaWE5sQkVPMXJkVlZVWGh4ZzBkUnkxblp2SDh2Ul9BQdIBtgFBVV95cUxOX0Q3c0hERlRnY3R0cDB3blNZY1o4NG9IZVpVZTg1eTBYeDIyN0Y1V3dNSVRjckM0RktSU0hDZlVHUUxCeEVESmtjX2NUOWVGTDNBZzlvZXFvV1A0MUlPVU5Yb0VicS1aelpzTkZ3VnE0REhxYnp1MUNmdXlEbEd4T2pzYlhBclJUcVN2dE1ucGl2Und1N3NaWE5sQkVPMXJkVlZVWGh4ZzBkUnkxblp2SDh2Ul9BQQ?oc=5",
-      "summary": "Huawei Races Against Nvidia: China’s AI Leadership Battle &nbsp;&nbsp; Devdiscourse",
-      "publishedAt": "2026-09-17T09:07:26.000Z",
-      "source": "Devdiscourse",
+      "title": "Nvidia Stock Surge Points To 3 AI Chip Equipment Stocks Worth Watching",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHptaTIyQVY5XzB3b3VoTXdHcGRINjdhYmpzekNBVzNyTkdRcFVNQUhNa2FNVGQ4RHBMazhRZHdzWG9ySWJ6empUN1pwTVFJRWN2eTluZkJPUUJRQUVHWnZDbWhlelhRNXl0ejRoTUM2dmZWdnBUemFYbDA0TnZkdWR0R0NwSjB3dHNfWE1PQTA1TTlPWXc?oc=5",
+      "summary": "Nvidia Stock Surge Points To 3 AI Chip Equipment Stocks Worth Watching &nbsp;&nbsp; finance.yahoo.com",
+      "publishedAt": "2026-09-18T05:17:00.000Z",
+      "source": "finance.yahoo.com",
       "category": "AI Hardware",
       "keywords": [
-        "nvidia"
+        "chip",
+        "nvidia",
+        "ai chip",
+        "chip equipment"
       ],
       "importanceScore": 14,
       "importance": "High",
-      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
+      "whyImportant": "Equipment signals future capacity and technology-node progress."
     },
     {
       "title": "Samsung Is Betting On An Alternative To Nvidia. Dutch AI Chip Startup Euclyd Just Raised $231 Million.",
@@ -495,28 +536,26 @@
       "whyImportant": "Equipment signals future capacity and technology-node progress."
     },
     {
-      "title": "Samsung invests in Nvidia rival: Dutch AI chip startup gets $230 million funding as quest for alternatives grow",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWUIyZVRFNUdIek14ZXYxbjFNR2VRYVNjVm00SXJZa0I3d01qdU1qeFBJUjk2WGxvQ1R4V3pZaFVLR0JOb3d0dmVxZjJ6WEtiR1phMUN3aXpxdGVjbjhsc0JUaVROXzdHV2VhcmxzZGlfNlVyOGQtazRsQkJNUXdKRUNOLUhNYWRXX3piM05kX09fMmV4MjVYd0lUQ1lMdTR2dVcySFBlTU5lOUhveUFHNW8zNDJQMXFCT204RGJyTUhVN1k0aGxVOEhwT3NOVGFhdmpJZTc3YVJiLW00VXkwX0Z1SnluUmJjVUJfcURpTGIzUzdqQjhyOVlIZ1E3Zk9jRGszUW9NWdIBjAJBVV95cUxNWEstbnBvVTE2RXZRWXpZTUF1dHJqUGdxVF9zdElMTnJnNmVSUjBTZ0RQcXp0WFJrWFE2WGdBQWtpYlh3d2RjZElKWnlTRGh5YXRKUWJLcnYxa0hQT1lhVDU0c19vTnRxVXlNS0RfeGtVQm1ORGQ1MFRIOGRvX3hsVHJaeUVLbWRlZTI1RllXYmszV3BxSGdvYXhibHVVMVZxRkRNd0MzNzRwZ0VvZTdEQ0I5WlR4S1VaNDUwVFdNRkZTakdKVFBEbVQ4QjNHTkxjV2lQREcwUlZHZnd0SUZPQ2ZkTGJWejdsVWZScDVWNFVGMDhYcXZFMmZfUzlrRUtCaTdnR1Y1Q1lwMlRB?oc=5",
-      "summary": "Samsung invests in Nvidia rival: Dutch AI chip startup gets $230 million funding as quest for alternatives grow &nbsp;&nbsp; Livemint",
-      "publishedAt": "2026-09-15T05:20:48.000Z",
-      "source": "Livemint",
-      "category": "AI Hardware",
+      "title": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXhCUnlwalg0dVppb2Y3dDVQNUFsUUlsLTZ2c2NJckZ2UjBxWXE0TC1QdFRSY0Q3VFA4QWctMzZSMHd6NFQ4Q1pDTy1UZTlVNE12ZGlmMGpFdXkzMXMxOWV4UWE0Z1REeHRMNzQ1NkFmd1hmQWc5d3FWdTUzYWM4ejhZc2IwSXprb3gtZzJxWmpTVFA4ZlFTSGhDN3J1ZWl1dWJVNkxVRVVTVkFjTS1LQXg2Y0RJZ1JTSms1VzJ4enppek4xMWFYRUxjMzA3dw?oc=5",
+      "summary": "EXCLUSIVE: China's CXMT eyes flash-memory push amid global shortage; firm to take on Samsung, YMTC &nbsp;&nbsp; Reuters",
+      "publishedAt": "2026-09-18T05:23:00.000Z",
+      "source": "Reuters",
+      "category": "Memory",
       "keywords": [
-        "chip",
-        "nvidia",
         "samsung",
-        "ai chip"
+        "memory"
       ],
-      "importanceScore": 13,
+      "importanceScore": 12,
       "importance": "High",
-      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6%",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWF6WXlVbU5mUmd2cnZjb0N5X2ZHX0VHdHE5aW5IYmE5MDZOeDg1RHZ1ei1JOEJaTnZTNUJ3YlpNZ1dySE00WmJlTXZjdHhtOG1Ia2RXcmdqeWpVWTM4ZmI1ZnYyODI4d2lrdUhYWXpnMUM3T21WUmhHaTVXZ0FMN3R2blJpQ1hTVXhTUWttYkx1ZjdvWng5all6cTFsYk9ueHgwaEgtZnZMZTFFbGFvc1RweERpTnp6N2c5Tg?oc=5",
-      "summary": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6% &nbsp;&nbsp; 247wallst.com",
+      "summary": "Intel Jumps 8%, SK Hynix Climbs 5% as Ohio Memory Talks Reignite; Micron Rises 6% &nbsp;&nbsp; 24/7 Wall St.",
       "publishedAt": "2026-09-17T14:48:00.000Z",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "category": "Memory",
       "keywords": [
         "intel",
@@ -529,29 +568,25 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "SK Hynix, Intel Rise On Ohio Memory Chip Talks - Intel (NASDAQ:INTC), Micron Technology (NASDAQ:MU)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEw4ZUVUeUtIYm9zN19TSUZsNm0yQkxRZDI0bkNOcjctVUtqWElXLWo2dnc5dHlBNU9hbHBzM0JXdmIxQ0pySDNfQ3JiU3BSRENNMnFReGlsTHZ4NHZ2YkZWLUZ6Z05JZmRFVURrSmdHMV9USmc4YnNtN2dXbmkzUUxDOFJFNlpncEF4Y0VlNzQ0UkI2djU4QmJuQ00?oc=5",
-      "summary": "SK Hynix, Intel Rise On Ohio Memory Chip Talks - Intel (NASDAQ:INTC), Micron Technology (NASDAQ:MU) &nbsp;&nbsp; Benzinga",
-      "publishedAt": "2026-09-17T13:01:25.000Z",
-      "source": "Benzinga",
-      "category": "Memory",
+      "title": "Huawei Races Against Nvidia: China’s AI Leadership Battle",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0Q3c0hERlRnY3R0cDB3blNZY1o4NG9IZVpVZTg1eTBYeDIyN0Y1V3dNSVRjckM0RktSU0hDZlVHUUxCeEVESmtjX2NUOWVGTDNBZzlvZXFvV1A0MUlPVU5Yb0VicS1aelpzTkZ3VnE0REhxYnp1MUNmdXlEbEd4T2pzYlhBclJUcVN2dE1ucGl2Und1N3NaWE5sQkVPMXJkVlZVWGh4ZzBkUnkxblp2SDh2Ul9BQdIBtgFBVV95cUxOX0Q3c0hERlRnY3R0cDB3blNZY1o4NG9IZVpVZTg1eTBYeDIyN0Y1V3dNSVRjckM0RktSU0hDZlVHUUxCeEVESmtjX2NUOWVGTDNBZzlvZXFvV1A0MUlPVU5Yb0VicS1aelpzTkZ3VnE0REhxYnp1MUNmdXlEbEd4T2pzYlhBclJUcVN2dE1ucGl2Und1N3NaWE5sQkVPMXJkVlZVWGh4ZzBkUnkxblp2SDh2Ul9BQQ?oc=5",
+      "summary": "Huawei Races Against Nvidia: China’s AI Leadership Battle &nbsp;&nbsp; Devdiscourse",
+      "publishedAt": "2026-09-17T09:07:26.000Z",
+      "source": "Devdiscourse",
+      "category": "AI Hardware",
       "keywords": [
-        "chip",
-        "intel",
-        "micron",
-        "sk hynix",
-        "memory"
+        "nvidia"
       ],
       "importanceScore": 12,
       "importance": "High",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "What Nvidia and SK Hynix Are Signaling About Micron's Outlook",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBfcmJzWUpaLW9yR1pEeXgwQ0RoSEdzWUtRcmZqak84TWhkRHRxYjJGdFphVkM5SHh6TEtFVWtKZUdDV1FDdU9hTU11NDIwenVwTkhhRTRIR2NyczZHSC1MVVY0Z3BLUjJNTXNyem8tN041eFBaTEpIV0JqZUdraExoN0o4THBTUkVTTnF2UmpJMHNVT1lERQ?oc=5",
-      "summary": "What Nvidia and SK Hynix Are Signaling About Micron's Outlook &nbsp;&nbsp; The Motley Fool",
+      "summary": "What Nvidia and SK Hynix Are Signaling About Micron's Outlook &nbsp;&nbsp; fool.com",
       "publishedAt": "2026-09-16T14:05:00.000Z",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "category": "AI Hardware",
       "keywords": [
         "nvidia",
@@ -566,7 +601,7 @@
       "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/huawei-debuts-11-ai-related-chips-in-challenge-to-nvidia-intel-amd",
       "summary": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD",
-      "publishedAt": "2026-09-18T04:34:54.220Z",
+      "publishedAt": "2026-09-18T09:39:08.230Z",
       "source": "Nikkei Asia Technology",
       "category": "AI Hardware",
       "keywords": [
@@ -581,11 +616,27 @@
       "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
+      "title": "Chip Industry Week In Review",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-156/",
+      "summary": "Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm & below advances; Huawei's chip offensive; RoT solution for data centers and AI SoCs; Chinese equipment makers gain share; India's chip build-out; McKinsey's tech trends; major funding r...",
+      "publishedAt": "2026-09-18T07:01:07.000Z",
+      "source": "Semiconductor Engineering",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "memory",
+        "data center"
+      ],
+      "importanceScore": 11,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
       "title": "U.S. Export Controls on Chinese Memory Chips Could Make or Break CRAM in 2026",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56cHotbGFzZF84NURUb2J5SjU1U0M0X1JlMGJiQWxKTGFYaHZrU3ZmRmxCR2VoWlI5SENFdERrOWRHSEVadjJzeGRBSEVHZFA3cWZSSXRDWWFfTmhScU5RMjJMcWt2UE95WjM5ak0tbWpIdUZ4?oc=5",
-      "summary": "U.S. Export Controls on Chinese Memory Chips Could Make or Break CRAM in 2026 &nbsp;&nbsp; 247wallst.com",
+      "summary": "U.S. Export Controls on Chinese Memory Chips Could Make or Break CRAM in 2026 &nbsp;&nbsp; 24/7 Wall St.",
       "publishedAt": "2026-09-17T13:40:00.000Z",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "category": "Memory",
       "keywords": [
         "chip",
@@ -632,6 +683,23 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
+      "title": "Samsung invests in Nvidia rival: Dutch AI chip startup gets $230 million funding as quest for alternatives grow",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWUIyZVRFNUdIek14ZXYxbjFNR2VRYVNjVm00SXJZa0I3d01qdU1qeFBJUjk2WGxvQ1R4V3pZaFVLR0JOb3d0dmVxZjJ6WEtiR1phMUN3aXpxdGVjbjhsc0JUaVROXzdHV2VhcmxzZGlfNlVyOGQtazRsQkJNUXdKRUNOLUhNYWRXX3piM05kX09fMmV4MjVYd0lUQ1lMdTR2dVcySFBlTU5lOUhveUFHNW8zNDJQMXFCT204RGJyTUhVN1k0aGxVOEhwT3NOVGFhdmpJZTc3YVJiLW00VXkwX0Z1SnluUmJjVUJfcURpTGIzUzdqQjhyOVlIZ1E3Zk9jRGszUW9NWdIBjAJBVV95cUxNWEstbnBvVTE2RXZRWXpZTUF1dHJqUGdxVF9zdElMTnJnNmVSUjBTZ0RQcXp0WFJrWFE2WGdBQWtpYlh3d2RjZElKWnlTRGh5YXRKUWJLcnYxa0hQT1lhVDU0c19vTnRxVXlNS0RfeGtVQm1ORGQ1MFRIOGRvX3hsVHJaeUVLbWRlZTI1RllXYmszV3BxSGdvYXhibHVVMVZxRkRNd0MzNzRwZ0VvZTdEQ0I5WlR4S1VaNDUwVFdNRkZTakdKVFBEbVQ4QjNHTkxjV2lQREcwUlZHZnd0SUZPQ2ZkTGJWejdsVWZScDVWNFVGMDhYcXZFMmZfUzlrRUtCaTdnR1Y1Q1lwMlRB?oc=5",
+      "summary": "Samsung invests in Nvidia rival: Dutch AI chip startup gets $230 million funding as quest for alternatives grow &nbsp;&nbsp; Livemint",
+      "publishedAt": "2026-09-15T05:20:48.000Z",
+      "source": "Livemint",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "nvidia",
+        "samsung",
+        "ai chip"
+      ],
+      "importanceScore": 11,
+      "importance": "Medium",
+      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
       "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ydVhNMHFzRmctZVp2Sjlsd0tXMm5pNTN6UGoyczRpZlBUTjhITy1ybEQ4SDh0MWNZb09ldElzWEZWS3BBTVZwdnlzQXRBM0FFSzEzOXNCVlJneEFydmdXQWc1MVVCZlZRN1lyWG1KM3U0OXd4aUHSAXtBVV95cUxQSWlJd0JfRlNxTVIwNjEyaG5JQWZwYTRic0lfNFVha09oLVF0UGlyemVpOW1USGN5SlpiWXRiVUxSaVllTnZoaXhGZ3dpR0lkUUlIYTVUWkxTaDJYOUYzYXktbnVRNmgzeDJiWFNLWE5icW5UZTRxVzU2UXc?oc=5",
       "summary": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom &nbsp;&nbsp; CNBC",
@@ -648,6 +716,23 @@
       "importanceScore": 11,
       "importance": "Medium",
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
+    },
+    {
+      "title": "China’s AI Chipmakers Reportedly Raise Prices as HBM Shortage Drives Up Costs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOW5EZnYzX2syclFSdEVzSlY1WjU0Zl9Jd0JUbDZOUnA3eGgyNjdDbnZQclMxbjQtRWhLbVY3ZVFOOF9BeHBaOUN2VDk4VG4yOF9fblV3bDVMX1lSc3VCZ0luUmNLOGQzbGxfYTUxUElZZEVOSm5QbEdRNUFHVmpHXzRNWF96RkZMWUdnaUROZ3YxeVdPVUd2czIzTWdKRFlhNk1F?oc=5",
+      "summary": "China’s AI Chipmakers Reportedly Raise Prices as HBM Shortage Drives Up Costs &nbsp;&nbsp; Tekedia",
+      "publishedAt": "2026-09-11T17:45:37.000Z",
+      "source": "Tekedia",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "chipmaker",
+        "hbm",
+        "ai chip"
+      ],
+      "importanceScore": 11,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "HBM demand update [memory part 5]",
@@ -699,10 +784,10 @@
     },
     {
       "title": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREJHd2htRnVNSVhSZXdxQ2NWS3N4MHItM0s2SGkxbDJUTEhXT05jMVVKN01reTRVZUp2QXYwWW54ak5iMjJ0Z1Y3cWYwREt6T19rLWJnMDM2QUxKblkyZlRLandFUGwyWV9ZcGFJdm1wbmlHUjhfem4yOVF4YmlYQTlRVDdlVEdtLXRaUHplWkE?oc=5",
-      "summary": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat &nbsp;&nbsp; Yahoo Finance",
-      "publishedAt": "2026-09-16T12:39:33.000Z",
-      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNHNndVNsMGRvaTdjQUhEMUhwMGxCa0J6VWpjSmFSLThlVXRRRkVhY254NXlZdkpOR0VPSnJKR01SNmZOSGFRSE1ONTgxWk9nLWRZT0VDZEMxRjFGTWxncm1ETFhnNkZJYmxjT28yazhmeDZpUFZOaERlYnRJSmMwQmMzVFBjcElXTHExbFllV0k0d3RWOG9pRks3UmVZUlNtSFFYaVZ4SzVGTHJTay1HUW9JYWMtMkdCYm1fNGlkWnVZYnFXdW5pR01mcGdlR18takFxQk9udVhIdW1NVXYzQjZnT1NWWi1SM2c?oc=5",
+      "summary": "Intel Rises 4%, SK Hynix Climbs 3% on Reports of Talks to Make Memory Chips at Ohio Campus; Micron Holds Flat &nbsp;&nbsp; 24/7 Wall St.",
+      "publishedAt": "2026-09-16T12:39:00.000Z",
+      "source": "24/7 Wall St.",
       "category": "Memory",
       "keywords": [
         "chip",
@@ -749,9 +834,9 @@
     {
       "title": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse.",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmtpT2tpa283M2I4cUF2eFZkbk9kbFU4Z3BoU1lfX2tjLXRxZzhrYkR4NlIzMHRuclltc0NXT2lpRzFnRi10NVczQ3FPZVZ1NEVmcE1Fd19Tc1lndnZZVGxIS3ZVQW5OajNEQnJMTmozMzJRazZSek14dDVHbERJQXpuRHJRM1JObWpvYzJ1Z3Q2YXM2NkZlaXVfTzJWTEtjYXZ5YmE2SHc3bnFHbl9NRkpzY3FaZzg2MV9jX0VpME41YkM4MXduaVlxN0RyUEk?oc=5",
-      "summary": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse. &nbsp;&nbsp; 247wallst.com",
+      "summary": "There Is One Thing ASML's $400 Million Machine Still Cannot Do. AI Chips Keep Making It Worse. &nbsp;&nbsp; 24/7 Wall St.",
       "publishedAt": "2026-09-15T20:00:00.000Z",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "category": "AI Hardware",
       "keywords": [
         "chip",
@@ -799,26 +884,10 @@
       "whyImportant": "Equipment signals future capacity and technology-node progress."
     },
     {
-      "title": "Fujitsu's Monaka AI Chip to Ship to Super Micro Next Year, Manufactured by TSMC on 2nm Process",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80eHl3SFd0V2ZjQUF5SzlhcFlUb19SZ0s4SWxJcnVFbmUydURMV29QOHI4bDNZRGRQSFBEdEdMREY3SEhQVENDWjd0cjdUOVNKaGpCV3hWUXRiUzI1ZWtPcEJhX19NZkNXWXUyeElLQ2dpdm5mR0E?oc=5",
-      "summary": "Fujitsu's Monaka AI Chip to Ship to Super Micro Next Year, Manufactured by TSMC on 2nm Process &nbsp;&nbsp; finance.biggo.com",
-      "publishedAt": "2026-09-15T06:05:00.000Z",
-      "source": "finance.biggo.com",
-      "category": "AI Hardware",
-      "keywords": [
-        "chip",
-        "tsmc",
-        "ai chip"
-      ],
-      "importanceScore": 10,
-      "importance": "Medium",
-      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
-    },
-    {
       "title": "Japan, US in talks to build chip factory as part of tariff deal",
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/japan-us-in-talks-to-build-chip-factory-as-part-of-tariff-deal2",
       "summary": "Japan, US in talks to build chip factory as part of tariff deal",
-      "publishedAt": "2026-09-18T04:34:54.220Z",
+      "publishedAt": "2026-09-18T09:39:08.230Z",
       "source": "Nikkei Asia Technology",
       "category": "Policy and Supply Chain",
       "keywords": [
@@ -828,6 +897,73 @@
       "importanceScore": 9,
       "importance": "Medium",
       "whyImportant": "Policy risk could change supply chains, margins, or China access."
+    },
+    {
+      "title": "SK Hynix’s Solidigm unit is weighing NAND memory chip factory in US, sources say By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT0NPQnlPVDg4UGRfUF91bGpzYldSbnlNY3g4WjljY1V2VjNDR1ZxS3JNUFFHSGtqdEJ4ZGRmd1cya1hlRE5tb3RFN2Z0ZW9nM1JWTlNkZkJZVVoxTnlxN05qMWtvZGY0aVdIV2ZIVFc3V2M0NG1aZUJiR1lZOWY0Si1ORndmWjVKMlVVUUFFQVFkN184aDkzb2FTNTRRX3ptRS1oaHV1WVhMNVJjQ3l0UTBJZ2FQVXM0dUNycHUtUGVrM25NdzI3Q2hsWGJTVDhW?oc=5",
+      "summary": "SK Hynix’s Solidigm unit is weighing NAND memory chip factory in US, sources say By Reuters &nbsp;&nbsp; Investing.com",
+      "publishedAt": "2026-09-18T06:56:52.000Z",
+      "source": "Investing.com",
+      "category": "Memory",
+      "keywords": [
+        "chip",
+        "sk hynix",
+        "memory",
+        "nand"
+      ],
+      "importanceScore": 9,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "SK Hynix’s Solidigm unit is weighing NAND memory chip factory in US – sources say",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlBZSFR4OE13QlJ0QW9YM2RyckhwcUFqYy1NcjNhOGh6cjJtYW5oZDNacy05RzZxRWtFYVdQaHEwOHZxaFV5UUpOblBCcmZ6SlhaUkM0LUpWbndqWU1hLTNRUGlzY2p1d192eVRFbGtaUk82VmlUVWJGZnZhNV9QREVBWjJhQ2k4UUFZLWFzSzJiM0FwZ0lfWUNXYldhdEQwRkw1WjdrdmZGcTFFZmdxcHNn?oc=5",
+      "summary": "SK Hynix’s Solidigm unit is weighing NAND memory chip factory in US – sources say &nbsp;&nbsp; 1470 & 100.3 WMBD",
+      "publishedAt": "2026-09-18T06:34:50.000Z",
+      "source": "1470 & 100.3 WMBD",
+      "category": "Memory",
+      "keywords": [
+        "chip",
+        "sk hynix",
+        "memory",
+        "nand"
+      ],
+      "importanceScore": 9,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "Intel’s Ohio factory could host SK Hynix memory-chip production amid exploratory talks",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVDdxbzBDdWRvMVhMQlk4TWp0Y0FyXzYtUzkzaEhfZnhkYWZidDB4a0ZfRnlkeUpyOGhhenpPWjdYTXBUZHR0c3ctZ3dmQjl6QllFTUNKczY0ODM2VW1CWU9pOGNMckVZRGo4Z3hUajZUYUtqZmZDVXVtbXZxSnNoa182cjBZdU5qTU1NY05TeXZtbGZXRXJQNGs4dlNfSzdmUE9SdVdUdmJfVkcwcmJKRGQtMms5bGE0cWY2U0JaN2R2MzBURkptWUl5M1laSUxCWjZGUTJJUkItMGcxMmROSnVLVk9oMU0?oc=5",
+      "summary": "Intel’s Ohio factory could host SK Hynix memory-chip production amid exploratory talks &nbsp;&nbsp; Global Sources",
+      "publishedAt": "2026-09-18T05:06:57.000Z",
+      "source": "Global Sources",
+      "category": "Memory",
+      "keywords": [
+        "chip",
+        "intel",
+        "sk hynix",
+        "memory"
+      ],
+      "importanceScore": 9,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "SK Hynix Talks With Intel Send Both Stocks Soaring on Ohio Memory Plan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTYzdHBvM2trMlFzM1NRbE5NWHJGblpBcEZXdzZwVHpkeTh3TFFaYjhobGVBTXByWEVoaElVTkczUmpXTkJNYkk5LWZlZk1icVFLTUJuaXhKNjFXdDVMMEw4WDR3b280c2hQaUl4UkJacDU0YjFwVGdCWU1nalJobTg5UHlwT0RndDFJblJUbWhjWGlDVmlrU2Ewd1kwaVE?oc=5",
+      "summary": "SK Hynix Talks With Intel Send Both Stocks Soaring on Ohio Memory Plan &nbsp;&nbsp; Startup Fortune",
+      "publishedAt": "2026-09-18T00:43:50.000Z",
+      "source": "Startup Fortune",
+      "category": "Memory",
+      "keywords": [
+        "intel",
+        "sk hynix",
+        "memory"
+      ],
+      "importanceScore": 9,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ",
@@ -847,13 +983,30 @@
     {
       "title": "SK Hynix in Talks With Intel to Manufacture AI Memory Chips in the US",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUy1wbFE1TURmXzBLbHJqTENxcUpuS0tULTk3UER1OXBtUGY1X3pOLU1mM0daM0dlVXB1N0U1YU5KYnU3UUxOMk4yUUV6NHNucTdYRzFYTHRWbll1Q2dxcGVqaWJOM0kxb1ZrOVFlU2p1WXoyWEhwTEphZUVCc01makd3cTNrOUl2aFdqUk90WERzbHRKWWV6TGZwNWpvQklWYmxITGlMSGxCN1k?oc=5",
-      "summary": "SK Hynix in Talks With Intel to Manufacture AI Memory Chips in the US &nbsp;&nbsp; AI Insider",
+      "summary": "SK Hynix in Talks With Intel to Manufacture AI Memory Chips in the US &nbsp;&nbsp; theaiinsider.tech",
       "publishedAt": "2026-09-17T21:33:41.000Z",
-      "source": "AI Insider",
+      "source": "theaiinsider.tech",
       "category": "Memory",
       "keywords": [
         "chip",
         "chips",
+        "intel",
+        "sk hynix",
+        "memory"
+      ],
+      "importanceScore": 9,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "Intel and SK Hynix Consider Joint US Memory Chip Venture",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rWmctMTB0TmhlSUpIb2xIZzVKMl9FeC1XUG5ZZ2hfSHRGVVVGd3d0Ykl2eWpudEpkRzlOQjBMQ0N6YkJNWUxtU0h2cnBnWFVjazZaQ3NnVkhTUmRwWWI3NA?oc=5",
+      "summary": "Intel and SK Hynix Consider Joint US Memory Chip Venture &nbsp;&nbsp; investingnews.com",
+      "publishedAt": "2026-09-17T20:10:00.000Z",
+      "source": "investingnews.com",
+      "category": "Memory",
+      "keywords": [
+        "chip",
         "intel",
         "sk hynix",
         "memory"
@@ -912,14 +1065,13 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "SK Hynix and Intel explore US memory chip partnership",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanRFcTlmeGFXM0pldU5KZjN3bDc5TEpFSkI2NEZQVWJNOGZhb00tOFBsM1hhcldqc0pOOHhjQXA3dUVtNjI4X0xleDFYeXVqUVp2cWFmVFpKRlVHT1lXWkVSSDlQWUp4ZkJWeU5aTUk1bnVZWEJOX0pBNmRnY0Q4QWlyemFyNkw2RDBydFVDOA?oc=5",
-      "summary": "SK Hynix and Intel explore US memory chip partnership &nbsp;&nbsp; Yahoo Finance",
-      "publishedAt": "2026-09-17T11:47:25.000Z",
-      "source": "Yahoo Finance",
+      "title": "SK Hynix Stock Rises as Intel Ohio Talks Reignite Memory Trade",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0EtYXVyUkMtLTdNSjR3ZWtMZm5CWTlPUXUyWU5MNXlRbGZFYWY0SEMzLWVGWllvS1pac2FTemdCNEthSHRPWi1GaW51RGJOQzRmWnE2RFBRNThrTm1MY0hYQk91Z3Z4LWd3WURnM0JVZTJRYmplSzktV3pSallzMFFVZWFwUWNkN1dwYU9rbks0NG5SRVE?oc=5",
+      "summary": "SK Hynix Stock Rises as Intel Ohio Talks Reignite Memory Trade &nbsp;&nbsp; finance.yahoo.com",
+      "publishedAt": "2026-09-17T13:01:17.000Z",
+      "source": "finance.yahoo.com",
       "category": "Memory",
       "keywords": [
-        "chip",
         "intel",
         "sk hynix",
         "memory"
@@ -947,38 +1099,20 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
-      "title": "Key facts: Intel talks SK Hynix on Ohio memory; MOU with Egypt AI",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzlRT19rZDBsc3RVNzRlREJnRy1VbF9jWmFEOG9VR1ZqT0g5QzFYblZ1TkEzeGpxZnZ6RHJNNzVpbnEtanAzTGZuREdYNWozemV5eld1d2RaRFA1NG1FNzNGU1U5ZWFBaFQ3YnFVWkx2cUVCbUxXR2FBbHBDSEFkRzhXQzNjbFJyRnFES1FnNzNnaWpsQWZuMm1YZDlLLXFHQWVlbnJBYUQzdUJ1b1AyUks5X0IzdE5qSS1rMG01R0JaRjg?oc=5",
-      "summary": "Key facts: Intel talks SK Hynix on Ohio memory; MOU with Egypt AI &nbsp;&nbsp; TradingView",
-      "publishedAt": "2026-09-17T07:14:39.000Z",
-      "source": "TradingView",
-      "category": "Memory",
-      "keywords": [
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 9,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix, Intel Mull Memory Chip Making Deal in Ohio as US Pushes Semiconductor Production: Report (UPDAT",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSmVZd2w3MGcyMnlaZlhGVTVLaGgxeld4ZnFtTkZLOThXZEp1cm1VNVV2VENhT3NQUFdYRm1EQzdQeXExS2VuNG1tcFpOWVpCQTcyWTE3czI3T1piRzFFV3RnMFFQVWJVSkxIUmZEaV9UODlTbnVXSl9TbUZEbnh0eDNLWDUxVXlwUXRMRlRzU1hCTVh1QVdpUzRPdHpnOUdyYXM2YkI3cGEzelhkaEdHelluWHgzZ1E5TUZ2emJ0WVBnbWlWX0tEdGpVNXpxMk5sRkgxVFRKZ2NnLWJxWVFzR1BiMA?oc=5",
-      "summary": "SK Hynix, Intel Mull Memory Chip Making Deal in Ohio as US Pushes Semiconductor Production: Report (UPDAT &nbsp;&nbsp; Benzinga",
-      "publishedAt": "2026-09-17T05:46:00.000Z",
-      "source": "Benzinga",
-      "category": "Memory",
+      "title": "Huawei Emerges as Chinese NVIDIA in AI, Semiconductors",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc0xoSDQ1OEJfc2hnTDhQZ1lPTE9nU2hGNENfZEJ2YXR5azZzQzdMNTBqWm9UQUdla0tkUDA5a0loRW1TMFhvaGJYNG8wSXAxWVBjZ2FBN2ZSWkZRSHJLclNVWnlqLW53OF9ZdTRERWhiV2hlR1czQWt3YndoYVp2MVgxeDV1eGhJ?oc=5",
+      "summary": "Huawei Emerges as Chinese NVIDIA in AI, Semiconductors &nbsp;&nbsp; 조선일보",
+      "publishedAt": "2026-09-17T09:37:49.000Z",
+      "source": "조선일보",
+      "category": "AI Hardware",
       "keywords": [
         "semiconductor",
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
+        "semiconductors",
+        "nvidia"
       ],
       "importanceScore": 9,
       "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "Jensen Huang thinks China will develop its own advanced lithography chipmaking tools by 2030 — Nvidia CEO says achievement of that capability 'is just a matter of time'",
@@ -1060,19 +1194,21 @@
       "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
-      "title": "Samsung is using TSMC for something it usually makes itself",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUhibll3cHF3aEdsRnJHek9CMEFZelNUb1Z4bUowdDZpeXJPZTNvaWxrVmlMSGVuRzBsTUZmMHkzVXI0MnA1MWJkdGVJSVlseFBlSFEzSUlpS0V2RHdmdUlzTjE3SVI3M2RzX2hGWkVZcG4wamQzZG11NTFXa05yejBfWEVzRGlW0gGOAUFVX3lxTE9vU0lrUHRfeFZLQXplQk1mZEJEb0lsakNCT2NGVXZMZ0wybzh0SWN2bm16SHdQMW55TE5tRGhReFBTem9ST1E3TkpWX2JkVGgxSkpoZTZxNnpMLVBZa2VfZTMtSlRaenM1RGhmWTJoMFVHZ1Nia3REX3Jnd0k3c3RCUlVFWFItaElCWHYzcnc?oc=5",
-      "summary": "Samsung is using TSMC for something it usually makes itself &nbsp;&nbsp; Sammy Fans",
-      "publishedAt": "2026-09-15T08:34:32.000Z",
-      "source": "Sammy Fans",
-      "category": "Foundry",
+      "title": "Asia Today: AI Chips, Semiconductor Deals, Autonomous Ride and Finance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlQ3WUxJSTJKN2NrUk9jWEl4UTdQT1ZUVXRVdjVaRWVMNm1IZ2FybEx5LXFCcEtYSWNoTFpqWXB1SDd3SlZRdHBkaU5Vdm9IRTBzMEd1b0tKNnRxUlh2R3FJWmFVNFh1QXNBWF94OUUyX0FFQmZ5ajJVcmNXT3d5NkJHWUlIWWJLYUtmbGY5T2liVEVSeERHTEZ5dGZ6MEhvQWxQSnVKZFFXQU4xUndKLUFRVFVYTjNxdWg2Y3dzaFpMQQ?oc=5",
+      "summary": "Asia Today: AI Chips, Semiconductor Deals, Autonomous Ride and Finance &nbsp;&nbsp; Asia Business Outlook",
+      "publishedAt": "2026-09-17T22:56:15.000Z",
+      "source": "Asia Business Outlook",
+      "category": "AI Hardware",
       "keywords": [
-        "tsmc",
-        "samsung"
+        "semiconductor",
+        "chip",
+        "chips",
+        "ai chip"
       ],
-      "importanceScore": 9,
+      "importanceScore": 8,
       "importance": "Medium",
-      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+      "whyImportant": "AI hardware demand is driving semiconductor revenue mix and capex."
     },
     {
       "title": "AMD Reportedly Prepares 10% Price Increase Following TSMC Wafer Adjustments",
@@ -1093,9 +1229,9 @@
     {
       "title": "ASML Order Books Full Through 2027 as Chip ETF Extends Blockbuster Run",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa1VNcU55ZW1wa1l1SEsxTncxVFdta2ZlOUdaQURsNGlqS0g2MGo4VHZBQ3ctanlaRG5rdkUzc0FBcENzbEoxNHhTUngtb3JqM1Jxa2VrOEFQZkZqdGwzc3hMNEEtWEt3X3hOUVhRZ3Q0Q1pYVnNjSGZHZHp0OTkzN1R5Rk9LYTBoREpSOWxBbjRJdDdfdkthcDVZcWNETDZWQVgxN05nbFZLd1V1UGFfLTlJQ1RaR180QVJEUnVDenJZdTFyMmM1OEZNRGdfdHZiN2xtNWFEUF9iZw?oc=5",
-      "summary": "ASML Order Books Full Through 2027 as Chip ETF Extends Blockbuster Run &nbsp;&nbsp; ad-hoc-news.de",
+      "summary": "ASML Order Books Full Through 2027 as Chip ETF Extends Blockbuster Run &nbsp;&nbsp; AD HOC NEWS",
       "publishedAt": "2026-09-17T20:20:49.000Z",
-      "source": "ad-hoc-news.de",
+      "source": "AD HOC NEWS",
       "category": "Equipment",
       "keywords": [
         "chip",
@@ -1138,10 +1274,10 @@
     },
     {
       "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanpzelJUbnNzQjNmNFdxbHF6dnkyODg4TEJGVklFdXd4SElERF9UNmw4UHdNZE9GNlhISmpJZm44VjQwOWhtQTBEOXlyVU8ydTl4SzkyWVdQRF9JTl9LWFE0d3Q0OE1uWmlTSUNXcGs3NTVyU0pON1ZIMHZUVHpmV3VKbUo0bzRtQVNKaS13dERfQzdkamJ4UExQLXdmeThzeG0xaE1EZE9jOFBSMHhsRVhlbE9kTHhYeVhLR0RLSWNGcjVMUDlQWFhOcjFIdnFSZEpIc05FS3k?oc=5",
-      "summary": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher &nbsp;&nbsp; 247wallst.com",
-      "publishedAt": "2026-09-17T17:37:00.000Z",
-      "source": "247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEdiMWFJUkJPdHBGUThBWTVzY1hjQjg0NjRiMkkzMFZ1dEo1eW02Vm1CNTlMd1VUdHNOR2JBR0k4cGRHWmJWcnJUNDc3d3lUVnhPVW5MOEVYTEw1ZG8tenU5bnFKRlpHV3VzR09yZ005RHFNTnNRRGRkZW9haFd5LXZaLUpvXzJMQ0p1clVTSFhTX2Zvbzg0b1VtbkdmU1k?oc=5",
+      "summary": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher &nbsp;&nbsp; finance.yahoo.com",
+      "publishedAt": "2026-09-17T17:37:07.000Z",
+      "source": "finance.yahoo.com",
       "category": "AI Hardware",
       "keywords": [
         "semiconductor",
@@ -1186,9 +1322,9 @@
     {
       "title": "The HBM Pricing Cycle That Will Define SKHQ in 2026",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lVWZwT1FfcjVqY0QtR1JjMHdYREEtY09zdTdhU3NxR3Jia3N2b1JJUDJDWXVHQXJRNm9DRmpfN25sbnRHUXVscXNVMU5jclZTSTZZaVZNVU1TY3lJdnZ3bm9WZlFNRlBOa2RPdU44QjZBa1lU?oc=5",
-      "summary": "The HBM Pricing Cycle That Will Define SKHQ in 2026 &nbsp;&nbsp; 247wallst.com",
+      "summary": "The HBM Pricing Cycle That Will Define SKHQ in 2026 &nbsp;&nbsp; 24/7 Wall St.",
       "publishedAt": "2026-09-17T15:20:00.000Z",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "category": "AI Hardware",
       "keywords": [
         "hbm"
@@ -1320,11 +1456,27 @@
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
+      "title": "Fujitsu's Monaka AI Chip to Ship to Super Micro Next Year, Manufactured by TSMC on 2nm Process",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80eHl3SFd0V2ZjQUF5SzlhcFlUb19SZ0s4SWxJcnVFbmUydURMV29QOHI4bDNZRGRQSFBEdEdMREY3SEhQVENDWjd0cjdUOVNKaGpCV3hWUXRiUzI1ZWtPcEJhX19NZkNXWXUyeElLQ2dpdm5mR0E?oc=5",
+      "summary": "Fujitsu's Monaka AI Chip to Ship to Super Micro Next Year, Manufactured by TSMC on 2nm Process &nbsp;&nbsp; finance.biggo.com",
+      "publishedAt": "2026-09-15T06:05:00.000Z",
+      "source": "finance.biggo.com",
+      "category": "AI Hardware",
+      "keywords": [
+        "chip",
+        "tsmc",
+        "ai chip"
+      ],
+      "importanceScore": 8,
+      "importance": "Medium",
+      "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+    },
+    {
       "title": "Memory Stocks Lead AI Selloff as Anthropic and OpenAI Chiefs Urge Slower Development: Micron and SanDisk Sink 6%, SK Hynix Drops 7%",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWWdzS2syakFOajVaTVJORW1nX2lrOGUzeXFNd1RkOEwxeVB3LWs1bF9NUEpTUjZVODZ2VWZZbFlQQ2diNDZDRS1LTURZbEhlSTZSM3RBZW4wVDZjVm9QMVFyc2NxbjQ0WVY3bENQNHhXQWJFZGNEMFlJTnQxWTFDZFpYenNpMXpJNDE4Z3VWSlNSY1IyV2ktSDRnbzFVY1ZFbDhwWFhMUGVrSXdxSlpMVVJQdjUxdDQ0dmdJTjcxMDNKbVVjZWlBdi03Wlp6SjJHTTNHcHBucjFUX2RzUFdmaXZMajVEbHJkSi1RNGZNUVlQQk1pQ0ZMZkQyaVFTYTln?oc=5",
-      "summary": "Memory Stocks Lead AI Selloff as Anthropic and OpenAI Chiefs Urge Slower Development: Micron and SanDisk Sink 6%, SK Hynix Drops 7% &nbsp;&nbsp; 247wallst.com",
+      "summary": "Memory Stocks Lead AI Selloff as Anthropic and OpenAI Chiefs Urge Slower Development: Micron and SanDisk Sink 6%, SK Hynix Drops 7% &nbsp;&nbsp; 24/7 Wall St.",
       "publishedAt": "2026-09-14T13:18:00.000Z",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "category": "Memory",
       "keywords": [
         "micron",
@@ -1368,6 +1520,21 @@
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
     },
     {
+      "title": "SK hynix’s Solidigm weighs New York NAND factory",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcm1waEw3QUo2Zk1uWVBaZlNWQ0hVTkJ2QUV6TVcxeHdJNThPcHdNR0RjY2drR0hjd0YtX1FYQ3JrcVFmeURreU8tWldpbVEwZXlVb3lfWlI2dkZPZUhDQXNYcm5HaEJPUEFwNmJQc1dSUEY0dEdsVlB1VVJSRjRxSkpQYXQ5YTdUcHZmMjJfd3NfWFZqRkdNQVUwbDlMb3cwbmc?oc=5",
+      "summary": "SK hynix’s Solidigm weighs New York NAND factory &nbsp;&nbsp; Korea JoongAng Daily",
+      "publishedAt": "2026-09-18T09:08:44.000Z",
+      "source": "Korea JoongAng Daily",
+      "category": "Memory",
+      "keywords": [
+        "sk hynix",
+        "nand"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+    },
+    {
       "title": "SK Hynix has a $4 billion problem Intel could help solve",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOc3pTZlVPelpteTNncEJKQWlaZC1pQThsMk8xM0lGZG1wX2kxYkNHVUxMS1lZNGdIeEVqdzdDR25TZHBFd0JTQ3c3OXRmVk1sYnhwZmxsRVFzUTRWbHRTczZTUDJDMUkwc2duQTBEUGhhOWhsTVh6eWM1bXJHQQ?oc=5",
       "summary": "SK Hynix has a $4 billion problem Intel could help solve &nbsp;&nbsp; thestreet.com",
@@ -1398,38 +1565,6 @@
       "whyImportant": "Foundry story with potential read-through for semiconductor demand or supply."
     },
     {
-      "title": "SK Hynix, Intel Discuss US Chip Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rWmctMTB0TmhlSUpIb2xIZzVKMl9FeC1XUG5ZZ2hfSHRGVVVGd3d0Ykl2eWpudEpkRzlOQjBMQ0N6YkJNWUxtU0h2cnBnWFVjazZaQ3NnVkhTUmRwWWI3NA?oc=5",
-      "summary": "SK Hynix, Intel Discuss US Chip Manufacturing &nbsp;&nbsp; investingnews.com",
-      "publishedAt": "2026-09-17T20:10:00.000Z",
-      "source": "investingnews.com",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORW1JYVVJS2RCMkNGTVZneW93dFBzSE1VWmM0MnpJWE4zMFdEd192dTVSVnlNQVlVY0hGZ29IWTZWVm54eXB4ZG1yVlhkVEZzZUxNQkR2OFpQX01mWDcxcUFHX2pRTnpYdEpMV2ZCbE5CcXpCSzVGUk5iWmlLX3pzV1l0MTZueVVSTDlubnNlQmlZWlBOSDNhTUQza1VRU2ZZOXdGRHFDTE5zeGpkV0JvTnUzVUUteUVxdDNnaEZEYmptekphZXdfQjI2eWlLWkV0anlweUlMaHNZTzNjOVZVYk5randja3FGNW04?oc=5",
-      "summary": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know &nbsp;&nbsp; StockStory",
-      "publishedAt": "2026-09-17T17:47:24.000Z",
-      "source": "StockStory",
-      "category": "Memory",
-      "keywords": [
-        "semiconductor",
-        "qualcomm",
-        "micron"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
       "title": "Tesla AI5 Chip Enters Trial Production at Samsung's Texas Fab",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenZCbi1naHE2OFp0MER6bFZTem5wSGoxRU54UXlGTWdqZzhRcEJFNHZMR0tFTGtlRU1za25tZ3hqbFhxN3ZESWZ6dlQ3QkR1YjFSRzZYOWVVZjgxbTFHcXFPQ0x6dnNwR1EwcFpxR3hLMkJGeHE5VWhKWHprRnEyU0dnSHJIVFd4QnN1VjUtSFdEN0duakRpWk0yY0ZfcTdH?oc=5",
       "summary": "Tesla AI5 Chip Enters Trial Production at Samsung's Texas Fab &nbsp;&nbsp; Not a Tesla App",
@@ -1444,6 +1579,20 @@
       "importanceScore": 7,
       "importance": "Medium",
       "whyImportant": "Foundry capacity and process leadership affect the whole chip stack."
+    },
+    {
+      "title": "Advancing the Agentic World, Building a Solid Silicon Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuOVQ1ODdlX3VPSzlYWDdvbmtDSUYzc3pZaGFpdXEzTnIyRTBIM0RWakFFVnNmWk1acjhjTm5MTmp3Qk00Y0tSVnBTMVhLUFk1c2U3NV92a1oxOHExUTNrN3ctdw?oc=5",
+      "summary": "Advancing the Agentic World, Building a Solid Silicon Foundation &nbsp;&nbsp; Huawei",
+      "publishedAt": "2026-09-17T12:00:07.000Z",
+      "source": "Huawei",
+      "category": "AI Hardware",
+      "keywords": [
+        "silicon"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "AI Hardware story with potential read-through for semiconductor demand or supply."
     },
     {
       "title": "SK Hynix’s Intel Liaisons: What You Need to Know",
@@ -1461,49 +1610,63 @@
       "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
     },
     {
-      "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGJ4clRVOGpDRDRSelNuU1dPWk1qVlg3WUd2UU15eWhLRDhYMGFsbHlxNmg4aVZyZ2pud29hT1JsM01DTHhvTWFRbDE0Q3oyMTVqTDhzemRhczVoMXBaMElsQ2hheldzRG1xWkJTQ1dDSUNFSFg2MVc0bjUwR3lxci0xWlF0UmtYMm03bU5BOHJELU1TNkJqcWJXVkNYYzBQNU1DOHZaYy1lSUFhWS1UQQ?oc=5",
-      "summary": "SK Hynix Says Exploring Options After Report of Intel Tie-Up &nbsp;&nbsp; Bloomberg.com",
-      "publishedAt": "2026-09-17T06:52:00.000Z",
-      "source": "Bloomberg.com",
+      "title": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MHUyQXFyT2Q1R0JHQ3pvODFmUkw3bllfOUplWXlPUW8wRkJhWGxjdkxTakZjb2Rlb0NDVHRWNXNFOXBHUWVaQTQ3ejMtS2lfZzR0RnlEYWE0blZaenc?oc=5",
+      "summary": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’ &nbsp;&nbsp; news.skhynix.com",
+      "publishedAt": "2026-09-17T10:30:47.000Z",
+      "source": "news.skhynix.com",
+      "category": "Memory",
+      "keywords": [
+        "sk hynix"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+    },
+    {
+      "title": "Once reliant on Korean memory, Chinese smartphone makers are turning to CXMT",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkRPVzRFTlZoTkR3MDBrbWNKSjNlQTVvT0hzU0kwVk4tWWlCWVVDRFJoRFpSbnlCZFlPV3JmOFkzZ1YtZG0wSERlQU5DMGsxeXZIMlA1SzFSdTRCM05WZElLVG0tUlRYWFFzN0tsVlI5MlRMcXpYMENCZXpocUlrZE5CUUR4ZTFjR2lrWjZzVGVSQzJRSm1VX0VhZXlCaUpDZWNGWHZjV1ZtQno2RXhhanUzbWxqU1BsenMwSThtUVdEeTN6cGfSAcYBQVVfeXFMUGtjMGU5ZjZxZXRZaUlxTkJLM3hJaWE1d0FJVThrZ3ZJa09aZFoxWHlrZURoZExONk5Tdm4zdzMzRDJoVWU3aFJ6ejVWVlFsbGRZeUlBdTJvV2ZEWXAtc2dQc2x2alZ0WFdMeHZIM05oUHB3RUEtN2NvQ3R4X3piUTlJOXJsZTJGaDhwRDgwanVNU0s4Z3RIUTFvaG8xcm5DYXljRUZaMnduUWhvbEQ2TXZ1NHo0eGRJdkdaNG10SWJTd29LUUFn?oc=5",
+      "summary": "Once reliant on Korean memory, Chinese smartphone makers are turning to CXMT &nbsp;&nbsp; South China Morning Post",
+      "publishedAt": "2026-09-17T09:00:11.000Z",
+      "source": "South China Morning Post",
+      "category": "Memory",
+      "keywords": [
+        "memory"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "SK Hynix’s AI Memory Factory Bet Takes Shape in Korea",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXpVQUpvcWtHRHpYZGM3dzRmb25BSW9DVTd1OWc4QlQ4NmtrV0M2c0tKWkxvdlRrLUg5VVF3RHF5ZkpyOW9Mc1RhUXFwM1FIRTA0Vk0yRm94dUZMZmx2LXcwd0dEVGFnQXZUQXNNMEFYNmk0WkMzUVozM1huR0s5VWF3NFZtV2VtZ2JROXZfODE?oc=5",
+      "summary": "SK Hynix’s AI Memory Factory Bet Takes Shape in Korea &nbsp;&nbsp; Dealroom",
+      "publishedAt": "2026-09-17T08:41:13.000Z",
+      "source": "Dealroom",
+      "category": "Memory",
+      "keywords": [
+        "sk hynix",
+        "memory"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "Key facts: Intel talks SK Hynix on Ohio memory; MOU with Egypt AI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzlRT19rZDBsc3RVNzRlREJnRy1VbF9jWmFEOG9VR1ZqT0g5QzFYblZ1TkEzeGpxZnZ6RHJNNzVpbnEtanAzTGZuREdYNWozemV5eld1d2RaRFA1NG1FNzNGU1U5ZWFBaFQ3YnFVWkx2cUVCbUxXR2FBbHBDSEFkRzhXQzNjbFJyRnFES1FnNzNnaWpsQWZuMm1YZDlLLXFHQWVlbnJBYUQzdUJ1b1AyUks5X0IzdE5qSS1rMG01R0JaRjg?oc=5",
+      "summary": "Key facts: Intel talks SK Hynix on Ohio memory; MOU with Egypt AI &nbsp;&nbsp; TradingView",
+      "publishedAt": "2026-09-17T07:14:39.000Z",
+      "source": "TradingView",
       "category": "Memory",
       "keywords": [
         "intel",
-        "sk hynix"
+        "sk hynix",
+        "memory"
       ],
       "importanceScore": 7,
       "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNNDNNTGxVZE8wTnRBVlBpczV6NTBEZ2tKWEN0X1pxQ0hPb3NMUkwxal9GQU9Yejh2aXpicERnTkhoVzVodzAxZURGOFZEUTFBSzFRaE5fOGk3UXhDSHplc00tcTZOQ216RGdKd2d0a19felBvMnBwR29TQTJfb3dFeXRFa2dkWHdZWnNJR0NuSE1mVWhGZ19rcGtreGNEclJLN1ZjbUZpNS1uZzV5MFNfc1lxX1hPWWktUzdWbGpPODJ5QjlNdXlzd2EyaFU4SVZHRlA0NGs0OW8tckV2WEQ5dGlHYUpIdUdHLVZpdERIVDRremFXZEtHSmFsYzRyb1lDNDkzbXY5LThwUmkzZXladjhhd2J6MUlrSl95OdIBogJBVV95cUxOTFl6VHhDc0Z5cWRUd2NqbzNwOWJqTWFGMmpJbGgwUEZicUI5b1lyaUhqMkZaX2pkbkJoMWpfTnBfOUFtc2JoYlhYeUJJSGxsWmRwazJ4M3FfYUlzOEtkMzFoWmVxZG5QZS1QcVFvMkdGbnA0YkdRblF2WHNFWUdzTkNCcEgyUzZKb0tCdmdrY1BEUzExUnlMVkN0TTNEMnFWX0R6U3dqLTlWQ1NWY0t4d2NKalJTZkkzUVpzQUFUTE5FYWV1N2RTdVUyanlFSUpYMXExem5JaE5LZUNrM1ZPdWdiTXl3amx1WGFzSWtiUFFMeVl1ZHdKSjE3eFBqcUVEYWxMU19kUVk0QlJMaG5hQUNWdjJHX1BxQ3FyZzItb195QQ?oc=5",
-      "summary": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution &nbsp;&nbsp; The Economic Times",
-      "publishedAt": "2026-09-17T06:44:54.000Z",
-      "source": "The Economic Times",
-      "category": "Memory",
-      "keywords": [
-        "semiconductor",
-        "chip",
-        "micron"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
-    },
-    {
-      "title": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40MHUyQXFyT2Q1R0JHQ3pvODFmUkw3bllfOUplWXlPUW8wRkJhWGxjdkxTakZjb2Rlb0NDVHRWNXNFOXBHUWVaQTQ3ejMtS2lfZzR0RnlEYWE0blZaenc?oc=5",
-      "summary": "SK hynix Presents ‘New Spectrum’ for AI Infrastructure at ‘AI Infra Summit 2026’ &nbsp;&nbsp; SK hynix",
-      "publishedAt": "2026-09-17T06:07:47.000Z",
-      "source": "SK hynix",
-      "category": "Memory",
-      "keywords": [
-        "sk hynix"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "Memory story with potential read-through for semiconductor demand or supply."
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
       "title": "SK hynix Says No Intel Memory Deal Has Been Finalized",
@@ -1540,9 +1703,9 @@
     {
       "title": "SK hynix, Intel discuss first U.S. memory production",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY2FCWWVfNUxUdHQtb0lMa0pfRWFJM3JXUXNEX21DVDRSN3czbFUxZmREd1FlZzdvUE1XbEpZT0lTMWl5MEVrV0tkWkVTSmxMVFFxRVNQQkhtQjVieTVIdGZ6d0QwZw?oc=5",
-      "summary": "SK hynix, Intel discuss first U.S. memory production &nbsp;&nbsp; donga.com",
+      "summary": "SK hynix, Intel discuss first U.S. memory production &nbsp;&nbsp; 동아일보",
       "publishedAt": "2026-09-16T23:31:18.000Z",
-      "source": "donga.com",
+      "source": "동아일보",
       "category": "Memory",
       "keywords": [
         "intel",
@@ -1556,30 +1719,13 @@
     {
       "title": "SK Hynix Is in Talks With Intel to Make Memory Chips in the U.S. Here's What It Could Mean for Intel Stock.",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNmFlaEQ1cGJSWUxYN0VvMjA5ODlsTUdqZnl4UWpXRUxQa1gyVE0yWTVJU2VLTF9xRkw3aC1mNXFneEdYbnhnWDBSazI3c0NpMEdGS1ZWVFdNVDI0NHlCbmN5cGEzTjJBU19IVEJpSUFMeTZMVHlwd2dHV3EtQUxwMndqZWFCVzBFYm95dVptb215Tk1ScEdQb0J5anRiZXh2bEl2cEk2QkduTzh1akNod19KSEFDODk5di0tbXFIeVdFcHV6dFZ6bFdSSVIyOUhBZm9BNFRyeGNrWkVaTjNxeUV3?oc=5",
-      "summary": "SK Hynix Is in Talks With Intel to Make Memory Chips in the U.S. Here's What It Could Mean for Intel Stock. &nbsp;&nbsp; The Motley Fool",
+      "summary": "SK Hynix Is in Talks With Intel to Make Memory Chips in the U.S. Here's What It Could Mean for Intel Stock. &nbsp;&nbsp; fool.com",
       "publishedAt": "2026-09-16T22:41:00.000Z",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "category": "Memory",
       "keywords": [
         "chip",
         "chips",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUzBCNzJqSUhDd0RnMS0xbWtfMWM5OV9vUi0yNnE1UEdUSVhkaEhXLUY2YmtRTnhOQW1KZlkwMmRjaHh5YXEyMENGaDl3bmMzNUQydmhhV3ZBVmo2RlZGcDNTdHFaZkMyUkRnQVd6SmUyU3J5cU1BTTVoejhKRVRMM1Q2QVlfSVRINkdsUVRCbHNJM3BKbzJxN0R2bFpOZHhKR24wUVNoUk5kY3duTEJTVzcxdUt4ejFYY0NqQi1DWmtxWmlVa1l4TzdkRzAtWHl0UU4yVjI1ZTRObFU?oc=5",
-      "summary": "Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks &nbsp;&nbsp; The Motley Fool",
-      "publishedAt": "2026-09-16T22:09:00.000Z",
-      "source": "The Motley Fool",
-      "category": "Memory",
-      "keywords": [
-        "chip",
         "intel",
         "sk hynix",
         "memory"
@@ -1624,11 +1770,28 @@
       "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
     },
     {
+      "title": "Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbldqMW1qamU1VDBfczBCaXA1MzlKeFpFdEVPMmdCdFRTUk91MnRlUUZHWkdPSHk0NFFabWxyOG5wZTlCQWROWUlNaExBMFlXT2E0WlFvR0J0dGR0eDBlbEpsUmxEdGZhaHBxWlU1c016d3h6Y3I0ZjRualNqUlpRbmNDMWJzTVlkLVFKRUlpYWQ4Q0lEUFE?oc=5",
+      "summary": "Stock Market Today, Sept. 16: Intel Jumps on SK Hynix Memory-Chip Manufacturing Talks &nbsp;&nbsp; finance.yahoo.com",
+      "publishedAt": "2026-09-16T21:29:59.000Z",
+      "source": "finance.yahoo.com",
+      "category": "Memory",
+      "keywords": [
+        "chip",
+        "intel",
+        "sk hynix",
+        "memory"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
       "title": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S.",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nZXBGVUVkY2NYNWFHNXVsYzNCbFBPUnFNNHhGdGdPV0trOWxwNDRKTUp0d1piMVpKdUFVY2NkYkxMUmVFMnUyeXBGT3U?oc=5",
-      "summary": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S. &nbsp;&nbsp; SK hynix",
+      "summary": "No plans have been confirmed regarding the reported talks between SK hynix and Intel on memory chip production in the U.S. &nbsp;&nbsp; news.skhynix.com",
       "publishedAt": "2026-09-16T20:13:40.000Z",
-      "source": "SK hynix",
+      "source": "news.skhynix.com",
       "category": "Memory",
       "keywords": [
         "chip",
@@ -1682,6 +1845,23 @@
       "source": "MacTrast",
       "category": "Memory",
       "keywords": [
+        "intel",
+        "sk hynix",
+        "memory"
+      ],
+      "importanceScore": 7,
+      "importance": "Medium",
+      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
+    },
+    {
+      "title": "Intel Can Join Memory-Chip Boom With SK Hynix. Why the Stock Can Double.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2pUS09nVnNaUjhVVHZ5SzlLVTVrd2hTVGtycDloeWR5T2lXbkY5eFBVdzFobS1LMVdidW9LQ3FjSnluVGFMM1dvRnZNV185d25OOHB2aS04ZGd0M2VUMUVSd185QzhfV29QcDYwZFRQVDFKUW1KVXJrZXk5VmprMVdyTmROd0JtOG1VRVVMZw?oc=5",
+      "summary": "Intel Can Join Memory-Chip Boom With SK Hynix. Why the Stock Can Double. &nbsp;&nbsp; Barron's",
+      "publishedAt": "2026-09-16T18:30:00.000Z",
+      "source": "Barron's",
+      "category": "Memory",
+      "keywords": [
+        "chip",
         "intel",
         "sk hynix",
         "memory"
@@ -1761,9 +1941,9 @@
     {
       "title": "Intel & SK Hynix Explore U.S. Memory Chip Partnership",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3RZN0NIWGRuNHJxYWNYTXdaNTVvaUl1RGhTSHJXMGtUUVREZ1ZBampfQUEtZTRtSzBUUGVrN1FpRTRDVHU1NUMwNlZSYWtxUERnbzdkLVdxWjM5NEw0WWZoTEtEbF9qVE94RHFtRVFKdTd1T3J6SHphYkQ3T0R4S2J5VkhYamVtX0dTZFlZd0o1a2lHUGUwdHpuUFFwd3Bjc1otVzYwcw?oc=5",
-      "summary": "Intel & SK Hynix Explore U.S. Memory Chip Partnership &nbsp;&nbsp; moomoo.com",
+      "summary": "Intel & SK Hynix Explore U.S. Memory Chip Partnership &nbsp;&nbsp; Moomoo",
       "publishedAt": "2026-09-16T16:20:46.000Z",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "category": "Memory",
       "keywords": [
         "chip",
@@ -1953,9 +2133,9 @@
     {
       "title": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXNPU0dRUmhmWHBMcGFkUWpRZzVuT05GQmp0NjR4UW9TUkJmSEZqaDVEMWxLYU0zaktvSS1fNGp0MVA5c1oyYkp6S2x6ckx4dzJwaHF1cHhVUndGRXprR2RpdE5Wdy1DOTRjUmVZOEtJMEhhZTJyOUVjUDI0cjZpUFJwNVBxZlpBSU1zMUNycUpEcEhMWFU2U2NiOWhGTXRCTTFYLUFPMG1VdFpHNVBaZWM3Y3d3OUFjS2ttaXc1YjFUS05ZczlhVE13elZqUlgzU2VIRVRGVm4?oc=5",
-      "summary": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel &nbsp;&nbsp; Yahoo Finance",
+      "summary": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel &nbsp;&nbsp; finance.yahoo.com",
       "publishedAt": "2026-09-16T12:58:28.000Z",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "category": "Memory",
       "keywords": [
         "intel",
@@ -2129,195 +2309,6 @@
       "source": "calcalistech.com",
       "category": "Memory",
       "keywords": [
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix Eyes $20bn Intel Ohio One Chip Plant as Memory Production Heads Stateside Amidst AI Boom",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkU2N3c4MTRNTGxYRmx0Y3VJbjZxOS1ReEk2LXB1VDhWbDJmUTQ4M0h4VkJ1REpGS0wwcVc1RHBaZWJHaDJGNXBjbnROeVBhQ1piLTRDaC1xbzM5bENvOHMweTRjRUFWUGNuSWJLSC1raTZiY2tXR3ZUNUJudTR4UEN0a19KQzBNQTR6eEdsWV9hS1pISXpnT0dSblpfZWJCcDRUVE9ZZ0VxSkNpT2ZTRGNSQng1MTNxeWJHWi0xYnN0VEV1LVhTV0Z2NG4yVEk?oc=5",
-      "summary": "SK Hynix Eyes $20bn Intel Ohio One Chip Plant as Memory Production Heads Stateside Amidst AI Boom &nbsp;&nbsp; Construction Review",
-      "publishedAt": "2026-09-16T10:57:33.000Z",
-      "source": "Construction Review",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Intel and SK Hynix discuss memory chip production in the US",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3lCalBfZ3ZLU0tSYnRaRE9DYWlvaWJiYkpGeExfaXlBTW5JX0t3d3ZlMmhncUI3djFiY1I5OTZpR2VVakl6cG83YmtmOTlBdVItc1hNclBOOVNXYVZwRm1rZFZlMS0tNWJpTGFXQVdOb2pkSmNPM2FTOENmc091MXJCTzlJaHY4dnRWdkJnX1Ztb0k?oc=5",
-      "summary": "Intel and SK Hynix discuss memory chip production in the US &nbsp;&nbsp; UA.NEWS",
-      "publishedAt": "2026-09-16T10:52:20.000Z",
-      "source": "UA.NEWS",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix, Intel Mull Memory Chip Making Deal in Ohio as US Pushes Semiconductor Production: Report (UPDATED)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmSXdzclFSV29INDVmT0h4dXI1ZE1qby03cXlXVE1LTFc1NmJZZ3FzZjB6RkZIUVREWTJVVkxnUTF0SjhQWWlUeG1Zd20tQUtzcDUyaW9XN243LURHYm5TZy1jSXA4S01F?oc=5",
-      "summary": "SK Hynix, Intel Mull Memory Chip Making Deal in Ohio as US Pushes Semiconductor Production: Report (UPDATED) &nbsp;&nbsp; TradingView",
-      "publishedAt": "2026-09-16T10:36:21.000Z",
-      "source": "TradingView",
-      "category": "Memory",
-      "keywords": [
-        "semiconductor",
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix and Intel may produce memory in the US",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVB5ak5qU2FjZWFSSG9CRGVBWF9HTlg2R1BPekdhc1ZCRVVyZmRUT3BqZkQzdzN0R0daSE5PMXRYUDlIdG9DTTNTeHRfenI1WWhadmI4MmRYSFRudWgwQVZMMGVUWlphM2ZDaGMyRTMxM1BINk5wZVczVi1vZkhwU01IRzQ?oc=5",
-      "summary": "SK Hynix and Intel may produce memory in the US &nbsp;&nbsp; UkrMedia News",
-      "publishedAt": "2026-09-16T10:16:26.000Z",
-      "source": "UkrMedia News",
-      "category": "Memory",
-      "keywords": [
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Intel up nearly 5% on reported SK Hynix US memory chip talks",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzBJYmttaThyb2otNUxpeTE2ZDhfX2F1UWZtQ2MzaVlmTGZBeU5nODdQQlVpWENXOVgwajQzeUxlbjZHd3NyN2lmVEtpNVlfZURIVF9QVlR5VEpWNXFfd1RiLTBLN2NqbDFaQnBWUXlOLUVBX1dpeHVwM0lIM2JOZWRTdVMxTDNBNmw4bXVOcDhpOE1aNzhmUlM3R0tEbklMekFPeEdCZUN0aTVOVVJrMmtmZ3N4QWpqZGZPX3VMeWN1M3laaE9Zc0RB?oc=5",
-      "summary": "Intel up nearly 5% on reported SK Hynix US memory chip talks &nbsp;&nbsp; Proactive financial news",
-      "publishedAt": "2026-09-16T10:13:00.000Z",
-      "source": "Proactive financial news",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Intel Can Join Memory-Chip Boom With SK Hynix. Why the Stock Can Double.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2pUS09nVnNaUjhVVHZ5SzlLVTVrd2hTVGtycDloeWR5T2lXbkY5eFBVdzFobS1LMVdidW9LQ3FjSnluVGFMM1dvRnZNV185d25OOHB2aS04ZGd0M2VUMUVSd185QzhfV29QcDYwZFRQVDFKUW1KVXJrZXk5VmprMVdyTmROd0JtOG1VRVVMZw?oc=5",
-      "summary": "Intel Can Join Memory-Chip Boom With SK Hynix. Why the Stock Can Double. &nbsp;&nbsp; Barron's",
-      "publishedAt": "2026-09-16T10:09:00.000Z",
-      "source": "Barron's",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix and Intel Shares Rise Following Report of US Memory Chip Manufacturing Talks",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXZJMkJVOU5WZ0oyT09FbzJOakdjTHEtVGdqWmp5TlZxa204RlN5ZzVaVUYzM2M0VDFpWVF3cnhjWENhTzl4TjVWZngtTFM1Yk9VNFUxNnRXbjlDMkwzbDV5cWl1dFdNVW5NWFhEaUY1TkpjQWhXOWgwa1ZTNVBVZWxOaHNSb2FvemM4cUhwbzhVNm5mSEE?oc=5",
-      "summary": "SK Hynix and Intel Shares Rise Following Report of US Memory Chip Manufacturing Talks &nbsp;&nbsp; Yahoo Finance",
-      "publishedAt": "2026-09-16T10:08:02.000Z",
-      "source": "Yahoo Finance",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix Says No Plans Confirmed For US Memory Chip Talks With Intel",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVFkyeDR5ZExZbFRuV1JjbFhFNXVVRENkSUdkOGdsVmhaQUttV2QyZ2VEa2VBalRick5kT3o2M2hUOHpEalJLb0tFSEVsVzZmUGUtdXBieGN6NWs2U25sRkRKMVIyRTVSUTZLUVd4V2xqTG5YekdleXBnYkFKdnctWDU2MVBhSmhTNlJ5bXVUOEYzT2NXYjFCS2ktR1h0NWNrQ1RZMi0xckVpb2twc2s5MUUweDBDZ25kV0tLalo1MHExM0htN3BaUTlnazFMeWpxbWNwZA?oc=5",
-      "summary": "SK Hynix Says No Plans Confirmed For US Memory Chip Talks With Intel &nbsp;&nbsp; TradingView",
-      "publishedAt": "2026-09-16T10:02:46.000Z",
-      "source": "TradingView",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix in Talks With Intel to Make Memory Chips in the U.S.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnlQeU1FaEhaczFiQXdkTDlBRmN3U2JOajRLTi1uU3pIT2ZLWnVNaFAtUE4yaVpSTjdoVmRTcVFyR1NnWlRrRzN5cWUzR3l0eUZFVjhlVFNraGtJWFp1YzZSWmFTRFE1NndnN0c0X3REMHQxcU53UWhKVjAwSEtoTEUwR2s0TjBmN2c0?oc=5",
-      "summary": "SK Hynix in Talks With Intel to Make Memory Chips in the U.S. &nbsp;&nbsp; The Information",
-      "publishedAt": "2026-09-16T09:49:00.000Z",
-      "source": "The Information",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "chips",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "SK Hynix is in talks with Intel to make memory chips in the US, Reuters reports",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TNk1KZHRGTXBpRDdac3dtM0xpY2Z1S0VDM3diRlRnczE1XzJobl92OHloZ3lWWWxKWUd5WUxsZTRaaWFCV3l2R1k2RmJYSEhuYUZRbnVZbFlPR3Y1NFdRS1l4TFVjcm5jM2RzNm5TQzVXYnBuMEsweQ?oc=5",
-      "summary": "SK Hynix is in talks with Intel to make memory chips in the US, Reuters reports &nbsp;&nbsp; The Next Web",
-      "publishedAt": "2026-09-16T09:23:40.000Z",
-      "source": "The Next Web",
-      "category": "Memory",
-      "keywords": [
-        "chip",
-        "chips",
-        "intel",
-        "sk hynix",
-        "memory"
-      ],
-      "importanceScore": 7,
-      "importance": "Medium",
-      "whyImportant": "AI memory supply is a key bottleneck for accelerator demand."
-    },
-    {
-      "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55T19qVTR2OGlMZzBXYUNrM0U1dExRSkNINjA3LU9LcHlscXBvSGxIVUtSOFdmaGpFR0RZSWRIQVhMeXlpUlQ1ZmJWR1VkNTBwVTZqRG1aTzFxRWJhYjVTTmE5dFltNGJITThsMGs0TkJkOHF6SkHSAXtBVV95cUxPZW5KZmVLS2FIRlZkSlcxR25xcC1GU1N0YVBWaC1DNFRqM3dUSHJZLUczU1QxQnBNTWt1RU9vTUM1SG53ZkFuQ3dGaE1UYzBwYjFjcVZJdjI5cDJ5cHNrcEhyTEdreHRld01uSC1wb2JMS1A2bGsycG1XaXM?oc=5",
-      "summary": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing &nbsp;&nbsp; CNBC",
-      "publishedAt": "2026-09-16T09:08:55.000Z",
-      "source": "CNBC",
-      "category": "Memory",
-      "keywords": [
-        "chip",
         "intel",
         "sk hynix",
         "memory"
